@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Raio-X: Comparador Automático</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #121212;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 { color: #bb86fc; border-bottom: 2px solid #333; padding-bottom: 10px; }
+        .panel {
+            background-color: #1e1e1e;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border: 1px solid #333;
+        }
+        select {
+            background: #333; color: #fff; padding: 8px; border: 1px solid #555;
+            border-radius: 4px; font-size: 16px; min-width: 200px;
+        }
+        table {
+            width: 100%; border-collapse: collapse; margin-top: 20px;
+            background-color: #1e1e1e; font-size: 14px;
+        }
+        th, td { border: 1px solid #333; padding: 10px; text-align: left; }
+        th { background-color: #2c2c2c; color: #bb86fc; position: sticky; top: 0; }
+        
+        .status-igual { color: #888; }
+        .status-novo { background-color: rgba(3, 218, 198, 0.15); border-left: 4px solid #03dac6; }
+        .status-mudou { background-color: rgba(255, 171, 0, 0.15); border-left: 4px solid #ffab00; }
+        .destaque { font-weight: bold; color: #fff; }
+        .golpes { color: #aaa; font-size: 12px; display: block; margin-top: 4px; }
+        .estimador { color: #cf6679; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <h1>🔍 Raio-X Automático: Antigo vs Novo</h1>
+
+    <div class="panel" id="loading">
+        <p>⏳ Carregando arquivos automaticamente...</p>
+    </div>
+
+    <div class="panel" id="controls" style="display: none;">
+        <p style="color: #03dac6;">✔️ Arquivos carregados com sucesso!</p>
+        <label><b>Escolha a Categoria (Cenário) para comparar:</b></label><br><br>
+        <select id="catSelect"></select>
+    </div>
+
+    <div id="resultado"></div>
+
+    <script>
+        // 🎯 AQUI ESTÃO OS SEUS CAMINHOS HARDCODED
+        const caminhoAntigo = './antigo.json';
+        const caminhoNovo = './json/simulacao_pve10/counters_pidgeot_(mega)_t1.json';
+
+        let jsonOld = null;
+        let jsonNew = null;
+
+        document.getElementById('catSelect').addEventListener('change', compararListas);
+
+        // Função que roda automaticamente quando a página abre
+        window.onload = async function() {
+            try {
+                // Tenta puxar o arquivo Antigo
+                const resOld = await fetch(caminhoAntigo);
+                if (!resOld.ok) throw new Error("Não foi possível ler o antigo.json");
+                jsonOld = await resOld.json();
+
+                // Tenta puxar o arquivo Novo
+                const resNew = await fetch(caminhoNovo);
+                if (!resNew.ok) throw new Error("Não foi possível ler o counters_pidgeot_novo");
+                jsonNew = await resNew.json();
+
+                // Se deu tudo certo, esconde o 'carregando' e monta o menu
+                document.getElementById('loading').style.display = 'none';
+                montarDropdown();
+
+            } catch (error) {
+                document.getElementById('loading').innerHTML = `<p style="color: #ffab00;"><b>❌ Erro:</b> ${error.message}</p>
+                <p style="font-size: 14px; color: #aaa;">Lembre-se: Você precisa abrir este arquivo usando a extensão <b>Live Server</b> do VS Code.</p>`;
+            }
+        };
+
+        function montarDropdown() {
+            const select = document.getElementById('catSelect');
+            select.innerHTML = '<option value="">-- Selecione uma Categoria --</option>';
+            
+            // Pega todas as chaves (categorias) que existem nos dois arquivos
+            const todasCategorias = [...new Set([...Object.keys(jsonOld), ...Object.keys(jsonNew)])].sort();
+
+            todasCategorias.forEach(cat => {
+                const option = document.createElement('option');
+                option.value = cat;
+                
+                // Avisa se for uma categoria totalmente nova que não tinha no antigo
+                if(!jsonOld[cat]) option.text = `⭐ NOVA: ${cat}`;
+                else option.text = cat;
+                
+                select.appendChild(option);
+            });
+
+            document.getElementById('controls').style.display = 'block';
+        }
+
+        function compararListas() {
+            const cat = document.getElementById('catSelect').value;
+            const resDiv = document.getElementById('resultado');
+            if (!cat) { resDiv.innerHTML = ""; return; }
+
+            const listaOld = jsonOld[cat] || [];
+            const listaNew = jsonNew[cat] || [];
+            const maxLength = Math.max(listaOld.length, listaNew.length);
+
+            let html = `<table>
+                <thead>
+                    <tr>
+                        <th width="5%">Top</th>
+                        <th width="40%">🔴 ARQUIVO ANTIGO</th>
+                        <th width="40%">🟢 ARQUIVO NOVO</th>
+                        <th width="15%">Análise</th>
+                    </tr>
+                </thead>
+                <tbody>`;
+
+            for (let i = 0; i < maxLength; i++) {
+                const itemOld = listaOld[i];
+                const itemNew = listaNew[i];
+                
+                let classeLinha = "";
+                let analise = "";
+
+                // Formatação visual do Pokémon e Golpes
+                const formataPkm = (p) => p ? `<span class="destaque">${p.n}</span> <span class="estimador">(Est: ${p.e.toFixed(2)})</span><br><span class="golpes">⚔️ ${p.f} + ${p.c}</span>` : `<span style="color:#555;">[Vazio]</span>`;
+
+                if (!itemOld && itemNew) {
+                    classeLinha = "status-novo";
+                    analise = "⭐ Combo Adicionado";
+                } else if (itemOld && !itemNew) {
+                    classeLinha = "status-mudou";
+                    analise = "❌ Combo Removido";
+                } else {
+                    // Se a mesma posição tem o mesmo Pkm e os mesmos golpes
+                    if (itemOld.i === itemNew.i && itemOld.f === itemNew.f && itemOld.c === itemNew.c) {
+                        if (itemOld.e === itemNew.e) {
+                            classeLinha = "status-igual";
+                            analise = "Idêntico ✔️";
+                        } else {
+                            classeLinha = "status-mudou";
+                            analise = "RNG Variou 🎲";
+                        }
+                    } else {
+                        // Alguém ultrapassou ou caiu de posição
+                        classeLinha = "status-novo";
+                        analise = "🏆 Dança das Cadeiras";
+                    }
+                }
+
+                html += `<tr class="${classeLinha}">
+                    <td style="text-align:center; font-weight:bold; color:#777;">#${i + 1}</td>
+                    <td>${formataPkm(itemOld)}</td>
+                    <td>${formataPkm(itemNew)}</td>
+                    <td><b>${analise}</b></td>
+                </tr>`;
+            }
+
+            html += `</tbody></table>`;
+            resDiv.innerHTML = html;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+{
+        "dex": 18,
+        "speciesName": "Pidgeot",
+        "speciesId": "pidgeot",
+        "baseStats": {
+            "atk": 166,
+            "def": 154,
+            "hp": 195
+        },
+        "types": ["normal", "flying"],
+        "fastMoves": ["AIR_SLASH", "STEEL_WING", "WING_ATTACK", "GUST"],
+        "chargedMoves": ["AERIAL_ACE", "AIR_CUTTER", "BRAVE_BIRD", "HURRICANE", "FEATHER_DANCE", "HEAT_WAVE"],
+        "defaultIVs": {
+            "cp500": [9, 4, 9, 14],
+            "cp1500": [26.5, 4, 14, 12],
+            "cp2500": [50, 15, 15, 15]
+        },
+        "eliteMoves": ["WING_ATTACK", "AIR_CUTTER", "GUST"],
+        "searchPriority": 2,
+        "buddyDistance": 1,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_PIDGEY",
+            "parent": "pidgeotto"
+        },
+        "level25CP": 1283,
+        "tags": ["shadoweligible"]
+    },
+
+novo "HEAT_WAVE"

@@ -1,0 +1,1007 @@
+========================================================
+🕵️ RELATÓRIO DE AUDITORIA DE SANIDADE - MOTOR V10
+Data: 08/05/2026, 18:21:58
+Total de arquivos analisados: 5397
+========================================================
+
+⚠️ FICHEIRO: counters_azurill_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [bubble_body_slam] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [splash_body_slam] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [splash_bubble_beam] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [splash_ice_beam] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+
+⚠️ FICHEIRO: counters_barboach_t1.json
+   ➔ [average] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [mud_shot_aqua_tail] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [mud_shot_ice_beam] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [mud_shot_mud_bomb] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [mud_shot_scald] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [water_gun_aqua_tail] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [water_gun_ice_beam] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [water_gun_mud_bomb] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [water_gun_scald] DPS impossível: 142.86 (Sceptile (Mega))
+
+⚠️ FICHEIRO: counters_barboach_t2.json
+   ➔ [mud_shot_ice_beam] DPS impossível: 124.91 (Sceptile (Mega))
+   ➔ [water_gun_ice_beam] DPS impossível: 125.59 (Sceptile (Mega))
+
+⚠️ FICHEIRO: counters_barboach_t5.json
+   ➔ [mud_shot_scald] Imortalidade detectada: 0 mortes contra Tier 5 (Sceptile (Mega))
+   ➔ [water_gun_scald] Imortalidade detectada: 0 mortes contra Tier 5 (Sceptile (Mega))
+
+⚠️ FICHEIRO: counters_bellsprout_t2.json
+   ➔ [acid_sludge_bomb] DPS impossível: 126.52 (Rayquaza (Mega))
+   ➔ [vine_whip_sludge_bomb] DPS impossível: 128.38 (Rayquaza (Mega))
+
+⚠️ FICHEIRO: counters_bellsprout_t3.json
+   ➔ [acid_sludge_bomb] DPS impossível: 122.3 (Rayquaza (Mega))
+   ➔ [vine_whip_sludge_bomb] DPS impossível: 120.86 (Rayquaza (Mega))
+
+⚠️ FICHEIRO: counters_bellsprout_t5.json
+   ➔ [average] DPS impossível: 120.96 (Blacephalon)
+   ➔ [acid_power_whip] DPS impossível: 121.04 (Blacephalon)
+   ➔ [acid_sludge_bomb] DPS impossível: 120.92 (Blacephalon)
+   ➔ [vine_whip_power_whip] DPS impossível: 121.57 (Blacephalon)
+   ➔ [vine_whip_sludge_bomb] DPS impossível: 121.42 (Blacephalon)
+
+⚠️ FICHEIRO: counters_blipbug_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [struggle_bug_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_bramblin_t1.json
+   ➔ [astonish_night_shade] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [astonish_power_whip] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [astonish_shadow_sneak] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [average] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [bullet_seed_night_shade] DPS impossível: 121.38 (Gengar (Mega))
+   ➔ [bullet_seed_power_whip] DPS impossível: 121.52 (Gengar (Mega))
+
+⚠️ FICHEIRO: counters_bramblin_t2.json
+   ➔ [astonish_night_shade] DPS impossível: 121.03 (Blacephalon)
+   ➔ [bullet_seed_night_shade] DPS impossível: 121.31 (Blacephalon)
+
+⚠️ FICHEIRO: counters_burmy_(plant)_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [tackle_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_burmy_(sandy)_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [tackle_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_burmy_(trash)_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [tackle_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_carvanha_t1.json
+   ➔ [average] DPS impossível: 190.48 (Lucario (Mega))
+   ➔ [bite_aqua_jet] DPS impossível: 190.48 (Lucario (Mega))
+   ➔ [bite_crunch] DPS impossível: 190.48 (Lucario (Mega))
+   ➔ [bite_poison_fang] DPS impossível: 190.48 (Lucario (Mega))
+   ➔ [snarl_aqua_jet] DPS impossível: 190.48 (Lucario (Mega))
+   ➔ [snarl_crunch] DPS impossível: 190.48 (Lucario (Mega))
+   ➔ [snarl_poison_fang] DPS impossível: 190.48 (Lucario (Mega))
+
+⚠️ FICHEIRO: counters_carvanha_t2.json
+   ➔ [average] DPS impossível: 150.73 (Blaziken (Mega))
+   ➔ [bite_aqua_jet] DPS impossível: 151.34 (Blaziken (Mega))
+   ➔ [bite_crunch] DPS impossível: 149.82 (Blaziken (Mega))
+   ➔ [bite_poison_fang] DPS impossível: 143.97 (Blaziken (Mega))
+   ➔ [snarl_aqua_jet] DPS impossível: 156.85 (Blaziken (Mega))
+   ➔ [snarl_crunch] DPS impossível: 152.88 (Blaziken (Mega))
+   ➔ [snarl_poison_fang] DPS impossível: 144.01 (Blaziken (Mega))
+
+⚠️ FICHEIRO: counters_carvanha_t3.json
+   ➔ [average] DPS impossível: 148.28 (Lucario (Mega))
+   ➔ [bite_aqua_jet] DPS impossível: 148.61 (Lucario (Mega))
+   ➔ [bite_crunch] DPS impossível: 150.17 (Lucario (Mega))
+   ➔ [bite_poison_fang] DPS impossível: 139.81 (Lucario (Mega))
+   ➔ [snarl_aqua_jet] DPS impossível: 149.45 (Lucario (Mega))
+   ➔ [snarl_crunch] DPS impossível: 149.35 (Lucario (Mega))
+   ➔ [snarl_poison_fang] DPS impossível: 139.9 (Lucario (Mega))
+
+⚠️ FICHEIRO: counters_carvanha_t5.json
+   ➔ [average] DPS impossível: 134.43 (Lucario (Mega))
+   ➔ [bite_aqua_jet] DPS impossível: 134.6 (Lucario (Mega))
+   ➔ [bite_crunch] DPS impossível: 134.33 (Lucario (Mega))
+   ➔ [bite_poison_fang] DPS impossível: 133.61 (Lucario (Mega))
+   ➔ [snarl_aqua_jet] DPS impossível: 134.97 (Lucario (Mega))
+   ➔ [snarl_crunch] DPS impossível: 134.24 (Lucario (Mega))
+   ➔ [snarl_poison_fang] DPS impossível: 133.5 (Lucario (Mega))
+
+⚠️ FICHEIRO: counters_cascoon_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [poison_sting_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_caterpie_t2.json
+   ➔ [average] DPS impossível: 123.71 (Blacephalon)
+   ➔ [bug_bite_struggle] DPS impossível: 123.71 (Blacephalon)
+   ➔ [tackle_struggle] DPS impossível: 123.71 (Blacephalon)
+
+⚠️ FICHEIRO: counters_caterpie_t3.json
+   ➔ [average] DPS impossível: 127.43 (Blacephalon)
+   ➔ [bug_bite_struggle] DPS impossível: 127.57 (Blacephalon)
+   ➔ [tackle_struggle] DPS impossível: 127.7 (Blacephalon)
+
+⚠️ FICHEIRO: counters_caterpie_t5.json
+   ➔ [average] DPS impossível: 130.62 (Blacephalon)
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] DPS impossível: 130.61 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [tackle_struggle] DPS impossível: 130.63 (Blacephalon)
+   ➔ [tackle_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_cosmog_t1.json
+   ➔ [average] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [splash_struggle] DPS impossível: 142.86 (Gengar (Mega))
+
+⚠️ FICHEIRO: counters_cosmog_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [splash_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_croagunk_t1.json
+   ➔ [average] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [poison_jab_brick_break] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [poison_jab_low_sweep] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [poison_jab_sludge_bomb] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [poison_sting_brick_break] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [poison_sting_low_sweep] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [poison_sting_sludge_bomb] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [mud_shot_brick_break] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [mud_shot_low_sweep] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [mud_shot_sludge_bomb] DPS impossível: 155.84 (Alakazam (Mega))
+
+⚠️ FICHEIRO: counters_croagunk_t2.json
+   ➔ [average] DPS impossível: 145.89 (Mewtwo (Shadow))
+   ➔ [mud_shot_brick_break] DPS impossível: 131.81 (Mewtwo (Shadow))
+   ➔ [mud_shot_low_sweep] DPS impossível: 127.01 (Alakazam (Mega))
+   ➔ [mud_shot_sludge_bomb] DPS impossível: 142.09 (Alakazam (Mega))
+   ➔ [poison_jab_brick_break] DPS impossível: 145.63 (Mewtwo (Shadow))
+   ➔ [poison_jab_low_sweep] DPS impossível: 144.14 (Mewtwo (Shadow))
+   ➔ [poison_jab_sludge_bomb] DPS impossível: 151.42 (Mewtwo (Shadow))
+   ➔ [poison_sting_brick_break] DPS impossível: 131.87 (Mewtwo (Shadow))
+   ➔ [poison_sting_low_sweep] DPS impossível: 126.76 (Alakazam (Mega))
+   ➔ [poison_sting_sludge_bomb] DPS impossível: 141.9 (Alakazam (Mega))
+
+⚠️ FICHEIRO: counters_croagunk_t3.json
+   ➔ [average] DPS impossível: 130.48 (Mewtwo (Shadow))
+   ➔ [mud_shot_brick_break] DPS impossível: 126.16 (Mewtwo (Shadow))
+   ➔ [mud_shot_low_sweep] DPS impossível: 125.34 (Mewtwo (Shadow))
+   ➔ [mud_shot_sludge_bomb] DPS impossível: 141.82 (Mewtwo (Shadow))
+   ➔ [poison_jab_brick_break] DPS impossível: 130.53 (Mewtwo (Shadow))
+   ➔ [poison_jab_low_sweep] DPS impossível: 130.43 (Mewtwo (Shadow))
+   ➔ [poison_jab_sludge_bomb] DPS impossível: 140.4 (Mewtwo (Shadow))
+   ➔ [poison_sting_brick_break] DPS impossível: 126.31 (Mewtwo (Shadow))
+   ➔ [poison_sting_low_sweep] DPS impossível: 125.59 (Mewtwo (Shadow))
+   ➔ [poison_sting_sludge_bomb] DPS impossível: 142.06 (Mewtwo (Shadow))
+
+⚠️ FICHEIRO: counters_croagunk_t5.json
+   ➔ [average] DPS impossível: 126.75 (Mewtwo (Shadow))
+   ➔ [mud_shot_brick_break] DPS impossível: 125.39 (Mewtwo (Shadow))
+   ➔ [mud_shot_low_sweep] DPS impossível: 125.32 (Mewtwo (Shadow))
+   ➔ [mud_shot_sludge_bomb] DPS impossível: 129.54 (Mewtwo (Shadow))
+   ➔ [poison_jab_brick_break] DPS impossível: 126.69 (Mewtwo (Shadow))
+   ➔ [poison_jab_low_sweep] DPS impossível: 126.42 (Mewtwo (Shadow))
+   ➔ [poison_jab_sludge_bomb] DPS impossível: 130.29 (Mewtwo (Shadow))
+   ➔ [poison_sting_brick_break] DPS impossível: 125.38 (Mewtwo (Shadow))
+   ➔ [poison_sting_low_sweep] DPS impossível: 125.36 (Mewtwo (Shadow))
+   ➔ [poison_sting_sludge_bomb] DPS impossível: 129.52 (Mewtwo (Shadow))
+
+⚠️ FICHEIRO: counters_deoxys_(attack)_t1.json
+   ➔ [average] DPS impossível: 181.82 (Pheromosa)
+   ➔ [poison_jab_dark_pulse] DPS impossível: 181.82 (Pheromosa)
+   ➔ [poison_jab_psycho_boost] DPS impossível: 181.82 (Pheromosa)
+   ➔ [poison_jab_zap_cannon] DPS impossível: 181.82 (Pheromosa)
+   ➔ [zen_headbutt_dark_pulse] DPS impossível: 218.18 (Pheromosa)
+   ➔ [zen_headbutt_psycho_boost] DPS impossível: 218.18 (Pheromosa)
+   ➔ [zen_headbutt_zap_cannon] DPS impossível: 218.18 (Pheromosa)
+
+⚠️ FICHEIRO: counters_deoxys_(attack)_t2.json
+   ➔ [poison_jab_zap_cannon] DPS impossível: 123.47 (Necrozma (Dawn Wings))
+   ➔ [zen_headbutt_zap_cannon] DPS impossível: 123.66 (Necrozma (Dawn Wings))
+
+⚠️ FICHEIRO: counters_dreepy_t1.json
+   ➔ [astonish_struggle] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [average] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [quick_attack_struggle] DPS impossível: 142.86 (Gengar (Mega))
+
+⚠️ FICHEIRO: counters_flittle_t1.json
+   ➔ [average] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [confusion_psybeam] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [confusion_psychic] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [confusion_psyshock] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [peck_psybeam] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [peck_psychic] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [peck_psyshock] DPS impossível: 142.86 (Gengar (Mega))
+
+⚠️ FICHEIRO: counters_gastly_t1.json
+   ➔ [average] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [astonish_dark_pulse] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [astonish_night_shade] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [astonish_ominous_wind] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [astonish_sludge_bomb] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [lick_dark_pulse] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [lick_night_shade] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [lick_ominous_wind] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [lick_sludge_bomb] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [sucker_punch_dark_pulse] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [sucker_punch_night_shade] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [sucker_punch_ominous_wind] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [sucker_punch_sludge_bomb] DPS impossível: 136.36 (Gengar (Mega))
+
+⚠️ FICHEIRO: counters_gible_t1.json
+   ➔ [average] DPS impossível: 129.03 (Darmanitan (Galarian Zen))
+   ➔ [mud_shot_body_slam] DPS impossível: 129.03 (Darmanitan (Galarian Zen))
+   ➔ [mud_shot_dig] DPS impossível: 129.03 (Darmanitan (Galarian Zen))
+   ➔ [mud_shot_twister] DPS impossível: 129.03 (Darmanitan (Galarian Zen))
+   ➔ [take_down_body_slam] DPS impossível: 129.03 (Darmanitan (Galarian Zen))
+   ➔ [take_down_dig] DPS impossível: 129.03 (Darmanitan (Galarian Zen))
+   ➔ [take_down_twister] DPS impossível: 129.03 (Darmanitan (Galarian Zen))
+
+⚠️ FICHEIRO: counters_glimmet_t1.json
+   ➔ [average] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [rock_throw_dazzling_gleam] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [rock_throw_power_gem] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [rock_throw_sludge_wave] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [smack_down_dazzling_gleam] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [smack_down_power_gem] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [smack_down_sludge_wave] DPS impossível: 136.36 (Garchomp (Mega))
+
+⚠️ FICHEIRO: counters_growlithe_(hisuian)_t1.json
+   ➔ [average] DPS impossível: 136.36 (Garchomp (Shadow))
+   ➔ [bite_rock_slide] DPS impossível: 136.36 (Garchomp (Shadow))
+   ➔ [bite_crunch] DPS impossível: 136.36 (Garchomp (Shadow))
+   ➔ [bite_flamethrower] DPS impossível: 136.36 (Garchomp (Shadow))
+   ➔ [ember_rock_slide] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [ember_crunch] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [ember_flamethrower] DPS impossível: 136.36 (Garchomp (Mega))
+
+⚠️ FICHEIRO: counters_igglybuff_t1.json
+   ➔ [average] DPS impossível: 181.82 (Metagross)
+   ➔ [feint_attack_body_slam] DPS impossível: 181.82 (Metagross)
+   ➔ [feint_attack_psychic] DPS impossível: 181.82 (Metagross)
+   ➔ [feint_attack_shadow_ball] DPS impossível: 181.82 (Metagross)
+   ➔ [feint_attack_wild_charge] DPS impossível: 181.82 (Metagross)
+   ➔ [feint_attack_swift] DPS impossível: 181.82 (Metagross)
+   ➔ [pound_body_slam] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [pound_psychic] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [pound_shadow_ball] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [pound_wild_charge] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [pound_swift] DPS impossível: 155.84 (Alakazam (Mega))
+
+⚠️ FICHEIRO: counters_igglybuff_t2.json
+   ➔ [average] DPS impossível: 174.82 (Necrozma (Dusk Mane))
+   ➔ [feint_attack_body_slam] DPS impossível: 174.65 (Necrozma (Dusk Mane))
+   ➔ [feint_attack_psychic] DPS impossível: 171.24 (Zacian (Crowned Sword))
+   ➔ [feint_attack_shadow_ball] DPS impossível: 185.19 (Necrozma (Dusk Mane))
+   ➔ [feint_attack_wild_charge] DPS impossível: 178.72 (Necrozma (Dusk Mane))
+   ➔ [feint_attack_swift] DPS impossível: 171.22 (Zacian (Crowned Sword))
+   ➔ [pound_body_slam] DPS impossível: 171.08 (Necrozma (Dusk Mane))
+   ➔ [pound_psychic] DPS impossível: 169.92 (Necrozma (Dusk Mane))
+   ➔ [pound_shadow_ball] DPS impossível: 183.19 (Necrozma (Dusk Mane))
+   ➔ [pound_wild_charge] DPS impossível: 176.82 (Necrozma (Dusk Mane))
+   ➔ [pound_swift] DPS impossível: 169.95 (Necrozma (Dusk Mane))
+
+⚠️ FICHEIRO: counters_igglybuff_t3.json
+   ➔ [average] DPS impossível: 151.74 (Necrozma (Dusk Mane))
+   ➔ [feint_attack_body_slam] DPS impossível: 151.58 (Necrozma (Dusk Mane))
+   ➔ [feint_attack_psychic] DPS impossível: 150.15 (Necrozma (Dusk Mane))
+   ➔ [feint_attack_shadow_ball] DPS impossível: 165.45 (Necrozma (Dusk Mane))
+   ➔ [feint_attack_wild_charge] DPS impossível: 158.04 (Necrozma (Dusk Mane))
+   ➔ [feint_attack_swift] DPS impossível: 150.64 (Necrozma (Dusk Mane))
+   ➔ [pound_body_slam] DPS impossível: 149.59 (Necrozma (Dusk Mane))
+   ➔ [pound_psychic] DPS impossível: 146.72 (Zacian (Crowned Sword))
+   ➔ [pound_shadow_ball] DPS impossível: 163.96 (Necrozma (Dusk Mane))
+   ➔ [pound_wild_charge] DPS impossível: 155.68 (Necrozma (Dusk Mane))
+   ➔ [pound_swift] DPS impossível: 149.3 (Necrozma (Dusk Mane))
+
+⚠️ FICHEIRO: counters_igglybuff_t5.json
+   ➔ [average] DPS impossível: 157.52 (Zacian (Crowned Sword))
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [feint_attack_body_slam] DPS impossível: 157.41 (Zacian (Crowned Sword))
+   ➔ [feint_attack_body_slam] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [feint_attack_psychic] DPS impossível: 157.6 (Zacian (Crowned Sword))
+   ➔ [feint_attack_psychic] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [feint_attack_shadow_ball] DPS impossível: 156.2 (Zacian (Crowned Sword))
+   ➔ [feint_attack_wild_charge] DPS impossível: 156.52 (Zacian (Crowned Sword))
+   ➔ [feint_attack_swift] DPS impossível: 158.1 (Zacian (Crowned Sword))
+   ➔ [feint_attack_swift] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [pound_body_slam] DPS impossível: 158.34 (Zacian (Crowned Sword))
+   ➔ [pound_body_slam] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [pound_psychic] DPS impossível: 158.63 (Zacian (Crowned Sword))
+   ➔ [pound_psychic] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [pound_shadow_ball] DPS impossível: 158.28 (Zacian (Crowned Sword))
+   ➔ [pound_wild_charge] DPS impossível: 156.33 (Zacian (Crowned Sword))
+   ➔ [pound_swift] DPS impossível: 158.74 (Zacian (Crowned Sword))
+   ➔ [pound_swift] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+
+⚠️ FICHEIRO: counters_inkay_t1.json
+   ➔ [average] DPS impossível: 155.84 (Pheromosa)
+   ➔ [peck_psybeam] DPS impossível: 155.84 (Pheromosa)
+   ➔ [peck_night_slash] DPS impossível: 155.84 (Pheromosa)
+   ➔ [tackle_psybeam] DPS impossível: 136.36 (Pheromosa)
+   ➔ [tackle_night_slash] DPS impossível: 136.36 (Pheromosa)
+   ➔ [psywave_psybeam] DPS impossível: 136.36 (Pheromosa)
+   ➔ [psywave_night_slash] DPS impossível: 136.36 (Pheromosa)
+
+⚠️ FICHEIRO: counters_jigglypuff_t1.json
+   ➔ [average] DPS impossível: 181.82 (Metagross (Shadow))
+   ➔ [feint_attack_body_slam] DPS impossível: 181.82 (Metagross (Shadow))
+   ➔ [feint_attack_dazzling_gleam] DPS impossível: 181.82 (Metagross (Shadow))
+   ➔ [feint_attack_disarming_voice] DPS impossível: 181.82 (Metagross (Shadow))
+   ➔ [feint_attack_gyro_ball] DPS impossível: 181.82 (Metagross (Shadow))
+   ➔ [feint_attack_play_rough] DPS impossível: 181.82 (Metagross (Shadow))
+   ➔ [feint_attack_swift] DPS impossível: 181.82 (Metagross (Shadow))
+   ➔ [pound_body_slam] DPS impossível: 155.84 (Metagross (Shadow))
+   ➔ [pound_dazzling_gleam] DPS impossível: 155.84 (Metagross (Shadow))
+   ➔ [pound_disarming_voice] DPS impossível: 155.84 (Metagross (Shadow))
+   ➔ [pound_gyro_ball] DPS impossível: 155.84 (Metagross (Shadow))
+   ➔ [pound_play_rough] DPS impossível: 155.84 (Metagross (Shadow))
+   ➔ [pound_swift] DPS impossível: 155.84 (Metagross (Shadow))
+
+⚠️ FICHEIRO: counters_jigglypuff_t2.json
+   ➔ [average] DPS impossível: 170.12 (Zacian (Crowned Sword))
+   ➔ [feint_attack_body_slam] DPS impossível: 170.32 (Zacian (Crowned Sword))
+   ➔ [feint_attack_dazzling_gleam] DPS impossível: 169.68 (Zacian (Crowned Sword))
+   ➔ [feint_attack_disarming_voice] DPS impossível: 170.29 (Zacian (Crowned Sword))
+   ➔ [feint_attack_gyro_ball] DPS impossível: 172.34 (Zacian (Crowned Sword))
+   ➔ [feint_attack_play_rough] DPS impossível: 169.52 (Zacian (Crowned Sword))
+   ➔ [feint_attack_swift] DPS impossível: 169.67 (Zacian (Crowned Sword))
+   ➔ [pound_body_slam] DPS impossível: 171.16 (Zacian (Crowned Sword))
+   ➔ [pound_dazzling_gleam] DPS impossível: 172.01 (Zacian (Crowned Sword))
+   ➔ [pound_disarming_voice] DPS impossível: 171.38 (Zacian (Crowned Sword))
+   ➔ [pound_gyro_ball] DPS impossível: 176.2 (Zacian (Crowned Sword))
+   ➔ [pound_play_rough] DPS impossível: 171.63 (Zacian (Crowned Sword))
+   ➔ [pound_swift] DPS impossível: 169.81 (Zacian (Crowned Sword))
+
+⚠️ FICHEIRO: counters_jigglypuff_t3.json
+   ➔ [average] DPS impossível: 145.9 (Zacian (Crowned Sword))
+   ➔ [feint_attack_body_slam] DPS impossível: 145.97 (Zacian (Crowned Sword))
+   ➔ [feint_attack_dazzling_gleam] DPS impossível: 147.78 (Zacian (Crowned Sword))
+   ➔ [feint_attack_disarming_voice] DPS impossível: 146.1 (Zacian (Crowned Sword))
+   ➔ [feint_attack_gyro_ball] DPS impossível: 149.88 (Zacian (Crowned Sword))
+   ➔ [feint_attack_play_rough] DPS impossível: 148.34 (Zacian (Crowned Sword))
+   ➔ [feint_attack_swift] DPS impossível: 145.86 (Zacian (Crowned Sword))
+   ➔ [pound_body_slam] DPS impossível: 146.72 (Zacian (Crowned Sword))
+   ➔ [pound_dazzling_gleam] DPS impossível: 148.86 (Zacian (Crowned Sword))
+   ➔ [pound_disarming_voice] DPS impossível: 146.52 (Zacian (Crowned Sword))
+   ➔ [pound_gyro_ball] DPS impossível: 151.11 (Zacian (Crowned Sword))
+   ➔ [pound_play_rough] DPS impossível: 149.59 (Zacian (Crowned Sword))
+   ➔ [pound_swift] DPS impossível: 146.42 (Zacian (Crowned Sword))
+
+⚠️ FICHEIRO: counters_jigglypuff_t5.json
+   ➔ [average] DPS impossível: 129.66 (Zacian (Crowned Sword))
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [feint_attack_body_slam] DPS impossível: 129.68 (Zacian (Crowned Sword))
+   ➔ [feint_attack_body_slam] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [feint_attack_dazzling_gleam] DPS impossível: 128.94 (Zacian (Crowned Sword))
+   ➔ [feint_attack_disarming_voice] DPS impossível: 129.61 (Zacian (Crowned Sword))
+   ➔ [feint_attack_disarming_voice] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [feint_attack_gyro_ball] DPS impossível: 129.44 (Zacian (Crowned Sword))
+   ➔ [feint_attack_play_rough] DPS impossível: 129.23 (Zacian (Crowned Sword))
+   ➔ [feint_attack_swift] DPS impossível: 129.23 (Zacian (Crowned Sword))
+   ➔ [pound_body_slam] DPS impossível: 129.74 (Zacian (Crowned Sword))
+   ➔ [pound_body_slam] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [pound_dazzling_gleam] DPS impossível: 129.25 (Zacian (Crowned Sword))
+   ➔ [pound_disarming_voice] DPS impossível: 129.65 (Zacian (Crowned Sword))
+   ➔ [pound_disarming_voice] Imortalidade detectada: 0 mortes contra Tier 5 (Zacian (Crowned Sword))
+   ➔ [pound_gyro_ball] DPS impossível: 129.34 (Zacian (Crowned Sword))
+   ➔ [pound_play_rough] DPS impossível: 129.35 (Zacian (Crowned Sword))
+   ➔ [pound_swift] DPS impossível: 129.24 (Zacian (Crowned Sword))
+
+⚠️ FICHEIRO: counters_kakuna_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [poison_sting_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_kricketot_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [struggle_bug_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_larvitar_t1.json
+   ➔ [average] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [bite_ancient_power] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [bite_crunch] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [bite_stomp] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [rock_smash_ancient_power] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [rock_smash_crunch] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [rock_smash_stomp] DPS impossível: 142.86 (Sceptile (Mega))
+
+⚠️ FICHEIRO: counters_lotad_t5.json
+   ➔ [razor_leaf_scald] Imortalidade detectada: 0 mortes contra Tier 5 (Rayquaza (Mega))
+   ➔ [water_gun_scald] Imortalidade detectada: 0 mortes contra Tier 5 (Rayquaza (Mega))
+
+⚠️ FICHEIRO: counters_makuhita_t1.json
+   ➔ [average] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [rock_smash_cross_chop] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [rock_smash_heavy_slam] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [rock_smash_low_sweep] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [rock_smash_upper_hand] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [tackle_cross_chop] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [tackle_heavy_slam] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [tackle_low_sweep] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [tackle_upper_hand] DPS impossível: 155.84 (Alakazam (Mega))
+
+⚠️ FICHEIRO: counters_metapod_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [tackle_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_noibat_t1.json
+   ➔ [average] DPS impossível: 155.84 (Mewtwo (Shadow))
+   ➔ [bite_air_cutter] DPS impossível: 155.84 (Mewtwo (Shadow))
+   ➔ [bite_dragon_pulse] DPS impossível: 155.84 (Mewtwo (Shadow))
+   ➔ [bite_heat_wave] DPS impossível: 155.84 (Mewtwo (Shadow))
+   ➔ [wing_attack_air_cutter] DPS impossível: 155.84 (Mewtwo (Shadow))
+   ➔ [wing_attack_dragon_pulse] DPS impossível: 155.84 (Mewtwo (Shadow))
+   ➔ [wing_attack_heat_wave] DPS impossível: 155.84 (Mewtwo (Shadow))
+
+⚠️ FICHEIRO: counters_numel_t1.json
+   ➔ [average] DPS impossível: 142.86 (Greninja (Shadow))
+   ➔ [ember_bulldoze] DPS impossível: 142.86 (Greninja (Shadow))
+   ➔ [ember_heat_wave] DPS impossível: 142.86 (Greninja (Shadow))
+   ➔ [ember_stomp] DPS impossível: 142.86 (Greninja (Shadow))
+   ➔ [tackle_bulldoze] DPS impossível: 142.86 (Greninja (Shadow))
+   ➔ [tackle_heat_wave] DPS impossível: 142.86 (Greninja (Shadow))
+   ➔ [tackle_stomp] DPS impossível: 142.86 (Greninja (Shadow))
+
+⚠️ FICHEIRO: counters_nuzleaf_t1.json
+   ➔ [average] DPS impossível: 142.86 (Accelgor (Shadow))
+   ➔ [feint_attack_foul_play] DPS impossível: 142.86 (Accelgor (Shadow))
+   ➔ [feint_attack_grass_knot] DPS impossível: 142.86 (Accelgor (Shadow))
+   ➔ [feint_attack_leaf_blade] DPS impossível: 142.86 (Accelgor (Shadow))
+   ➔ [razor_leaf_foul_play] DPS impossível: 142.86 (Accelgor (Shadow))
+   ➔ [razor_leaf_grass_knot] DPS impossível: 142.86 (Accelgor (Shadow))
+   ➔ [razor_leaf_leaf_blade] DPS impossível: 142.86 (Accelgor (Shadow))
+
+⚠️ FICHEIRO: counters_paras_t2.json
+   ➔ [average] DPS impossível: 123.57 (Blacephalon)
+   ➔ [bug_bite_cross_poison] DPS impossível: 124.17 (Blacephalon)
+   ➔ [bug_bite_seed_bomb] DPS impossível: 129.43 (Blacephalon)
+   ➔ [bug_bite_x_scissor] DPS impossível: 122.03 (Blacephalon)
+   ➔ [scratch_cross_poison] DPS impossível: 123.81 (Blacephalon)
+   ➔ [scratch_seed_bomb] DPS impossível: 130.19 (Blacephalon)
+   ➔ [scratch_x_scissor] DPS impossível: 122.03 (Blacephalon)
+
+⚠️ FICHEIRO: counters_paras_t3.json
+   ➔ [average] DPS impossível: 129.73 (Blacephalon)
+   ➔ [bug_bite_cross_poison] DPS impossível: 129.76 (Blacephalon)
+   ➔ [bug_bite_seed_bomb] DPS impossível: 132.56 (Blacephalon)
+   ➔ [bug_bite_x_scissor] DPS impossível: 128.82 (Blacephalon)
+   ➔ [scratch_cross_poison] DPS impossível: 129.68 (Blacephalon)
+   ➔ [scratch_seed_bomb] DPS impossível: 132.67 (Blacephalon)
+   ➔ [scratch_x_scissor] DPS impossível: 128.82 (Blacephalon)
+
+⚠️ FICHEIRO: counters_paras_t5.json
+   ➔ [average] DPS impossível: 128.4 (Blacephalon)
+   ➔ [bug_bite_cross_poison] DPS impossível: 128.16 (Blacephalon)
+   ➔ [bug_bite_seed_bomb] DPS impossível: 127.73 (Blacephalon)
+   ➔ [bug_bite_x_scissor] DPS impossível: 127.45 (Blacephalon)
+   ➔ [scratch_cross_poison] DPS impossível: 128.22 (Blacephalon)
+   ➔ [scratch_seed_bomb] DPS impossível: 127.63 (Blacephalon)
+   ➔ [scratch_x_scissor] DPS impossível: 127.45 (Blacephalon)
+
+⚠️ FICHEIRO: counters_pawmi_t1.json
+   ➔ [average] DPS impossível: 126.83 (Garchomp (Mega))
+   ➔ [spark_thunderbolt] DPS impossível: 126.86 (Garchomp (Mega))
+   ➔ [spark_discharge] DPS impossível: 126.97 (Garchomp (Mega))
+   ➔ [spark_wild_charge] DPS impossível: 126.58 (Garchomp (Mega))
+   ➔ [charge_beam_thunderbolt] DPS impossível: 121.46 (Garchomp (Mega))
+   ➔ [charge_beam_discharge] DPS impossível: 121.46 (Garchomp (Mega))
+   ➔ [charge_beam_wild_charge] DPS impossível: 121.46 (Garchomp (Mega))
+   ➔ [thunder_shock_thunderbolt] DPS impossível: 127.27 (Garchomp (Mega))
+   ➔ [thunder_shock_discharge] DPS impossível: 126.58 (Garchomp (Mega))
+   ➔ [thunder_shock_wild_charge] DPS impossível: 126.69 (Garchomp (Mega))
+
+⚠️ FICHEIRO: counters_pawmi_t5.json
+   ➔ [charge_beam_discharge] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+   ➔ [charge_beam_thunderbolt] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+   ➔ [spark_discharge] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+   ➔ [spark_thunderbolt] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+   ➔ [thunder_shock_discharge] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+
+⚠️ FICHEIRO: counters_pheromosa_t1.json
+   ➔ [average] DPS impossível: 142.86 (Rayquaza (Mega))
+   ➔ [bug_bite_bug_buzz] DPS impossível: 142.86 (Rayquaza (Mega))
+   ➔ [bug_bite_close_combat] DPS impossível: 142.86 (Rayquaza (Mega))
+   ➔ [bug_bite_focus_blast] DPS impossível: 142.86 (Rayquaza (Mega))
+   ➔ [bug_bite_lunge] DPS impossível: 142.86 (Rayquaza (Mega))
+   ➔ [low_kick_bug_buzz] DPS impossível: 142.86 (Rayquaza (Mega))
+   ➔ [low_kick_close_combat] DPS impossível: 142.86 (Rayquaza (Mega))
+   ➔ [low_kick_focus_blast] DPS impossível: 142.86 (Rayquaza (Mega))
+   ➔ [low_kick_lunge] DPS impossível: 142.86 (Rayquaza (Mega))
+
+⚠️ FICHEIRO: counters_pheromosa_t2.json
+   ➔ [average] DPS impossível: 144.21 (Rayquaza (Mega))
+   ➔ [bug_bite_bug_buzz] DPS impossível: 132.63 (Rayquaza (Mega))
+   ➔ [bug_bite_close_combat] DPS impossível: 132.44 (Rayquaza (Mega))
+   ➔ [bug_bite_focus_blast] DPS impossível: 146.04 (Rayquaza (Mega))
+   ➔ [bug_bite_lunge] DPS impossível: 128.02 (Rayquaza (Mega))
+   ➔ [low_kick_bug_buzz] DPS impossível: 132.8 (Rayquaza (Mega))
+   ➔ [low_kick_close_combat] DPS impossível: 132.69 (Rayquaza (Mega))
+   ➔ [low_kick_focus_blast] DPS impossível: 145.6 (Rayquaza (Mega))
+   ➔ [low_kick_lunge] DPS impossível: 128.17 (Rayquaza (Mega))
+
+⚠️ FICHEIRO: counters_pheromosa_t3.json
+   ➔ [average] DPS impossível: 132.96 (Rayquaza (Mega))
+   ➔ [bug_bite_bug_buzz] DPS impossível: 134.06 (Rayquaza (Mega))
+   ➔ [bug_bite_close_combat] DPS impossível: 135.7 (Rayquaza (Mega))
+   ➔ [bug_bite_focus_blast] DPS impossível: 132.92 (Rayquaza (Mega))
+   ➔ [bug_bite_lunge] DPS impossível: 135.89 (Rayquaza (Mega))
+   ➔ [low_kick_bug_buzz] DPS impossível: 134 (Rayquaza (Mega))
+   ➔ [low_kick_close_combat] DPS impossível: 135.78 (Rayquaza (Mega))
+   ➔ [low_kick_focus_blast] DPS impossível: 132.95 (Rayquaza (Mega))
+   ➔ [low_kick_lunge] DPS impossível: 136.05 (Rayquaza (Mega))
+
+⚠️ FICHEIRO: counters_pheromosa_t5.json
+   ➔ [average] DPS impossível: 136.74 (Rayquaza (Mega))
+   ➔ [bug_bite_bug_buzz] DPS impossível: 136.05 (Rayquaza (Mega))
+   ➔ [bug_bite_close_combat] DPS impossível: 139.3 (Rayquaza (Mega))
+   ➔ [bug_bite_focus_blast] DPS impossível: 137.02 (Rayquaza (Mega))
+   ➔ [bug_bite_lunge] DPS impossível: 134.63 (Rayquaza (Mega))
+   ➔ [low_kick_bug_buzz] DPS impossível: 136 (Rayquaza (Mega))
+   ➔ [low_kick_close_combat] DPS impossível: 138.87 (Rayquaza (Mega))
+   ➔ [low_kick_focus_blast] DPS impossível: 136.71 (Rayquaza (Mega))
+   ➔ [low_kick_lunge] DPS impossível: 134.92 (Rayquaza (Mega))
+
+⚠️ FICHEIRO: counters_pichu_t1.json
+   ➔ [average] DPS impossível: 136.36 (Garchomp (Shadow))
+   ➔ [quick_attack_disarming_voice] DPS impossível: 136.36 (Garchomp (Shadow))
+   ➔ [quick_attack_thunder_punch] DPS impossível: 136.36 (Garchomp (Shadow))
+   ➔ [quick_attack_thunderbolt] DPS impossível: 136.36 (Garchomp (Shadow))
+   ➔ [thunder_shock_disarming_voice] DPS impossível: 126.34 (Garchomp (Mega))
+   ➔ [thunder_shock_thunder_punch] DPS impossível: 126.64 (Garchomp (Mega))
+   ➔ [thunder_shock_thunderbolt] DPS impossível: 126.56 (Garchomp (Mega))
+
+⚠️ FICHEIRO: counters_pichu_t5.json
+   ➔ [quick_attack_thunder_punch] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+   ➔ [thunder_shock_disarming_voice] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+   ➔ [thunder_shock_thunder_punch] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+
+⚠️ FICHEIRO: counters_poochyena_t5.json
+   ➔ [tackle_poison_fang] Imortalidade detectada: 0 mortes contra Tier 5 (Lucario (Mega))
+
+⚠️ FICHEIRO: counters_ralts_t1.json
+   ➔ [average] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [charge_beam_disarming_voice] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [charge_beam_psyshock] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [charge_beam_shadow_sneak] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [confusion_disarming_voice] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [confusion_psyshock] DPS impossível: 142.86 (Gengar (Mega))
+   ➔ [confusion_shadow_sneak] DPS impossível: 142.86 (Gengar (Mega))
+
+⚠️ FICHEIRO: counters_rattata_(alolan)_t1.json
+   ➔ [average] DPS impossível: 190.48 (Lucario (Mega))
+   ➔ [quick_attack_crunch] DPS impossível: 190.48 (Lucario (Mega))
+   ➔ [quick_attack_hyper_fang] DPS impossível: 190.48 (Lucario (Mega))
+   ➔ [quick_attack_shadow_ball] DPS impossível: 190.48 (Lucario (Mega))
+   ➔ [tackle_crunch] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [tackle_hyper_fang] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [tackle_shadow_ball] DPS impossível: 142.86 (Machamp (Shadow))
+
+⚠️ FICHEIRO: counters_rattata_(alolan)_t2.json
+   ➔ [average] DPS impossível: 137.32 (Blaziken (Mega))
+   ➔ [quick_attack_crunch] DPS impossível: 137.37 (Blaziken (Mega))
+   ➔ [quick_attack_hyper_fang] DPS impossível: 152.03 (Blaziken (Mega))
+   ➔ [quick_attack_shadow_ball] DPS impossível: 150.92 (Blaziken (Mega))
+   ➔ [tackle_crunch] DPS impossível: 137.78 (Blaziken (Mega))
+   ➔ [tackle_hyper_fang] DPS impossível: 150.97 (Blaziken (Mega))
+   ➔ [tackle_shadow_ball] DPS impossível: 151.18 (Blaziken (Mega))
+
+⚠️ FICHEIRO: counters_rattata_(alolan)_t3.json
+   ➔ [average] DPS impossível: 144.85 (Lucario (Mega))
+   ➔ [quick_attack_crunch] DPS impossível: 144.86 (Lucario (Mega))
+   ➔ [quick_attack_hyper_fang] DPS impossível: 143.94 (Blaziken (Mega))
+   ➔ [quick_attack_shadow_ball] DPS impossível: 150.84 (Lucario (Mega))
+   ➔ [tackle_crunch] DPS impossível: 144.15 (Lucario (Mega))
+   ➔ [tackle_hyper_fang] DPS impossível: 144.49 (Blaziken (Mega))
+   ➔ [tackle_shadow_ball] DPS impossível: 150.51 (Lucario (Mega))
+
+⚠️ FICHEIRO: counters_rattata_(alolan)_t5.json
+   ➔ [average] DPS impossível: 139.59 (Lucario (Mega))
+   ➔ [quick_attack_crunch] DPS impossível: 139.43 (Lucario (Mega))
+   ➔ [quick_attack_hyper_fang] DPS impossível: 139.24 (Lucario (Mega))
+   ➔ [quick_attack_shadow_ball] DPS impossível: 138.65 (Lucario (Mega))
+   ➔ [tackle_crunch] DPS impossível: 138.5 (Lucario (Mega))
+   ➔ [tackle_hyper_fang] DPS impossível: 138.76 (Lucario (Mega))
+   ➔ [tackle_shadow_ball] DPS impossível: 138.64 (Lucario (Mega))
+
+⚠️ FICHEIRO: counters_salandit_t1.json
+   ➔ [average] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [ember_dragon_pulse] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [ember_flamethrower] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [ember_poison_fang] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [poison_jab_dragon_pulse] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [poison_jab_flamethrower] DPS impossível: 136.36 (Garchomp (Mega))
+   ➔ [poison_jab_poison_fang] DPS impossível: 136.36 (Garchomp (Mega))
+
+⚠️ FICHEIRO: counters_scatterbug_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [tackle_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_shuppet_t1.json
+   ➔ [average] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [astonish_night_shade] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [astonish_ominous_wind] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [astonish_shadow_sneak] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [feint_attack_night_shade] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [feint_attack_ominous_wind] DPS impossível: 136.36 (Gengar (Mega))
+   ➔ [feint_attack_shadow_sneak] DPS impossível: 136.36 (Gengar (Mega))
+
+⚠️ FICHEIRO: counters_silcoon_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [poison_sting_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_snom_t1.json
+   ➔ [average] DPS impossível: 190.48 (Archeops (Shadow))
+   ➔ [powder_snow_bug_buzz] DPS impossível: 190.48 (Archeops (Shadow))
+   ➔ [powder_snow_icy_wind] DPS impossível: 190.48 (Archeops (Shadow))
+   ➔ [struggle_bug_bug_buzz] DPS impossível: 190.48 (Archeops (Shadow))
+   ➔ [struggle_bug_icy_wind] DPS impossível: 190.48 (Archeops (Shadow))
+
+⚠️ FICHEIRO: counters_snom_t2.json
+   ➔ [average] DPS impossível: 194.31 (Blacephalon)
+   ➔ [powder_snow_bug_buzz] DPS impossível: 193.28 (Blacephalon)
+   ➔ [powder_snow_icy_wind] DPS impossível: 196.72 (Blacephalon)
+   ➔ [struggle_bug_bug_buzz] DPS impossível: 186.3 (Blacephalon)
+   ➔ [struggle_bug_icy_wind] DPS impossível: 187.33 (Blacephalon)
+
+⚠️ FICHEIRO: counters_snom_t3.json
+   ➔ [average] DPS impossível: 196.07 (Blacephalon)
+   ➔ [powder_snow_bug_buzz] DPS impossível: 195.5 (Blacephalon)
+   ➔ [powder_snow_icy_wind] DPS impossível: 196.02 (Blacephalon)
+   ➔ [struggle_bug_bug_buzz] DPS impossível: 195.23 (Blacephalon)
+   ➔ [struggle_bug_icy_wind] DPS impossível: 195.06 (Blacephalon)
+
+⚠️ FICHEIRO: counters_snom_t5.json
+   ➔ [average] DPS impossível: 194.47 (Blacephalon)
+   ➔ [powder_snow_bug_buzz] DPS impossível: 195.69 (Blacephalon)
+   ➔ [powder_snow_icy_wind] DPS impossível: 194.76 (Blacephalon)
+   ➔ [struggle_bug_bug_buzz] DPS impossível: 197.33 (Blacephalon)
+   ➔ [struggle_bug_bug_buzz] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [struggle_bug_icy_wind] DPS impossível: 195.31 (Blacephalon)
+
+⚠️ FICHEIRO: counters_snover_t2.json
+   ➔ [average] DPS impossível: 133.34 (Blacephalon)
+   ➔ [ice_shard_energy_ball] DPS impossível: 133.16 (Blacephalon)
+   ➔ [ice_shard_ice_beam] DPS impossível: 133.37 (Blacephalon)
+   ➔ [ice_shard_stomp] DPS impossível: 122.03 (Blacephalon)
+   ➔ [leafage_energy_ball] DPS impossível: 127.11 (Blacephalon)
+   ➔ [leafage_ice_beam] DPS impossível: 133.71 (Blacephalon)
+   ➔ [leafage_stomp] DPS impossível: 122.03 (Blacephalon)
+   ➔ [powder_snow_energy_ball] DPS impossível: 126.07 (Blacephalon)
+   ➔ [powder_snow_ice_beam] DPS impossível: 133.37 (Blacephalon)
+   ➔ [powder_snow_stomp] DPS impossível: 122.03 (Blacephalon)
+
+⚠️ FICHEIRO: counters_snover_t3.json
+   ➔ [average] DPS impossível: 124.34 (Blacephalon)
+   ➔ [ice_shard_energy_ball] DPS impossível: 124.34 (Blacephalon)
+   ➔ [ice_shard_ice_beam] DPS impossível: 124.05 (Blacephalon)
+   ➔ [ice_shard_stomp] DPS impossível: 124.35 (Blacephalon)
+   ➔ [leafage_energy_ball] DPS impossível: 124.34 (Blacephalon)
+   ➔ [leafage_ice_beam] DPS impossível: 123.99 (Blacephalon)
+   ➔ [leafage_stomp] DPS impossível: 124.35 (Blacephalon)
+   ➔ [powder_snow_energy_ball] DPS impossível: 124.32 (Blacephalon)
+   ➔ [powder_snow_ice_beam] DPS impossível: 124.21 (Blacephalon)
+   ➔ [powder_snow_stomp] DPS impossível: 124.21 (Blacephalon)
+
+⚠️ FICHEIRO: counters_snover_t5.json
+   ➔ [average] DPS impossível: 123.11 (Blacephalon)
+   ➔ [ice_shard_energy_ball] DPS impossível: 123.18 (Blacephalon)
+   ➔ [ice_shard_ice_beam] DPS impossível: 122.57 (Blacephalon)
+   ➔ [ice_shard_stomp] DPS impossível: 121.49 (Blacephalon)
+   ➔ [leafage_energy_ball] DPS impossível: 121.2 (Blacephalon)
+   ➔ [leafage_ice_beam] DPS impossível: 123.09 (Blacephalon)
+   ➔ [leafage_stomp] DPS impossível: 120.16 (Blacephalon)
+   ➔ [powder_snow_energy_ball] DPS impossível: 121.54 (Blacephalon)
+   ➔ [powder_snow_ice_beam] DPS impossível: 122.61 (Blacephalon)
+
+⚠️ FICHEIRO: counters_spewpa_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [struggle_bug_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_sunkern_t1.json
+   ➔ [average] DPS impossível: 126.28 (Pheromosa)
+   ➔ [cut_energy_ball] DPS impossível: 127.25 (Pheromosa)
+   ➔ [cut_grass_knot] DPS impossível: 127.55 (Pheromosa)
+   ➔ [cut_seed_bomb] DPS impossível: 126.94 (Pheromosa)
+   ➔ [razor_leaf_energy_ball] DPS impossível: 136.36 (Pheromosa)
+   ➔ [razor_leaf_grass_knot] DPS impossível: 136.36 (Pheromosa)
+   ➔ [razor_leaf_seed_bomb] DPS impossível: 136.36 (Pheromosa)
+
+⚠️ FICHEIRO: counters_sunkern_t2.json
+   ➔ [average] DPS impossível: 132.83 (Blacephalon)
+   ➔ [cut_energy_ball] DPS impossível: 132.76 (Blacephalon)
+   ➔ [cut_grass_knot] DPS impossível: 127.6 (Blacephalon)
+   ➔ [cut_seed_bomb] DPS impossível: 129.73 (Blacephalon)
+   ➔ [razor_leaf_energy_ball] DPS impossível: 132.42 (Blacephalon)
+   ➔ [razor_leaf_grass_knot] DPS impossível: 125.37 (Blacephalon)
+   ➔ [razor_leaf_seed_bomb] DPS impossível: 132.49 (Blacephalon)
+
+⚠️ FICHEIRO: counters_sunkern_t3.json
+   ➔ [average] DPS impossível: 129.66 (Blacephalon)
+   ➔ [cut_energy_ball] DPS impossível: 129.56 (Blacephalon)
+   ➔ [cut_grass_knot] DPS impossível: 132.1 (Blacephalon)
+   ➔ [cut_seed_bomb] DPS impossível: 128.78 (Blacephalon)
+   ➔ [razor_leaf_energy_ball] DPS impossível: 129.6 (Blacephalon)
+   ➔ [razor_leaf_grass_knot] DPS impossível: 132.49 (Blacephalon)
+   ➔ [razor_leaf_seed_bomb] DPS impossível: 128.8 (Blacephalon)
+
+⚠️ FICHEIRO: counters_sunkern_t5.json
+   ➔ [average] DPS impossível: 131.23 (Blacephalon)
+   ➔ [cut_energy_ball] DPS impossível: 131.26 (Blacephalon)
+   ➔ [cut_grass_knot] DPS impossível: 130.96 (Blacephalon)
+   ➔ [cut_seed_bomb] DPS impossível: 130.69 (Blacephalon)
+   ➔ [razor_leaf_energy_ball] DPS impossível: 131.53 (Blacephalon)
+   ➔ [razor_leaf_grass_knot] DPS impossível: 131.22 (Blacephalon)
+   ➔ [razor_leaf_seed_bomb] DPS impossível: 131.22 (Blacephalon)
+
+⚠️ FICHEIRO: counters_toxel_t1.json
+   ➔ [acid_power_up_punch] DPS impossível: 155.84 (Flygon (Shadow))
+   ➔ [average] DPS impossível: 155.84 (Flygon (Shadow))
+
+⚠️ FICHEIRO: counters_toxel_t2.json
+   ➔ [acid_power_up_punch] DPS impossível: 127.27 (Garchomp (Mega))
+   ➔ [average] DPS impossível: 128.52 (Garchomp (Mega))
+
+⚠️ FICHEIRO: counters_varoom_t5.json
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+   ➔ [lick_acid_spray] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+   ➔ [metal_sound_acid_spray] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+   ➔ [poison_jab_acid_spray] Imortalidade detectada: 0 mortes contra Tier 5 (Groudon (Primal))
+
+⚠️ FICHEIRO: counters_weedle_t1.json
+   ➔ [average] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [bug_bite_struggle] DPS impossível: 155.84 (Alakazam (Mega))
+   ➔ [poison_sting_struggle] DPS impossível: 155.84 (Alakazam (Mega))
+
+⚠️ FICHEIRO: counters_weedle_t2.json
+   ➔ [average] DPS impossível: 129.83 (Mewtwo (Shadow))
+   ➔ [bug_bite_struggle] DPS impossível: 129.83 (Mewtwo (Shadow))
+   ➔ [poison_sting_struggle] DPS impossível: 129.96 (Mewtwo (Shadow))
+
+⚠️ FICHEIRO: counters_weedle_t3.json
+   ➔ [average] DPS impossível: 138.87 (Rayquaza (Mega))
+   ➔ [bug_bite_struggle] DPS impossível: 138.95 (Rayquaza (Mega))
+   ➔ [poison_sting_struggle] DPS impossível: 138.88 (Rayquaza (Mega))
+
+⚠️ FICHEIRO: counters_weedle_t5.json
+   ➔ [average] DPS impossível: 137.99 (Blacephalon)
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] DPS impossível: 137.99 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [poison_sting_struggle] DPS impossível: 137.99 (Blacephalon)
+   ➔ [poison_sting_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_whismur_t1.json
+   ➔ [astonish_disarming_voice] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [astonish_flamethrower] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [astonish_stomp] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [average] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [pound_disarming_voice] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [pound_flamethrower] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [pound_stomp] DPS impossível: 142.86 (Machamp (Shadow))
+
+⚠️ FICHEIRO: counters_whismur_t2.json
+   ➔ [astonish_disarming_voice] DPS impossível: 140.34 (Blaziken (Mega))
+   ➔ [astonish_flamethrower] DPS impossível: 137.39 (Blaziken (Mega))
+   ➔ [astonish_stomp] DPS impossível: 142.6 (Blaziken (Mega))
+   ➔ [average] DPS impossível: 140.37 (Blaziken (Mega))
+   ➔ [pound_disarming_voice] DPS impossível: 141.58 (Blaziken (Mega))
+   ➔ [pound_flamethrower] DPS impossível: 138.22 (Blaziken (Mega))
+   ➔ [pound_stomp] DPS impossível: 141.63 (Blaziken (Mega))
+
+⚠️ FICHEIRO: counters_whismur_t3.json
+   ➔ [astonish_disarming_voice] DPS impossível: 133.62 (Blaziken (Mega))
+   ➔ [astonish_flamethrower] DPS impossível: 128.98 (Blaziken (Mega))
+   ➔ [astonish_stomp] DPS impossível: 134.8 (Blaziken (Mega))
+   ➔ [average] DPS impossível: 133.49 (Blaziken (Mega))
+   ➔ [pound_disarming_voice] DPS impossível: 135.23 (Blaziken (Mega))
+   ➔ [pound_flamethrower] DPS impossível: 130.02 (Blaziken (Mega))
+   ➔ [pound_stomp] DPS impossível: 135.86 (Blaziken (Mega))
+
+⚠️ FICHEIRO: counters_whismur_t5.json
+   ➔ [astonish_disarming_voice] DPS impossível: 125.27 (Blaziken (Mega))
+   ➔ [astonish_flamethrower] DPS impossível: 128.11 (Lucario (Mega))
+   ➔ [astonish_stomp] DPS impossível: 124.72 (Blaziken (Mega))
+   ➔ [average] DPS impossível: 125.27 (Blaziken (Mega))
+   ➔ [pound_disarming_voice] DPS impossível: 125.74 (Lucario (Mega))
+   ➔ [pound_flamethrower] DPS impossível: 128.68 (Lucario (Mega))
+   ➔ [pound_stomp] DPS impossível: 126.5 (Lucario (Mega))
+
+⚠️ FICHEIRO: counters_wiglett_t1.json
+   ➔ [average] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [mud_slap_dig] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [mud_slap_liquidation] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [mud_slap_surf] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [water_gun_dig] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [water_gun_liquidation] DPS impossível: 142.86 (Sceptile (Mega))
+   ➔ [water_gun_surf] DPS impossível: 142.86 (Sceptile (Mega))
+
+⚠️ FICHEIRO: counters_wingull_t1.json
+   ➔ [average] DPS impossível: 181.82 (Xurkitree)
+   ➔ [quick_attack_air_cutter] DPS impossível: 181.82 (Xurkitree)
+   ➔ [quick_attack_ice_beam] DPS impossível: 181.82 (Xurkitree)
+   ➔ [quick_attack_water_pulse] DPS impossível: 181.82 (Xurkitree)
+   ➔ [water_gun_air_cutter] DPS impossível: 181.82 (Xurkitree)
+   ➔ [water_gun_ice_beam] DPS impossível: 181.82 (Xurkitree)
+   ➔ [water_gun_water_pulse] DPS impossível: 181.82 (Xurkitree)
+
+⚠️ FICHEIRO: counters_wingull_t2.json
+   ➔ [average] DPS impossível: 125.54 (Regieleki)
+   ➔ [quick_attack_air_cutter] DPS impossível: 125.48 (Regieleki)
+   ➔ [quick_attack_ice_beam] DPS impossível: 129.89 (Regieleki)
+   ➔ [quick_attack_water_pulse] DPS impossível: 130.56 (Regieleki)
+   ➔ [water_gun_air_cutter] DPS impossível: 126.36 (Regieleki)
+   ➔ [water_gun_ice_beam] DPS impossível: 132.7 (Regieleki)
+   ➔ [water_gun_water_pulse] DPS impossível: 129.69 (Regieleki)
+
+⚠️ FICHEIRO: counters_wingull_t3.json
+   ➔ [average] DPS impossível: 155.43 (Regieleki)
+   ➔ [quick_attack_air_cutter] DPS impossível: 155.57 (Regieleki)
+   ➔ [quick_attack_ice_beam] DPS impossível: 162.26 (Regieleki)
+   ➔ [quick_attack_water_pulse] DPS impossível: 161.71 (Regieleki)
+   ➔ [water_gun_air_cutter] DPS impossível: 156.02 (Regieleki)
+   ➔ [water_gun_ice_beam] DPS impossível: 164.81 (Regieleki)
+   ➔ [water_gun_water_pulse] DPS impossível: 160.07 (Regieleki)
+
+⚠️ FICHEIRO: counters_wingull_t5.json
+   ➔ [average] DPS impossível: 131.45 (Regieleki)
+   ➔ [quick_attack_air_cutter] DPS impossível: 131.95 (Regieleki)
+   ➔ [quick_attack_ice_beam] DPS impossível: 135.76 (Regieleki)
+   ➔ [quick_attack_water_pulse] DPS impossível: 133.57 (Regieleki)
+   ➔ [water_gun_air_cutter] DPS impossível: 132.43 (Regieleki)
+   ➔ [water_gun_ice_beam] DPS impossível: 136.25 (Regieleki)
+   ➔ [water_gun_water_pulse] DPS impossível: 134.38 (Regieleki)
+
+⚠️ FICHEIRO: counters_wishiwashi_(solo)_t1.json
+   ➔ [average] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [iron_tail_aqua_tail] DPS impossível: 181.82 (Sceptile (Mega))
+   ➔ [iron_tail_brine] DPS impossível: 181.82 (Sceptile (Mega))
+   ➔ [iron_tail_surf] DPS impossível: 181.82 (Sceptile (Mega))
+   ➔ [waterfall_aqua_tail] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [waterfall_brine] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [waterfall_surf] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [water_gun_aqua_tail] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [water_gun_brine] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [water_gun_surf] DPS impossível: 155.84 (Raikou (Shadow))
+
+⚠️ FICHEIRO: counters_wishiwashi_(solo)_t2.json
+   ➔ [average] DPS impossível: 125.81 (Regieleki)
+   ➔ [iron_tail_aqua_tail] DPS impossível: 123.03 (Regieleki)
+   ➔ [iron_tail_brine] DPS impossível: 125.52 (Regieleki)
+   ➔ [iron_tail_surf] DPS impossível: 124.26 (Regieleki)
+   ➔ [waterfall_aqua_tail] DPS impossível: 123.52 (Regieleki)
+   ➔ [waterfall_brine] DPS impossível: 125.67 (Regieleki)
+   ➔ [waterfall_surf] DPS impossível: 125.54 (Regieleki)
+   ➔ [water_gun_aqua_tail] DPS impossível: 123.94 (Regieleki)
+   ➔ [water_gun_brine] DPS impossível: 125.93 (Regieleki)
+   ➔ [water_gun_surf] DPS impossível: 125.74 (Regieleki)
+
+⚠️ FICHEIRO: counters_wishiwashi_(solo)_t3.json
+   ➔ [waterfall_brine] DPS impossível: 120.28 (Regieleki)
+
+⚠️ FICHEIRO: counters_wishiwashi_t1.json
+   ➔ [average] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [iron_tail_aqua_tail] DPS impossível: 181.82 (Sceptile (Mega))
+   ➔ [iron_tail_brine] DPS impossível: 181.82 (Sceptile (Mega))
+   ➔ [iron_tail_surf] DPS impossível: 181.82 (Sceptile (Mega))
+   ➔ [waterfall_aqua_tail] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [waterfall_brine] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [waterfall_surf] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [water_gun_aqua_tail] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [water_gun_brine] DPS impossível: 155.84 (Raikou (Shadow))
+   ➔ [water_gun_surf] DPS impossível: 155.84 (Raikou (Shadow))
+
+⚠️ FICHEIRO: counters_wishiwashi_t2.json
+   ➔ [average] DPS impossível: 125.83 (Regieleki)
+   ➔ [iron_tail_aqua_tail] DPS impossível: 123.05 (Regieleki)
+   ➔ [iron_tail_brine] DPS impossível: 125.61 (Regieleki)
+   ➔ [iron_tail_surf] DPS impossível: 124.05 (Regieleki)
+   ➔ [waterfall_aqua_tail] DPS impossível: 123.62 (Regieleki)
+   ➔ [waterfall_brine] DPS impossível: 125.6 (Regieleki)
+   ➔ [waterfall_surf] DPS impossível: 125.5 (Regieleki)
+   ➔ [water_gun_aqua_tail] DPS impossível: 123.98 (Regieleki)
+   ➔ [water_gun_brine] DPS impossível: 125.78 (Regieleki)
+   ➔ [water_gun_surf] DPS impossível: 125.83 (Regieleki)
+
+⚠️ FICHEIRO: counters_wishiwashi_t3.json
+   ➔ [waterfall_brine] DPS impossível: 120.18 (Regieleki)
+
+⚠️ FICHEIRO: counters_wooper_t1.json
+   ➔ [average] DPS impossível: 155.84 (Sceptile (Mega))
+   ➔ [mud_shot_body_slam] DPS impossível: 155.84 (Sceptile (Mega))
+   ➔ [mud_shot_dig] DPS impossível: 155.84 (Sceptile (Mega))
+   ➔ [mud_shot_mud_bomb] DPS impossível: 155.84 (Sceptile (Mega))
+   ➔ [water_gun_body_slam] DPS impossível: 155.84 (Sceptile (Mega))
+   ➔ [water_gun_dig] DPS impossível: 155.84 (Sceptile (Mega))
+   ➔ [water_gun_mud_bomb] DPS impossível: 155.84 (Sceptile (Mega))
+
+⚠️ FICHEIRO: counters_wooper_t2.json
+   ➔ [average] DPS impossível: 131.18 (Victreebel (Mega))
+   ➔ [mud_shot_body_slam] DPS impossível: 131.32 (Victreebel (Mega))
+   ➔ [water_gun_body_slam] DPS impossível: 131.2 (Victreebel (Mega))
+
+⚠️ FICHEIRO: counters_wooper_t5.json
+   ➔ [average] DPS impossível: 120.61 (Sceptile (Mega))
+   ➔ [mud_shot_body_slam] DPS impossível: 120.55 (Sceptile (Mega))
+   ➔ [mud_shot_dig] DPS impossível: 120.63 (Sceptile (Mega))
+   ➔ [mud_shot_mud_bomb] DPS impossível: 120.37 (Sceptile (Mega))
+   ➔ [water_gun_body_slam] DPS impossível: 120.54 (Sceptile (Mega))
+   ➔ [water_gun_dig] DPS impossível: 120.66 (Sceptile (Mega))
+   ➔ [water_gun_mud_bomb] DPS impossível: 120.33 (Sceptile (Mega))
+
+⚠️ FICHEIRO: counters_wurmple_t2.json
+   ➔ [average] DPS impossível: 122.03 (Blacephalon)
+   ➔ [bug_bite_struggle] DPS impossível: 122.03 (Blacephalon)
+   ➔ [tackle_struggle] DPS impossível: 122.03 (Blacephalon)
+
+⚠️ FICHEIRO: counters_wurmple_t3.json
+   ➔ [average] DPS impossível: 123.75 (Blacephalon)
+   ➔ [bug_bite_struggle] DPS impossível: 123.8 (Blacephalon)
+   ➔ [tackle_struggle] DPS impossível: 123.87 (Blacephalon)
+
+⚠️ FICHEIRO: counters_wurmple_t5.json
+   ➔ [average] DPS impossível: 120.53 (Blacephalon)
+   ➔ [average] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [bug_bite_struggle] DPS impossível: 120.53 (Blacephalon)
+   ➔ [bug_bite_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+   ➔ [tackle_struggle] DPS impossível: 120.53 (Blacephalon)
+   ➔ [tackle_struggle] Imortalidade detectada: 0 mortes contra Tier 5 (Blacephalon)
+
+⚠️ FICHEIRO: counters_yungoos_t1.json
+   ➔ [average] DPS impossível: 142.86 (Lucario (Mega))
+   ➔ [bite_crunch] DPS impossível: 142.86 (Lucario (Mega))
+   ➔ [bite_hyper_fang] DPS impossível: 142.86 (Lucario (Mega))
+   ➔ [bite_rock_tomb] DPS impossível: 142.86 (Lucario (Mega))
+   ➔ [tackle_crunch] DPS impossível: 142.86 (Lucario (Mega))
+   ➔ [tackle_hyper_fang] DPS impossível: 142.86 (Lucario (Mega))
+   ➔ [tackle_rock_tomb] DPS impossível: 142.86 (Lucario (Mega))
+
+⚠️ FICHEIRO: counters_zigzagoon_(galarian)_t1.json
+   ➔ [average] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [tackle_dig] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [tackle_body_slam] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [tackle_swift] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [take_down_dig] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [take_down_body_slam] DPS impossível: 142.86 (Machamp (Shadow))
+   ➔ [take_down_swift] DPS impossível: 142.86 (Machamp (Shadow))
+
+⚠️ FICHEIRO: counters_zigzagoon_(galarian)_t2.json
+   ➔ [average] DPS impossível: 132.75 (Blaziken (Mega))
+   ➔ [tackle_body_slam] DPS impossível: 134.35 (Blaziken (Mega))
+   ➔ [tackle_dig] DPS impossível: 132.67 (Blaziken (Mega))
+   ➔ [tackle_swift] DPS impossível: 137.09 (Blaziken (Mega))
+   ➔ [take_down_body_slam] DPS impossível: 132.87 (Blaziken (Mega))
+   ➔ [take_down_dig] DPS impossível: 133.17 (Blaziken (Mega))
+   ➔ [take_down_swift] DPS impossível: 136.49 (Blaziken (Mega))
+
+⚠️ FICHEIRO: counters_zigzagoon_(galarian)_t3.json
+   ➔ [average] DPS impossível: 122.82 (Lucario (Mega))
+   ➔ [tackle_body_slam] DPS impossível: 127.99 (Blaziken (Mega))
+   ➔ [tackle_dig] DPS impossível: 122.71 (Lucario (Mega))
+   ➔ [tackle_swift] DPS impossível: 129.19 (Blaziken (Mega))
+   ➔ [take_down_body_slam] DPS impossível: 126.66 (Blaziken (Mega))
+   ➔ [take_down_dig] DPS impossível: 127.83 (Blaziken (Mega))
+   ➔ [take_down_swift] DPS impossível: 127.58 (Blaziken (Mega))
+
+⚠️ FICHEIRO: counters_zigzagoon_(galarian)_t5.json
+   ➔ [average] DPS impossível: 122.4 (Lucario (Mega))
+   ➔ [tackle_body_slam] DPS impossível: 122.43 (Lucario (Mega))
+   ➔ [tackle_dig] DPS impossível: 122.35 (Lucario (Mega))
+   ➔ [tackle_swift] DPS impossível: 122.34 (Lucario (Mega))
+   ➔ [take_down_body_slam] DPS impossível: 122.28 (Lucario (Mega))
+   ➔ [take_down_dig] DPS impossível: 122.44 (Lucario (Mega))
+   ➔ [take_down_swift] DPS impossível: 122.3 (Lucario (Mega))
+
+========================================================
+❌ RESULTADO: Foram encontrados problemas em 119 arquivos.
+Total de anomalias detectadas: 759
+========================================================

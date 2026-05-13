@@ -1,0 +1,4014 @@
+bulbasaur (shadow)
+t1 t2
+
+bulbasaur
+t1 t2 t3 t4 t5 tmega tmega_lendaria tprimal telite tdmax_1 tdmax_3 tdmax_5 tgmax_6
+
+ivysaur
+t1 t2 t3 t4 t5 tmega tmega_lendaria tprimal telite tdmax_1 tdmax_3 tdmax_5 tgmax_6
+
+mega venusaur
+t1 t2 t3 t5
+
+venusaur (mega)
+t1 t2 t3 t5 tmega
+
+venusaur gigamax
+t1 t2 t3 t5
+
+venusaur
+t1 t2 t3 t4 t5 tmega
+
+charmander
+t1 t2 t3 t5
+
+charmeleon
+t1 t2 t3 t5
+
+charizard (mega x)
+t1 t2 t3 t5 tmega
+
+charizard (mega y)
+t1 t2 t3 t5 tmega
+
+charizard gigamax
+t1 t2 t3 t5
+
+charizard
+t1 t2 t3 t5
+
+mega charizard x
+t1 t2 t3 t5
+
+mega charizard y
+t1 t2 t3 t5
+
+squirtle
+t1 t2 t3 t5
+
+wartortle
+t1 t2 t3 t5
+
+blastoise (mega)
+t1 t2 t3 t5 tmega
+
+blastoise gigamax
+t1 t2 t3 t5
+
+blastoise
+t1 t2 t3 t5
+
+mega blastoise
+t1 t2 t3 t5
+
+caterpie
+t1 t2 t3 t5
+
+metapod
+t1 t2 t3 t5
+
+butterfree gigamax
+t1 t2 t3 t5
+
+butterfree
+t1 t2 t3 t5
+
+weedle
+t1 t2 t3 t5
+
+kakuna
+t1 t2 t3 t5
+
+beedrill (mega)
+t1 t2 t3 t5 tmega
+
+beedrill
+t1 t2 t3 t5
+
+mega beedrill
+t1 t2 t3 t5
+
+pidgey
+t1 t2 t3 t5
+
+pidgeotto
+t1 t2 t3 t5
+
+mega pidgeot
+t1 t2 t3 t5
+
+pidgeot (mega)
+t1 t2 t3 t5 tmega
+
+pidgeot
+t1 t2 t3 t5
+
+rattata (alolan)
+t1 t2 t3 t5
+
+rattata
+t1 t2 t3 t5
+
+raticate (alolan)
+t1 t2 t3 t5
+
+raticate
+t1 t2 t3 t5
+
+spearow
+t1 t2 t3 t5
+
+fearow
+t1 t2 t3 t5
+
+ekans
+t1 t2 t3 t5
+
+arbok
+t1 t2 t3 t5
+
+pikachu (5th anniversary)
+t1 t2 t3 t5
+
+pikachu (flying)
+t1 t2 t3 t5
+
+pikachu (horizons)
+t1 t2 t3 t5
+
+pikachu (kariyushi)
+t1 t2 t3 t5
+
+pikachu (libre)
+t1 t2 t3 t5
+
+pikachu (pop star)
+t1 t2 t3 t5
+
+pikachu (rock star)
+t1 t2 t3 t5
+
+pikachu (shaymin scarf)
+t1 t2 t3 t5
+
+pikachu gigamax
+t1 t2 t3 t5
+
+pikachu
+t1 t2 t3 t5
+
+raichu (alolan)
+t1 t2 t3 t5
+
+raichu
+t1 t2 t3 t5
+
+sandshrew (alolan)
+t1 t2 t3 t5
+
+sandshrew
+t1 t2 t3 t5
+
+sandslash (alolan)
+t1 t2 t3 t5
+
+sandslash
+t1 t2 t3 t5
+
+nidoran female
+t1 t2 t3 t5
+
+nidorina
+t1 t2 t3 t5
+
+nidoqueen
+t1 t2 t3 t5
+
+nidoran male
+t1 t2 t3 t5
+
+nidorino
+t1 t2 t3 t5
+
+nidoking
+t1 t2 t3 t5
+
+clefairy
+t1 t2 t3 t5
+
+clefable
+t1 t2 t3 t5
+
+vulpix (alolan)
+t1 t2 t3 t5
+
+vulpix
+t1 t2 t3 t5
+
+ninetales (alolan)
+t1 t2 t3 t5
+
+ninetales
+t1 t2 t3 t5
+
+jigglypuff
+t1 t2 t3 t5
+
+wigglytuff
+t1 t2 t3 t5
+
+zubat
+t1 t2 t3 t5
+
+golbat
+t1 t2 t3 t5
+
+oddish
+t1 t2 t3 t5
+
+gloom
+t1 t2 t3 t5
+
+vileplume
+t1 t2 t3 t5
+
+paras
+t1 t2 t3 t5
+
+parasect
+t1 t2 t3 t5
+
+venonat
+t1 t2 t3 t5
+
+venomoth
+t1 t2 t3 t5
+
+diglett (alolan)
+t1 t2 t3 t5
+
+diglett
+t1 t2 t3 t5
+
+dugtrio (alolan)
+t1 t2 t3 t5
+
+dugtrio
+t1 t2 t3 t5
+
+meowth (alolan)
+t1 t2 t3 t5
+
+meowth (galarian)
+t1 t2 t3 t5
+
+meowth gigamax
+t1 t2 t3 t5
+
+meowth
+t1 t2 t3 t5
+
+persian (alolan)
+t1 t2 t3 t5
+
+persian
+t1 t2 t3 t5
+
+psyduck
+t1 t2 t3 t5
+
+golduck
+t1 t2 t3 t5
+
+mankey
+t1 t2 t3 t5
+
+primeape
+t1 t2 t3 t5
+
+growlithe (hisuian)
+t1 t2 t3 t5
+
+growlithe
+t1 t2 t3 t5
+
+arcanine (hisuian)
+t1 t2 t3 t5
+
+arcanine
+t1 t2 t3 t5
+
+poliwag
+t1 t2 t3 t5
+
+poliwhirl
+t1 t2 t3 t5
+
+poliwrath
+t1 t2 t3 t5
+
+abra
+t1 t2 t3 t5
+
+kadabra
+t1 t2 t3 t5
+
+alakazam (mega)
+t1 t2 t3 t5 tmega
+
+alakazam
+t1 t2 t3 t5
+
+mega alakazam
+t1 t2 t3 t5
+
+machop
+t1 t2 t3 t5
+
+machoke
+t1 t2 t3 t5
+
+machamp gigamax
+t1 t2 t3 t5
+
+machamp
+t1 t2 t3 t5
+
+bellsprout
+t1 t2 t3 t5
+
+weepinbell
+t1 t2 t3 t5
+
+victreebel (mega)
+t1 t2 t3 t5
+
+victreebel
+t1 t2 t3 t5
+
+tentacool
+t1 t2 t3 t5
+
+tentacruel
+t1 t2 t3 t5
+
+geodude (alolan)
+t1 t2 t3 t5
+
+geodude
+t1 t2 t3 t5
+
+graveler (alolan)
+t1 t2 t3 t5
+
+graveler
+t1 t2 t3 t5
+
+golem (alolan)
+t1 t2 t3 t5
+
+golem
+t1 t2 t3 t5
+
+ponyta (galarian)
+t1 t2 t3 t5
+
+ponyta
+t1 t2 t3 t5
+
+rapidash (galarian)
+t1 t2 t3 t5
+
+rapidash
+t1 t2 t3 t5
+
+slowpoke (galarian)
+t1 t2 t3 t5
+
+slowpoke
+t1 t2 t3 t5
+
+mega slowbro
+t1 t2 t3 t5
+
+slowbro (galarian)
+t1 t2 t3 t5
+
+slowbro (mega)
+t1 t2 t3 t5 tmega
+
+slowbro
+t1 t2 t3 t5
+
+magnemite
+t1 t2 t3 t5
+
+magneton
+t1 t2 t3 t5
+
+farfetch'd (galarian)
+t1 t2 t3 t5
+
+farfetch'd
+t1 t2 t3 t5
+
+doduo
+t1 t2 t3 t5
+
+dodrio
+t1 t2 t3 t5
+
+seel
+t1 t2 t3 t5
+
+dewgong
+t1 t2 t3 t5
+
+grimer (alolan)
+t1 t2 t3 t5
+
+grimer
+t1 t2 t3 t5
+
+muk (alolan)
+t1 t2 t3 t5
+
+muk
+t1 t2 t3 t5
+
+shellder
+t1 t2 t3 t5
+
+cloyster
+t1 t2 t3 t5
+
+gastly
+t1 t2 t3 t5
+
+haunter
+t1 t2 t3 t5
+
+gengar (mega)
+t1 t2 t3 t5 tmega
+
+gengar gigamax
+t1 t2 t3 t5
+
+gengar
+t1 t2 t3 t5
+
+mega gengar
+t1 t2 t3 t5
+
+onix
+t1 t2 t3 t5
+
+drowzee
+t1 t2 t3 t5
+
+hypno
+t1 t2 t3 t5
+
+krabby
+t1 t2 t3 t5
+
+kingler gigamax
+t1 t2 t3 t5
+
+kingler
+t1 t2 t3 t5
+
+voltorb (hisuian)
+t1 t2 t3 t5
+
+voltorb
+t1 t2 t3 t5
+
+electrode (hisuian)
+t1 t2 t3 t5
+
+electrode
+t1 t2 t3 t5
+
+exeggcute
+t1 t2 t3 t5
+
+exeggutor (alolan)
+t1 t2 t3 t5
+
+exeggutor
+t1 t2 t3 t5
+
+cubone
+t1 t2 t3 t5
+
+marowak (alolan)
+t1 t2 t3 t5
+
+marowak
+t1 t2 t3 t5
+
+hitmonlee
+t1 t2 t3 t5
+
+hitmonchan
+t1 t2 t3 t5
+
+lickitung
+t1 t2 t3 t5
+
+koffing
+t1 t2 t3 t5
+
+weezing (galarian)
+t1 t2 t3 t5
+
+weezing
+t1 t2 t3 t5
+
+rhyhorn
+t1 t2 t3 t5
+
+rhydon
+t1 t2 t3 t5
+
+chansey
+t1 t2 t3 t5
+
+tangela
+t1 t2 t3 t5
+
+kangaskhan (mega)
+t1 t2 t3 t5 tmega
+
+kangaskhan
+t1 t2 t3 t5
+
+mega kangaskhan
+t1 t2 t3 t5
+
+horsea
+t1 t2 t3 t5
+
+seadra
+t1 t2 t3 t5
+
+goldeen
+t1 t2 t3 t5
+
+seaking
+t1 t2 t3 t5
+
+staryu
+t1 t2 t3 t5
+
+starmie
+t1 t2 t3 t5
+
+mr. mime (galarian)
+t1 t2 t3 t5
+
+mr. mime
+t1 t2 t3 t5
+
+scyther
+t1 t2 t3 t5
+
+jynx
+t1 t2 t3 t5
+
+electabuzz
+t1 t2 t3 t5
+
+magmar
+t1 t2 t3 t5
+
+mega pinsir
+t1 t2 t3 t5
+
+pinsir (mega)
+t1 t2 t3 t5
+
+pinsir
+t1 t2 t3 t5
+
+tauros (aqua)
+t1 t2 t3 t5
+
+tauros (blaze)
+t1 t2 t3 t5
+
+tauros (combat)
+t1 t2 t3 t5
+
+tauros
+t1 t2 t3 t5
+
+magikarp
+t1 t2 t3 t5
+
+gyarados (mega)
+t1 t2 t3 t5 tmega
+
+gyarados
+t1 t2 t3 t5
+
+mega gyarados
+t1 t2 t3 t5
+
+lapras gigamax
+t1 t2 t3 t5
+
+lapras
+t1 t2 t3 t5
+
+ditto
+t1 t2 t3 t5
+
+eevee gigamax
+t1 t2 t3 t5
+
+eevee
+t1 t2 t3 t5
+
+vaporeon
+t1 t2 t3 t5
+
+jolteon
+t1 t2 t3 t5
+
+flareon
+t1 t2 t3 t5
+
+porygon
+t1 t2 t3 t5
+
+omanyte
+t1 t2 t3 t5
+
+omastar
+t1 t2 t3 t5
+
+kabuto
+t1 t2 t3 t5
+
+kabutops
+t1 t2 t3 t5
+
+aerodactyl (mega)
+t1 t2 t3 t5 tmega
+
+aerodactyl
+t1 t2 t3 t5
+
+mega aerodactyl
+t1 t2 t3 t5
+
+snorlax gigamax
+t1 t2 t3 t5
+
+snorlax
+t1 t2 t3 t5
+
+articuno (galarian)
+t1 t2 t3 t5
+
+articuno
+t1 t2 t3 t5
+
+zapdos (galarian)
+t1 t2 t3 t5
+
+zapdos
+t1 t2 t3 t5
+
+moltres (galarian)
+t1 t2 t3 t5
+
+moltres
+t1 t2 t3 t5
+
+dratini
+t1 t2 t3 t5
+
+dragonair
+t1 t2 t3 t5
+
+dragonite (mega)
+t1 t2 t3 t5
+
+dragonite
+t1 t2 t3 t5
+
+mega mewtwo x
+t1 t2 t3 t5
+
+mega mewtwo y
+t1 t2 t3 t5
+
+mewtwo (armored)
+t1 t2 t3 t5
+
+mewtwo
+t1 t2 t3 t5
+
+mew
+t1 t2 t3 t5
+
+chikorita
+t1 t2 t3 t5
+
+bayleef
+t1 t2 t3 t5
+
+meganium
+t1 t2 t3 t5
+
+cyndaquil
+t1 t2 t3 t5
+
+quilava
+t1 t2 t3 t5
+
+typhlosion (hisuian)
+t1 t2 t3 t5
+
+typhlosion
+t1 t2 t3 t5
+
+totodile
+t1 t2 t3 t5
+
+croconaw
+t1 t2 t3 t5
+
+feraligatr
+t1 t2 t3 t5
+
+sentret
+t1 t2 t3 t5
+
+furret
+t1 t2 t3 t5
+
+hoothoot
+t1 t2 t3 t5
+
+noctowl
+t1 t2 t3 t5
+
+ledyba
+t1 t2 t3 t5
+
+ledian
+t1 t2 t3 t5
+
+spinarak
+t1 t2 t3 t5
+
+ariados
+t1 t2 t3 t5
+
+crobat
+t1 t2 t3 t5
+
+chinchou
+t1 t2 t3 t5
+
+lanturn
+t1 t2 t3 t5
+
+pichu
+t1 t2 t3 t5
+
+cleffa
+t1 t2 t3 t5
+
+igglybuff
+t1 t2 t3 t5
+
+togepi
+t1 t2 t3 t5
+
+togetic
+t1 t2 t3 t5
+
+natu
+t1 t2 t3 t5
+
+xatu
+t1 t2 t3 t5
+
+mareep
+t1 t2 t3 t5
+
+flaaffy
+t1 t2 t3 t5
+
+ampharos (mega)
+t1 t2 t3 t5 tmega
+
+ampharos
+t1 t2 t3 t5
+
+mega ampharos
+t1 t2 t3 t5
+
+bellossom
+t1 t2 t3 t5
+
+marill
+t1 t2 t3 t5
+
+azumarill
+t1 t2 t3 t5
+
+sudowoodo
+t1 t2 t3 t5
+
+politoed
+t1 t2 t3 t5
+
+hoppip
+t1 t2 t3 t5
+
+skiploom
+t1 t2 t3 t5
+
+jumpluff
+t1 t2 t3 t5
+
+aipom
+t1 t2 t3 t5
+
+sunkern
+t1 t2 t3 t5
+
+sunflora
+t1 t2 t3 t5
+
+yanma
+t1 t2 t3 t5
+
+wooper (paldean)
+t1 t2 t3 t5
+
+wooper
+t1 t2 t3 t5
+
+quagsire
+t1 t2 t3 t5
+
+espeon
+t1 t2 t3 t5
+
+umbreon
+t1 t2 t3 t5
+
+murkrow
+t1 t2 t3 t5
+
+slowking (galarian)
+t1 t2 t3 t5
+
+slowking
+t1 t2 t3 t5
+
+misdreavus
+t1 t2 t3 t5
+
+unown
+t1 t2 t3 t5
+
+wobbuffet
+t1 t2 t3 t5
+
+girafarig
+t1 t2 t3 t5
+
+pineco
+t1 t2 t3 t5
+
+forretress
+t1 t2 t3 t5
+
+dunsparce
+t1 t2 t3 t5
+
+gligar
+t1 t2 t3 t5
+
+mega steelix
+t1 t2 t3 t5
+
+steelix (mega)
+t1 t2 t3 t5 tmega
+
+steelix
+t1 t2 t3 t5
+
+snubbull
+t1 t2 t3 t5
+
+granbull
+t1 t2 t3 t5
+
+qwilfish (hisuian)
+t1 t2 t3 t5
+
+qwilfish
+t1 t2 t3 t5
+
+mega scizor
+t1 t2 t3 t5
+
+scizor (mega)
+t1 t2 t3 t5 tmega
+
+scizor
+t1 t2 t3 t5
+
+shuckle
+t1 t2 t3 t5
+
+heracross (mega)
+t1 t2 t3 t5
+
+heracross
+t1 t2 t3 t5
+
+mega heracross
+t1 t2 t3 t5
+
+sneasel (hisuian)
+t1 t2 t3 t5
+
+sneasel
+t1 t2 t3 t5
+
+teddiursa
+t1 t2 t3 t5
+
+ursaring
+t1 t2 t3 t5
+
+slugma
+t1 t2 t3 t5
+
+magcargo
+t1 t2 t3 t5
+
+swinub
+t1 t2 t3 t5
+
+piloswine
+t1 t2 t3 t5
+
+corsola (galarian)
+t1 t2 t3 t5
+
+corsola
+t1 t2 t3 t5
+
+remoraid
+t1 t2 t3 t5
+
+octillery
+t1 t2 t3 t5
+
+delibird
+t1 t2 t3 t5
+
+mantine
+t1 t2 t3 t5
+
+skarmory
+t1 t2 t3 t5
+
+houndour
+t1 t2 t3 t5
+
+houndoom (mega)
+t1 t2 t3 t5 tmega
+
+houndoom
+t1 t2 t3 t5
+
+mega houndoom
+t1 t2 t3 t5
+
+kingdra
+t1 t2 t3 t5
+
+phanpy
+t1 t2 t3 t5
+
+donphan
+t1 t2 t3 t5
+
+porygon2
+t1 t2 t3 t5
+
+stantler
+t1 t2 t3 t5
+
+tyrogue
+t1 t2 t3 t5
+
+hitmontop
+t1 t2 t3 t5
+
+smoochum
+t1 t2 t3 t5
+
+elekid
+t1 t2 t3 t5
+
+magby
+t1 t2 t3 t5
+
+miltank
+t1 t2 t3 t5
+
+blissey
+t1 t2 t3 t5
+
+raikou
+t1 t2 t3 t5
+
+entei
+t1 t2 t3 t5
+
+suicune
+t1 t2 t3 t5
+
+larvitar
+t1 t2 t3 t5
+
+pupitar
+t1 t2 t3 t5
+
+mega tyranitar
+t1 t2 t3 t5
+
+tyranitar (mega)
+t1 t2 t3 t5
+
+tyranitar
+t1 t2 t3 t5
+
+lugia
+t1 t2 t3 t5
+
+ho-oh
+t1 t2 t3 t5
+
+celebi
+t1 t2 t3 t5
+
+treecko
+t1 t2 t3 t5
+
+grovyle
+t1 t2 t3 t5
+
+mega sceptile
+t1 t2 t3 t5
+
+sceptile (mega)
+t1 t2 t3 t5
+
+sceptile
+t1 t2 t3 t5
+
+torchic
+t1 t2 t3 t5
+
+combusken
+t1 t2 t3 t5
+
+blaziken (mega)
+t1 t2 t3 t5
+
+blaziken
+t1 t2 t3 t5
+
+mega blaziken
+t1 t2 t3 t5
+
+mudkip
+t1 t2 t3 t5
+
+marshtomp
+t1 t2 t3 t5
+
+mega swampert
+t1 t2 t3 t5
+
+swampert (mega)
+t1 t2 t3 t5
+
+swampert
+t1 t2 t3 t5
+
+poochyena
+t1 t2 t3 t5
+
+mightyena
+t1 t2 t3 t5
+
+zigzagoon (galarian)
+t1 t2 t3 t5
+
+zigzagoon
+t1 t2 t3 t5
+
+linoone (galarian)
+t1 t2 t3 t5
+
+linoone
+t1 t2 t3 t5
+
+wurmple
+t1 t2 t3 t5
+
+silcoon
+t1 t2 t3 t5
+
+beautifly
+t1 t2 t3 t5
+
+cascoon
+t1 t2 t3 t5
+
+dustox
+t1 t2 t3 t5
+
+lotad
+t1 t2 t3 t5
+
+lombre
+t1 t2 t3 t5
+
+ludicolo
+t1 t2 t3 t5
+
+seedot
+t1 t2 t3 t5
+
+nuzleaf
+t1 t2 t3 t5
+
+shiftry
+t1 t2 t3 t5
+
+taillow
+t1 t2 t3 t5
+
+swellow
+t1 t2 t3 t5
+
+wingull
+t1 t2 t3 t5
+
+pelipper
+t1 t2 t3 t5
+
+ralts
+t1 t2 t3 t5
+
+kirlia
+t1 t2 t3 t5
+
+gardevoir (mega)
+t1 t2 t3 t5
+
+gardevoir
+t1 t2 t3 t5
+
+mega gardevoir
+t1 t2 t3 t5
+
+surskit
+t1 t2 t3 t5
+
+masquerain
+t1 t2 t3 t5
+
+shroomish
+t1 t2 t3 t5
+
+breloom
+t1 t2 t3 t5
+
+slakoth
+t1 t2 t3 t5
+
+vigoroth
+t1 t2 t3 t5
+
+slaking
+t1 t2 t3 t5
+
+nincada
+t1 t2 t3 t5
+
+ninjask
+t1 t2 t3 t5
+
+shedinja
+t1 t2 t3 t5
+
+whismur
+t1 t2 t3 t5
+
+loudred
+t1 t2 t3 t5
+
+exploud
+t1 t2 t3 t5
+
+makuhita
+t1 t2 t3 t5
+
+hariyama
+t1 t2 t3 t5
+
+azurill
+t1 t2 t3 t5
+
+nosepass
+t1 t2 t3 t5
+
+skitty
+t1 t2 t3 t5
+
+delcatty
+t1 t2 t3 t5
+
+mega sableye
+t1 t2 t3 t5
+
+sableye (mega)
+t1 t2 t3 t5
+
+sableye
+t1 t2 t3 t5
+
+mawile (mega)
+t1 t2 t3 t5
+
+mawile
+t1 t2 t3 t5
+
+mega mawile
+t1 t2 t3 t5
+
+aron
+t1 t2 t3 t5
+
+lairon
+t1 t2 t3 t5
+
+aggron (mega)
+t1 t2 t3 t5 tmega
+
+aggron
+t1 t2 t3 t5
+
+mega aggron
+t1 t2 t3 t5
+
+meditite
+t1 t2 t3 t5
+
+medicham (mega)
+t1 t2 t3 t5 tmega
+
+medicham
+t1 t2 t3 t5
+
+mega medicham
+t1 t2 t3 t5
+
+electrike
+t1 t2 t3 t5
+
+manectric (mega)
+t1 t2 t3 t5 tmega
+
+manectric
+t1 t2 t3 t5
+
+mega manectric
+t1 t2 t3 t5
+
+plusle
+t1 t2 t3 t5
+
+minun
+t1 t2 t3 t5
+
+volbeat
+t1 t2 t3 t5
+
+illumise
+t1 t2 t3 t5
+
+roselia
+t1 t2 t3 t5
+
+gulpin
+t1 t2 t3 t5
+
+swalot
+t1 t2 t3 t5
+
+carvanha
+t1 t2 t3 t5
+
+mega sharpedo
+t1 t2 t3 t5
+
+sharpedo (mega)
+t1 t2 t3 t5
+
+sharpedo
+t1 t2 t3 t5
+
+wailmer
+t1 t2 t3 t5
+
+wailord
+t1 t2 t3 t5
+
+numel
+t1 t2 t3 t5
+
+camerupt (mega)
+t1 t2 t3 t5
+
+camerupt
+t1 t2 t3 t5
+
+mega camerupt
+t1 t2 t3 t5
+
+torkoal
+t1 t2 t3 t5
+
+spoink
+t1 t2 t3 t5
+
+grumpig
+t1 t2 t3 t5
+
+spinda
+t1 t2 t3 t5
+
+trapinch
+t1 t2 t3 t5
+
+vibrava
+t1 t2 t3 t5
+
+flygon
+t1 t2 t3 t5
+
+cacnea
+t1 t2 t3 t5
+
+cacturne
+t1 t2 t3 t5
+
+swablu
+t1 t2 t3 t5
+
+altaria (mega)
+t1 t2 t3 t5 tmega
+
+altaria
+t1 t2 t3 t5
+
+mega altaria
+t1 t2 t3 t5
+
+zangoose
+t1 t2 t3 t5
+
+seviper
+t1 t2 t3 t5
+
+lunatone
+t1 t2 t3 t5
+
+solrock
+t1 t2 t3 t5
+
+barboach
+t1 t2 t3 t5
+
+whiscash
+t1 t2 t3 t5
+
+corphish
+t1 t2 t3 t5
+
+crawdaunt
+t1 t2 t3 t5
+
+baltoy
+t1 t2 t3 t5
+
+claydol
+t1 t2 t3 t5
+
+lileep
+t1 t2 t3 t5
+
+cradily
+t1 t2 t3 t5
+
+anorith
+t1 t2 t3 t5
+
+armaldo
+t1 t2 t3 t5
+
+feebas
+t1 t2 t3 t5
+
+milotic
+t1 t2 t3 t5
+
+castform (rainy)
+t1 t2 t3 t5
+
+castform (snowy)
+t1 t2 t3 t5
+
+castform (sunny)
+t1 t2 t3 t5
+
+castform
+t1 t2 t3 t5
+
+kecleon
+t1 t2 t3 t5
+
+shuppet
+t1 t2 t3 t5
+
+banette (mega)
+t1 t2 t3 t5 tmega
+
+banette
+t1 t2 t3 t5
+
+mega banette
+t1 t2 t3 t5
+
+duskull
+t1 t2 t3 t5
+
+dusclops
+t1 t2 t3 t5
+
+tropius
+t1 t2 t3 t5
+
+chimecho
+t1 t2 t3 t5
+
+absol (mega)
+t1 t2 t3 t5 tmega
+
+absol
+t1 t2 t3 t5
+
+mega absol
+t1 t2 t3 t5
+
+wynaut
+t1 t2 t3 t5
+
+snorunt
+t1 t2 t3 t5
+
+glalie (mega)
+t1 t2 t3 t5 tmega
+
+glalie
+t1 t2 t3 t5
+
+mega glalie
+t1 t2 t3 t5
+
+spheal
+t1 t2 t3 t5
+
+sealeo
+t1 t2 t3 t5
+
+walrein
+t1 t2 t3 t5
+
+clamperl
+t1 t2 t3 t5
+
+huntail
+t1 t2 t3 t5
+
+gorebyss
+t1 t2 t3 t5
+
+relicanth
+t1 t2 t3 t5
+
+luvdisc
+t1 t2 t3 t5
+
+bagon
+t1 t2 t3 t5
+
+shelgon
+t1 t2 t3 t5
+
+mega salamence
+t1 t2 t3 t5
+
+salamence (mega)
+t1 t2 t3 t5 tmega
+
+salamence
+t1 t2 t3 t5
+
+beldum
+t1 t2 t3 t5
+
+metang
+t1 t2 t3 t5
+
+mega metagross
+t1 t2 t3 t5
+
+metagross (mega)
+t1 t2 t3 t5
+
+metagross
+t1 t2 t3 t5
+
+regirock
+t1 t2 t3 t5
+
+regice
+t1 t2 t3 t5
+
+registeel
+t1 t2 t3 t5
+
+latias (mega)
+t1 t2 t3 t5
+
+latias
+t1 t2 t3 t5
+
+mega latias
+t1 t2 t3 t5
+
+latios (mega)
+t1 t2 t3 t5
+
+latios
+t1 t2 t3 t5
+
+mega latios
+t1 t2 t3 t5
+
+kyogre (primal)
+t1 t2 t3 t5
+
+kyogre
+t1 t2 t3 t5
+
+groudon (primal)
+t1 t2 t3 t5
+
+groudon
+t1 t2 t3 t5
+
+mega rayquaza
+t1 t2 t3 t5
+
+rayquaza (mega)
+t1 t2 t3 t5 tmega_lendaria
+
+rayquaza
+t1 t2 t3 t5
+
+jirachi
+t1 t2 t3 t5
+
+deoxys (attack)
+t1 t2 t3 t5
+
+deoxys (defense)
+t1 t2 t3 t5
+
+deoxys (speed)
+t1 t2 t3 t5
+
+deoxys
+t1 t2 t3 t5
+
+turtwig
+t1 t2 t3 t5
+
+grotle
+t1 t2 t3 t5
+
+torterra
+t1 t2 t3 t5
+
+chimchar
+t1 t2 t3 t5
+
+monferno
+t1 t2 t3 t5
+
+infernape
+t1 t2 t3 t5
+
+piplup
+t1 t2 t3 t5
+
+prinplup
+t1 t2 t3 t5
+
+empoleon
+t1 t2 t3 t5
+
+starly
+t1 t2 t3 t5
+
+staravia
+t1 t2 t3 t5
+
+staraptor
+t1 t2 t3 t5
+
+bidoof
+t1 t2 t3 t5
+
+bibarel
+t1 t2 t3 t5
+
+kricketot
+t1 t2 t3 t5
+
+kricketune
+t1 t2 t3 t5
+
+shinx
+t1 t2 t3 t5
+
+luxio
+t1 t2 t3 t5
+
+luxray
+t1 t2 t3 t5
+
+budew
+t1 t2 t3 t5
+
+roserade
+t1 t2 t3 t5
+
+cranidos
+t1 t2 t3 t5
+
+rampardos
+t1 t2 t3 t5
+
+shieldon
+t1 t2 t3 t5
+
+bastiodon
+t1 t2 t3 t5
+
+burmy (plant)
+t1 t2 t3 t5
+
+burmy (sandy)
+t1 t2 t3 t5
+
+burmy (trash)
+t1 t2 t3 t5
+
+wormadam (plant)
+t1 t2 t3 t5
+
+wormadam (sandy)
+t1 t2 t3 t5
+
+wormadam (trash)
+t1 t2 t3 t5
+
+mothim
+t1 t2 t3 t5
+
+combee
+t1 t2 t3 t5
+
+vespiquen
+t1 t2 t3 t5
+
+pachirisu
+t1 t2 t3 t5
+
+buizel
+t1 t2 t3 t5
+
+floatzel
+t1 t2 t3 t5
+
+cherubi
+t1 t2 t3 t5
+
+cherrim (overcast)
+t1 t2 t3 t5
+
+cherrim (sunshine)
+t1 t2 t3 t5
+
+shellos
+t1 t2 t3 t5
+
+gastrodon
+t1 t2 t3 t5
+
+ambipom
+t1 t2 t3 t5
+
+drifloon
+t1 t2 t3 t5
+
+drifblim
+t1 t2 t3 t5
+
+buneary
+t1 t2 t3 t5
+
+lopunny (mega)
+t1 t2 t3 t5 tmega
+
+lopunny
+t1 t2 t3 t5
+
+mega lopunny
+t1 t2 t3 t5
+
+mismagius
+t1 t2 t3 t5
+
+honchkrow
+t1 t2 t3 t5
+
+glameow
+t1 t2 t3 t5
+
+purugly
+t1 t2 t3 t5
+
+chingling
+t1 t2 t3 t5
+
+stunky
+t1 t2 t3 t5
+
+skuntank
+t1 t2 t3 t5
+
+bronzor
+t1 t2 t3 t5
+
+bronzong
+t1 t2 t3 t5
+
+bonsly
+t1 t2 t3 t5
+
+mime (jr)
+t1 t2 t3 t5
+
+happiny
+t1 t2 t3 t5
+
+chatot
+t1 t2 t3 t5
+
+spiritomb
+t1 t2 t3 t5
+
+gible
+t1 t2 t3 t5
+
+gabite
+t1 t2 t3 t5
+
+garchomp (mega)
+t1 t2 t3 t5
+
+garchomp
+t1 t2 t3 t5
+
+mega garchomp
+t1 t2 t3 t5
+
+munchlax
+t1 t2 t3 t5
+
+riolu
+t1 t2 t3 t5
+
+lucario (mega)
+t1 t2 t3 t5
+
+lucario
+t1 t2 t3 t5
+
+mega lucario
+t1 t2 t3 t5
+
+hippopotas
+t1 t2 t3 t5
+
+hippowdon
+t1 t2 t3 t5
+
+skorupi
+t1 t2 t3 t5
+
+drapion
+t1 t2 t3 t5
+
+croagunk
+t1 t2 t3 t5
+
+toxicroak
+t1 t2 t3 t5
+
+carnivine
+t1 t2 t3 t5
+
+finneon
+t1 t2 t3 t5
+
+lumineon
+t1 t2 t3 t5
+
+mantyke
+t1 t2 t3 t5
+
+snover
+t1 t2 t3 t5
+
+abomasnow (mega)
+t1 t2 t3 t5 tmega
+
+abomasnow
+t1 t2 t3 t5
+
+mega abomasnow
+t1 t2 t3 t5
+
+weavile
+t1 t2 t3 t5
+
+magnezone
+t1 t2 t3 t5
+
+lickilicky
+t1 t2 t3 t5
+
+rhyperior
+t1 t2 t3 t5
+
+tangrowth
+t1 t2 t3 t5
+
+electivire
+t1 t2 t3 t5
+
+magmortar
+t1 t2 t3 t5
+
+togekiss
+t1 t2 t3 t5
+
+yanmega
+t1 t2 t3 t5
+
+leafeon
+t1 t2 t3 t5
+
+glaceon
+t1 t2 t3 t5
+
+gliscor
+t1 t2 t3 t5
+
+mamoswine
+t1 t2 t3 t5
+
+porygon-z
+t1 t2 t3 t5
+
+gallade (mega)
+t1 t2 t3 t5
+
+gallade
+t1 t2 t3 t5
+
+mega gallade
+t1 t2 t3 t5
+
+probopass
+t1 t2 t3 t5
+
+dusknoir
+t1 t2 t3 t5
+
+froslass
+t1 t2 t3 t5
+
+rotom (fan)
+t1 t2 t3 t5
+
+rotom (frost)
+t1 t2 t3 t5
+
+rotom (heat)
+t1 t2 t3 t5
+
+rotom (mow)
+t1 t2 t3 t5
+
+rotom (wash)
+t1 t2 t3 t5
+
+rotom
+t1 t2 t3 t5
+
+uxie
+t1 t2 t3 t5
+
+mesprit
+t1 t2 t3 t5
+
+azelf
+t1 t2 t3 t5
+
+dialga (origin)
+t1 t2 t3 t5
+
+dialga
+t1 t2 t3 t5
+
+palkia (origin)
+t1 t2 t3 t5
+
+palkia
+t1 t2 t3 t5
+
+heatran
+t1 t2 t3 t5
+
+regigigas
+t1 t2 t3 t5
+
+giratina (altered)
+t1 t2 t3 t5
+
+giratina (origin)
+t1 t2 t3 t5
+
+cresselia
+t1 t2 t3 t5
+
+phione
+t1 t2 t3 t5
+
+manaphy
+t1 t2 t3 t5
+
+darkrai
+t1 t2 t3 t5
+
+shaymin (land)
+t1 t2 t3 t5
+
+shaymin (sky)
+t1 t2 t3 t5
+
+arceus (bug)
+t1 t2 t3 t5
+
+arceus (dark)
+t1 t2 t3 t5
+
+arceus (dragon)
+t1 t2 t3 t5
+
+arceus (electric)
+t1 t2 t3 t5
+
+arceus (fairy)
+t1 t2 t3 t5
+
+arceus (fighting)
+t1 t2 t3 t5
+
+arceus (fire)
+t1 t2 t3 t5
+
+arceus (flying)
+t1 t2 t3 t5
+
+arceus (ghost)
+t1 t2 t3 t5
+
+arceus (grass)
+t1 t2 t3 t5
+
+arceus (ground)
+t1 t2 t3 t5
+
+arceus (ice)
+t1 t2 t3 t5
+
+arceus (poison)
+t1 t2 t3 t5
+
+arceus (psychic)
+t1 t2 t3 t5
+
+arceus (rock)
+t1 t2 t3 t5
+
+arceus (steel)
+t1 t2 t3 t5
+
+arceus (water)
+t1 t2 t3 t5
+
+arceus
+t1 t2 t3 t5
+
+victini
+t1 t2 t3 t5
+
+snivy
+t1 t2 t3 t5
+
+servine
+t1 t2 t3 t5
+
+serperior
+t1 t2 t3 t5
+
+tepig
+t1 t2 t3 t5
+
+pignite
+t1 t2 t3 t5
+
+emboar
+t1 t2 t3 t5
+
+oshawott
+t1 t2 t3 t5
+
+dewott
+t1 t2 t3 t5
+
+samurott (hisuian)
+t1 t2 t3 t5
+
+samurott
+t1 t2 t3 t5
+
+patrat
+t1 t2 t3 t5
+
+watchog
+t1 t2 t3 t5
+
+lillipup
+t1 t2 t3 t5
+
+herdier
+t1 t2 t3 t5
+
+stoutland
+t1 t2 t3 t5
+
+purrloin
+t1 t2 t3 t5
+
+liepard
+t1 t2 t3 t5
+
+pansage
+t1 t2 t3 t5
+
+simisage
+t1 t2 t3 t5
+
+pansear
+t1 t2 t3 t5
+
+simisear
+t1 t2 t3 t5
+
+panpour
+t1 t2 t3 t5
+
+simipour
+t1 t2 t3 t5
+
+munna
+t1 t2 t3 t5
+
+musharna
+t1 t2 t3 t5
+
+pidove
+t1 t2 t3 t5
+
+tranquill
+t1 t2 t3 t5
+
+unfezant
+t1 t2 t3 t5
+
+blitzle
+t1 t2 t3 t5
+
+zebstrika
+t1 t2 t3 t5
+
+roggenrola
+t1 t2 t3 t5
+
+boldore
+t1 t2 t3 t5
+
+gigalith
+t1 t2 t3 t5
+
+woobat
+t1 t2 t3 t5
+
+swoobat
+t1 t2 t3 t5
+
+drilbur
+t1 t2 t3 t5
+
+excadrill
+t1 t2 t3 t5
+
+audino (mega)
+t1 t2 t3 t5
+
+audino
+t1 t2 t3 t5
+
+mega audino
+t1 t2 t3 t5
+
+timburr
+t1 t2 t3 t5
+
+gurdurr
+t1 t2 t3 t5
+
+conkeldurr
+t1 t2 t3 t5
+
+tympole
+t1 t2 t3 t5
+
+palpitoad
+t1 t2 t3 t5
+
+seismitoad
+t1 t2 t3 t5
+
+throh
+t1 t2 t3 t5
+
+sawk
+t1 t2 t3 t5
+
+sewaddle
+t1 t2 t3 t5
+
+swadloon
+t1 t2 t3 t5
+
+leavanny
+t1 t2 t3 t5
+
+venipede
+t1 t2 t3 t5
+
+whirlipede
+t1 t2 t3 t5
+
+scolipede
+t1 t2 t3 t5
+
+cottonee
+t1 t2 t3 t5
+
+whimsicott
+t1 t2 t3 t5
+
+petilil
+t1 t2 t3 t5
+
+lilligant (hisuian)
+t1 t2 t3 t5
+
+lilligant
+t1 t2 t3 t5
+
+basculin
+t1 t2 t3 t5
+
+sandile
+t1 t2 t3 t5
+
+krokorok
+t1 t2 t3 t5
+
+krookodile
+t1 t2 t3 t5
+
+darumaka (galarian)
+t1 t2 t3 t5
+
+darumaka
+t1 t2 t3 t5
+
+darmanitan (galarian)
+t1 t2 t3 t5
+
+darmanitan (galarian zen)
+t1 t2 t3 t5
+
+darmanitan (standard)
+t1 t2 t3 t5
+
+darmanitan (zen)
+t1 t2 t3 t5
+
+maractus
+t1 t2 t3 t5
+
+dwebble
+t1 t2 t3 t5
+
+crustle
+t1 t2 t3 t5
+
+scraggy
+t1 t2 t3 t5
+
+scrafty
+t1 t2 t3 t5
+
+sigilyph
+t1 t2 t3 t5
+
+yamask (galarian)
+t1 t2 t3 t5
+
+yamask
+t1 t2 t3 t5
+
+cofagrigus
+t1 t2 t3 t5
+
+tirtouga
+t1 t2 t3 t5
+
+carracosta
+t1 t2 t3 t5
+
+archen
+t1 t2 t3 t5
+
+archeops
+t1 t2 t3 t5
+
+trubbish
+t1 t2 t3 t5
+
+garbodor gigamax
+t1 t2 t3 t5
+
+garbodor
+t1 t2 t3 t5
+
+zorua (hisuian)
+t1 t2 t3 t5
+
+zorua
+t1 t2 t3 t5
+
+zoroark (hisuian)
+t1 t2 t3 t5
+
+zoroark
+t1 t2 t3 t5
+
+minccino
+t1 t2 t3 t5
+
+cinccino
+t1 t2 t3 t5
+
+gothita
+t1 t2 t3 t5
+
+gothorita
+t1 t2 t3 t5
+
+gothitelle
+t1 t2 t3 t5
+
+solosis
+t1 t2 t3 t5
+
+duosion
+t1 t2 t3 t5
+
+reuniclus
+t1 t2 t3 t5
+
+ducklett
+t1 t2 t3 t5
+
+swanna
+t1 t2 t3 t5
+
+vanillite
+t1 t2 t3 t5
+
+vanillish
+t1 t2 t3 t5
+
+vanilluxe
+t1 t2 t3 t5
+
+deerling
+t1 t2 t3 t5
+
+sawsbuck
+t1 t2 t3 t5
+
+emolga
+t1 t2 t3 t5
+
+karrablast
+t1 t2 t3 t5
+
+escavalier
+t1 t2 t3 t5
+
+foongus
+t1 t2 t3 t5
+
+amoonguss
+t1 t2 t3 t5
+
+frillish
+t1 t2 t3 t5
+
+jellicent
+t1 t2 t3 t5
+
+alomomola
+t1 t2 t3 t5
+
+joltik
+t1 t2 t3 t5
+
+galvantula
+t1 t2 t3 t5
+
+ferroseed
+t1 t2 t3 t5
+
+ferrothorn
+t1 t2 t3 t5
+
+klink
+t1 t2 t3 t5
+
+klang
+t1 t2 t3 t5
+
+klinklang
+t1 t2 t3 t5
+
+tynamo
+t1 t2 t3 t5
+
+eelektrik
+t1 t2 t3 t5
+
+eelektross
+t1 t2 t3 t5
+
+elgyem
+t1 t2 t3 t5
+
+beheeyem
+t1 t2 t3 t5
+
+litwick
+t1 t2 t3 t5
+
+lampent
+t1 t2 t3 t5
+
+chandelure
+t1 t2 t3 t5
+
+axew
+t1 t2 t3 t5
+
+fraxure
+t1 t2 t3 t5
+
+haxorus
+t1 t2 t3 t5
+
+cubchoo
+t1 t2 t3 t5
+
+beartic
+t1 t2 t3 t5
+
+cryogonal
+t1 t2 t3 t5
+
+shelmet
+t1 t2 t3 t5
+
+accelgor
+t1 t2 t3 t5
+
+stunfisk (galarian)
+t1 t2 t3 t5
+
+stunfisk
+t1 t2 t3 t5
+
+mienfoo
+t1 t2 t3 t5
+
+mienshao
+t1 t2 t3 t5
+
+druddigon
+t1 t2 t3 t5
+
+golett
+t1 t2 t3 t5
+
+golurk
+t1 t2 t3 t5
+
+pawniard
+t1 t2 t3 t5
+
+bisharp
+t1 t2 t3 t5
+
+bouffalant
+t1 t2 t3 t5
+
+rufflet
+t1 t2 t3 t5
+
+braviary (hisuian)
+t1 t2 t3 t5
+
+braviary
+t1 t2 t3 t5
+
+vullaby
+t1 t2 t3 t5
+
+mandibuzz
+t1 t2 t3 t5
+
+heatmor
+t1 t2 t3 t5
+
+durant
+t1 t2 t3 t5
+
+deino
+t1 t2 t3 t5
+
+zweilous
+t1 t2 t3 t5
+
+hydreigon
+t1 t2 t3 t5
+
+larvesta
+t1 t2 t3 t5
+
+volcarona
+t1 t2 t3 t5
+
+cobalion
+t1 t2 t3 t5
+
+terrakion
+t1 t2 t3 t5
+
+virizion
+t1 t2 t3 t5
+
+tornadus (incarnate)
+t1 t2 t3 t5
+
+tornadus (therian)
+t1 t2 t3 t5
+
+thundurus (incarnate)
+t1 t2 t3 t5
+
+thundurus (therian)
+t1 t2 t3 t5
+
+reshiram
+t1 t2 t3 t5
+
+zekrom
+t1 t2 t3 t5
+
+landorus (incarnate)
+t1 t2 t3 t5
+
+landorus (therian)
+t1 t2 t3 t5
+
+kyurem (black)
+t1 t2 t3 t5
+
+kyurem (white)
+t1 t2 t3 t5
+
+kyurem
+t1 t2 t3 t5
+
+keldeo (ordinary)
+t1 t2 t3 t5
+
+keldeo (resolute)
+t1 t2 t3 t5
+
+meloetta (aria)
+t1 t2 t3 t5
+
+meloetta (pirouette)
+t1 t2 t3 t5
+
+genesect (burn)
+t1 t2 t3 t5
+
+genesect (chill)
+t1 t2 t3 t5
+
+genesect (douse)
+t1 t2 t3 t5
+
+genesect (shock)
+t1 t2 t3 t5
+
+genesect
+t1 t2 t3 t5
+
+chespin
+t1 t2 t3 t5
+
+quilladin
+t1 t2 t3 t5
+
+chesnaught
+t1 t2 t3 t5
+
+fennekin
+t1 t2 t3 t5
+
+braixen
+t1 t2 t3 t5
+
+delphox
+t1 t2 t3 t5
+
+froakie
+t1 t2 t3 t5
+
+frogadier
+t1 t2 t3 t5
+
+greninja
+t1 t2 t3 t5
+
+bunnelby
+t1 t2 t3 t5
+
+diggersby
+t1 t2 t3 t5
+
+fletchling
+t1 t2 t3 t5
+
+fletchinder
+t1 t2 t3 t5
+
+talonflame
+t1 t2 t3 t5
+
+scatterbug
+t1 t2 t3 t5
+
+spewpa
+t1 t2 t3 t5
+
+vivillon
+t1 t2 t3 t5
+
+litleo
+t1 t2 t3 t5
+
+pyroar
+t1 t2 t3 t5
+
+flabebe
+t1 t2 t3 t5
+
+floette
+t1 t2 t3 t5
+
+florges
+t1 t2 t3 t5
+
+skiddo
+t1 t2 t3 t5
+
+gogoat
+t1 t2 t3 t5
+
+pancham
+t1 t2 t3 t5
+
+pangoro
+t1 t2 t3 t5
+
+furfrou
+t1 t2 t3 t5
+
+espurr
+t1 t2 t3 t5
+
+meowstic (female)
+t1 t2 t3 t5
+
+meowstic (male)
+t1 t2 t3 t5
+
+honedge
+t1 t2 t3 t5
+
+doublade
+t1 t2 t3 t5
+
+aegislash (blade)
+t1 t2 t3 t5
+
+aegislash (shield)
+t1 t2 t3 t5
+
+spritzee
+t1 t2 t3 t5
+
+aromatisse
+t1 t2 t3 t5
+
+swirlix
+t1 t2 t3 t5
+
+slurpuff
+t1 t2 t3 t5
+
+inkay
+t1 t2 t3 t5
+
+malamar (mega)
+t1 t2 t3 t5
+
+malamar
+t1 t2 t3 t5
+
+binacle
+t1 t2 t3 t5
+
+barbaracle
+t1 t2 t3 t5
+
+skrelp
+t1 t2 t3 t5
+
+dragalge
+t1 t2 t3 t5
+
+clauncher
+t1 t2 t3 t5
+
+clawitzer
+t1 t2 t3 t5
+
+helioptile
+t1 t2 t3 t5
+
+heliolisk
+t1 t2 t3 t5
+
+tyrunt
+t1 t2 t3 t5
+
+tyrantrum
+t1 t2 t3 t5
+
+amaura
+t1 t2 t3 t5
+
+aurorus
+t1 t2 t3 t5
+
+sylveon
+t1 t2 t3 t5
+
+hawlucha
+t1 t2 t3 t5
+
+dedenne
+t1 t2 t3 t5
+
+carbink
+t1 t2 t3 t5
+
+goomy
+t1 t2 t3 t5
+
+sliggoo
+t1 t2 t3 t5
+
+goodra
+t1 t2 t3 t5
+
+klefki
+t1 t2 t3 t5
+
+phantump
+t1 t2 t3 t5
+
+trevenant
+t1 t2 t3 t5
+
+pumpkaboo (average)
+t1 t2 t3 t5
+
+pumpkaboo (large)
+t1 t2 t3 t5
+
+pumpkaboo (small)
+t1 t2 t3 t5
+
+pumpkaboo (super)
+t1 t2 t3 t5
+
+gourgeist (average)
+t1 t2 t3 t5
+
+gourgeist (large)
+t1 t2 t3 t5
+
+gourgeist (small)
+t1 t2 t3 t5
+
+gourgeist (super)
+t1 t2 t3 t5
+
+bergmite
+t1 t2 t3 t5
+
+avalugg (hisuian)
+t1 t2 t3 t5
+
+avalugg
+t1 t2 t3 t5
+
+noibat
+t1 t2 t3 t5
+
+noivern
+t1 t2 t3 t5
+
+xerneas
+t1 t2 t3 t5
+
+yveltal
+t1 t2 t3 t5
+
+zygarde (10% forme)
+t1 t2 t3 t5
+
+zygarde (50% forme)
+t1 t2 t3 t5
+
+zygarde (complete forme)
+t1 t2 t3 t5
+
+diancie (mega)
+t1 t2 t3 t5
+
+diancie
+t1 t2 t3 t5
+
+mega diancie
+t1 t2 t3 t5
+
+hoopa (confined)
+t1 t2 t3 t5
+
+hoopa (unbound)
+t1 t2 t3 t5
+
+hoopa
+t1 t2 t3 t5
+
+volcanion
+t1 t2 t3 t5
+
+rowlet
+t1 t2 t3 t5
+
+dartrix
+t1 t2 t3 t5
+
+decidueye (hisuian)
+t1 t2 t3 t5
+
+decidueye
+t1 t2 t3 t5
+
+litten
+t1 t2 t3 t5
+
+torracat
+t1 t2 t3 t5
+
+incineroar
+t1 t2 t3 t5
+
+popplio
+t1 t2 t3 t5
+
+brionne
+t1 t2 t3 t5
+
+primarina
+t1 t2 t3 t5
+
+pikipek
+t1 t2 t3 t5
+
+trumbeak
+t1 t2 t3 t5
+
+toucannon
+t1 t2 t3 t5
+
+yungoos
+t1 t2 t3 t5
+
+gumshoos
+t1 t2 t3 t5
+
+grubbin
+t1 t2 t3 t5
+
+charjabug
+t1 t2 t3 t5
+
+vikavolt
+t1 t2 t3 t5
+
+crabrawler
+t1 t2 t3 t5
+
+crabominable
+t1 t2 t3 t5
+
+oricorio (baile)
+t1 t2 t3 t5
+
+oricorio (pa'u)
+t1 t2 t3 t5
+
+oricorio (pom-pom)
+t1 t2 t3 t5
+
+oricorio (sensu)
+t1 t2 t3 t5
+
+cutiefly
+t1 t2 t3 t5
+
+ribombee
+t1 t2 t3 t5
+
+rockruff
+t1 t2 t3 t5
+
+lycanroc (dusk)
+t1 t2 t3 t5
+
+lycanroc (midday)
+t1 t2 t3 t5
+
+lycanroc (midnight)
+t1 t2 t3 t5
+
+wishiwashi (school)
+t1 t2 t3 t5
+
+wishiwashi (solo)
+t1 t2 t3 t5
+
+wishiwashi
+t1 t2 t3 t5
+
+mareanie
+t1 t2 t3 t5
+
+toxapex
+t1 t2 t3 t5
+
+mudbray
+t1 t2 t3 t5
+
+mudsdale
+t1 t2 t3 t5
+
+dewpider
+t1 t2 t3 t5
+
+araquanid
+t1 t2 t3 t5
+
+fomantis
+t1 t2 t3 t5
+
+lurantis
+t1 t2 t3 t5
+
+morelull
+t1 t2 t3 t5
+
+shiinotic
+t1 t2 t3 t5
+
+salandit
+t1 t2 t3 t5
+
+salazzle
+t1 t2 t3 t5
+
+stufful
+t1 t2 t3 t5
+
+bewear
+t1 t2 t3 t5
+
+bounsweet
+t1 t2 t3 t5
+
+steenee
+t1 t2 t3 t5
+
+tsareena
+t1 t2 t3 t5
+
+comfey
+t1 t2 t3 t5
+
+oranguru
+t1 t2 t3 t5
+
+passimian
+t1 t2 t3 t5
+
+wimpod
+t1 t2 t3 t5
+
+golisopod
+t1 t2 t3 t5
+
+sandygast
+t1 t2 t3 t5
+
+palossand
+t1 t2 t3 t5
+
+pyukumuku
+t1 t2 t3 t5
+
+type (null)
+t1 t2 t3 t5
+
+silvally (bug)
+t1 t2 t3 t5
+
+silvally (dark)
+t1 t2 t3 t5
+
+silvally (dragon)
+t1 t2 t3 t5
+
+silvally (electric)
+t1 t2 t3 t5
+
+silvally (fairy)
+t1 t2 t3 t5
+
+silvally (fighting)
+t1 t2 t3 t5
+
+silvally (fire)
+t1 t2 t3 t5
+
+silvally (flying)
+t1 t2 t3 t5
+
+silvally (ghost)
+t1 t2 t3 t5
+
+silvally (grass)
+t1 t2 t3 t5
+
+silvally (ground)
+t1 t2 t3 t5
+
+silvally (ice)
+t1 t2 t3 t5
+
+silvally (poison)
+t1 t2 t3 t5
+
+silvally (psychic)
+t1 t2 t3 t5
+
+silvally (rock)
+t1 t2 t3 t5
+
+silvally (steel)
+t1 t2 t3 t5
+
+silvally (water)
+t1 t2 t3 t5
+
+silvally
+t1 t2 t3 t5
+
+minior (core)
+t1 t2 t3 t5
+
+minior (meteor)
+t1 t2 t3 t5
+
+komala
+t1 t2 t3 t5
+
+turtonator
+t1 t2 t3 t5
+
+togedemaru
+t1 t2 t3 t5
+
+mimikyu
+t1 t2 t3 t5
+
+bruxish
+t1 t2 t3 t5
+
+drampa
+t1 t2 t3 t5
+
+dhelmise
+t1 t2 t3 t5
+
+jangmo-o
+t1 t2 t3 t5
+
+hakamo-o
+t1 t2 t3 t5
+
+kommo-o
+t1 t2 t3 t5
+
+tapu koko
+t1 t2 t3 t5
+
+tapu lele
+t1 t2 t3 t5
+
+tapu bulu
+t1 t2 t3 t5
+
+tapu fini
+t1 t2 t3 t5
+
+cosmog
+t1 t2 t3 t5
+
+cosmoem
+t1 t2 t3 t5
+
+solgaleo
+t1 t2 t3 t5
+
+lunala
+t1 t2 t3 t5
+
+nihilego
+t1 t2 t3 t5
+
+buzzwole
+t1 t2 t3 t5
+
+pheromosa
+t1 t2 t3 t5
+
+xurkitree
+t1 t2 t3 t5
+
+celesteela
+t1 t2 t3 t5
+
+kartana
+t1 t2 t3 t5
+
+guzzlord
+t1 t2 t3 t5
+
+necrozma (dawn wings)
+t1 t2 t3 t5
+
+necrozma (dusk mane)
+t1 t2 t3 t5
+
+necrozma (ultra)
+t1 t2 t3 t5
+
+necrozma
+t1 t2 t3 t5
+
+magearna
+t1 t2 t3 t5
+
+marshadow
+t1 t2 t3 t5
+
+poipole
+t1 t2 t3 t5
+
+naganadel
+t1 t2 t3 t5
+
+stakataka
+t1 t2 t3 t5
+
+blacephalon
+t1 t2 t3 t5
+
+zeraora
+t1 t2 t3 t5
+
+meltan
+t1 t2 t3 t5
+
+melmetal gigamax
+t1 t2 t3 t5
+
+melmetal
+t1 t2 t3 t5
+
+grookey
+t1 t2 t3 t5
+
+thwackey
+t1 t2 t3 t5
+
+rillaboom gigamax
+t1 t2 t3 t5
+
+rillaboom
+t1 t2 t3 t5
+
+scorbunny
+t1 t2 t3 t5
+
+raboot
+t1 t2 t3 t5
+
+cinderace gigamax
+t1 t2 t3 t5
+
+cinderace
+t1 t2 t3 t5
+
+sobble
+t1 t2 t3 t5
+
+drizzile
+t1 t2 t3 t5
+
+inteleon gigamax
+t1 t2 t3 t5
+
+inteleon
+t1 t2 t3 t5
+
+skwovet
+t1 t2 t3 t5
+
+greedent
+t1 t2 t3 t5
+
+rookidee
+t1 t2 t3 t5
+
+corvisquire
+t1 t2 t3 t5
+
+corviknight gigamax
+t1 t2 t3 t5
+
+corviknight
+t1 t2 t3 t5
+
+blipbug
+t1 t2 t3 t5
+
+dottler
+t1 t2 t3 t5
+
+orbeetle gigamax
+t1 t2 t3 t5
+
+orbeetle
+t1 t2 t3 t5
+
+nickit
+t1 t2 t3 t5
+
+thievul
+t1 t2 t3 t5
+
+gossifleur
+t1 t2 t3 t5
+
+eldegoss
+t1 t2 t3 t5
+
+wooloo
+t1 t2 t3 t5
+
+dubwool
+t1 t2 t3 t5
+
+chewtle
+t1 t2 t3 t5
+
+drednaw gigamax
+t1 t2 t3 t5
+
+drednaw
+t1 t2 t3 t5
+
+yamper
+t1 t2 t3 t5
+
+boltund
+t1 t2 t3 t5
+
+rolycoly
+t1 t2 t3 t5
+
+carkol
+t1 t2 t3 t5
+
+coalossal gigamax
+t1 t2 t3 t5
+
+coalossal
+t1 t2 t3 t5
+
+applin
+t1 t2 t3 t5
+
+flapple gigamax
+t1 t2 t3 t5
+
+flapple
+t1 t2 t3 t5
+
+appletun gigamax
+t1 t2 t3 t5
+
+appletun
+t1 t2 t3 t5
+
+silicobra
+t1 t2 t3 t5
+
+sandaconda gigamax
+t1 t2 t3 t5
+
+sandaconda
+t1 t2 t3 t5
+
+cramorant
+t1 t2 t3 t5
+
+arrokuda
+t1 t2 t3 t5
+
+barraskewda
+t1 t2 t3 t5
+
+toxel
+t1 t2 t3 t5
+
+toxtricity (amped)
+t1 t2 t3 t5
+
+toxtricity (forma aguda) gigamax
+t1 t2 t3 t5
+
+toxtricity (forma grave) gigamax
+t1 t2 t3 t5
+
+toxtricity (low key)
+t1 t2 t3 t5
+
+toxtricity
+t1 t2 t3 t5
+
+sizzlipede
+t1 t2 t3 t5
+
+centiskorch gigamax
+t1 t2 t3 t5
+
+centiskorch
+t1 t2 t3 t5
+
+clobbopus
+t1 t2 t3 t5
+
+grapploct
+t1 t2 t3 t5
+
+sinistea
+t1 t2 t3 t5
+
+polteageist
+t1 t2 t3 t5
+
+hatenna
+t1 t2 t3 t5
+
+hattrem
+t1 t2 t3 t5
+
+hatterene gigamax
+t1 t2 t3 t5
+
+hatterene
+t1 t2 t3 t5
+
+impidimp
+t1 t2 t3 t5
+
+morgrem
+t1 t2 t3 t5
+
+grimmsnarl gigamax
+t1 t2 t3 t5
+
+grimmsnarl
+t1 t2 t3 t5
+
+obstagoon
+t1 t2 t3 t5
+
+perrserker
+t1 t2 t3 t5
+
+cursola
+t1 t2 t3 t5
+
+sirfetch'd
+t1 t2 t3 t5
+
+mr. rime
+t1 t2 t3 t5
+
+runerigus
+t1 t2 t3 t5
+
+milcery
+t1 t2 t3 t5
+
+alcremie gigamax
+t1 t2 t3 t5
+
+alcremie
+t1 t2 t3 t5
+
+falinks
+t1 t2 t3 t5
+
+pincurchin
+t1 t2 t3 t5
+
+snom
+t1 t2 t3 t5
+
+frosmoth
+t1 t2 t3 t5
+
+stonjourner
+t1 t2 t3 t5
+
+eiscue (ice)
+t1 t2 t3 t5
+
+eiscue (noice)
+t1 t2 t3 t5
+
+eiscue
+t1 t2 t3 t5
+
+indeedee (female)
+t1 t2 t3 t5
+
+indeedee (male)
+t1 t2 t3 t5
+
+morpeko (full belly)
+t1 t2 t3 t5
+
+morpeko (hangry)
+t1 t2 t3 t5
+
+cufant
+t1 t2 t3 t5
+
+copperajah gigamax
+t1 t2 t3 t5
+
+copperajah
+t1 t2 t3 t5
+
+dracozolt
+t1 t2 t3 t5
+
+arctozolt
+t1 t2 t3 t5
+
+dracovish
+t1 t2 t3 t5
+
+arctovish
+t1 t2 t3 t5
+
+duraludon gigamax
+t1 t2 t3 t5
+
+duraludon
+t1 t2 t3 t5
+
+dreepy
+t1 t2 t3 t5
+
+drakloak
+t1 t2 t3 t5
+
+dragapult
+t1 t2 t3 t5
+
+zacian (crowned sword)
+t1 t2 t3 t5
+
+zacian (hero)
+t1 t2 t3 t5
+
+zamazenta (crowned shield)
+t1 t2 t3 t5
+
+zamazenta (hero)
+t1 t2 t3 t5
+
+eternatus (eternamax)
+t1 t2 t3 t5
+
+eternatus
+t1 t2 t3 t5
+
+kubfu
+t1 t2 t3 t5
+
+urshifu (rapid strike) gigamax
+t1 t2 t3 t5
+
+urshifu (rapid strike)
+t1 t2 t3 t5
+
+urshifu (single strike) gigamax
+t1 t2 t3 t5
+
+urshifu (single strike)
+t1 t2 t3 t5
+
+zarude
+t1 t2 t3 t5
+
+regieleki
+t1 t2 t3 t5
+
+regidrago
+t1 t2 t3 t5
+
+glastrier
+t1 t2 t3 t5
+
+spectrier
+t1 t2 t3 t5
+
+calyrex (ice rider)
+t1 t2 t3 t5
+
+calyrex
+t1 t2 t3 t5
+
+wyrdeer
+t1 t2 t3 t5
+
+kleavor
+t1 t2 t3 t5
+
+ursaluna
+t1 t2 t3 t5
+
+basculegion (female)
+t1 t2 t3 t5
+
+basculegion (male)
+t1 t2 t3 t5
+
+sneasler
+t1 t2 t3 t5
+
+overqwil
+t1 t2 t3 t5
+
+enamorus (incarnate)
+t1 t2 t3 t5
+
+enamorus (therian)
+t1 t2 t3 t5
+
+sprigatito
+t1 t2 t3 t5
+
+floragato
+t1 t2 t3 t5
+
+meowscarada
+t1 t2 t3 t5
+
+fuecoco
+t1 t2 t3 t5
+
+crocalor
+t1 t2 t3 t5
+
+skeledirge
+t1 t2 t3 t5
+
+quaxly
+t1 t2 t3 t5
+
+quaxwell
+t1 t2 t3 t5
+
+quaquaval
+t1 t2 t3 t5
+
+lechonk
+t1 t2 t3 t5
+
+oinkologne (female)
+t1 t2 t3 t5
+
+oinkologne
+t1 t2 t3 t5
+
+tarountula
+t1 t2 t3 t5
+
+spidops
+t1 t2 t3 t5
+
+nymble
+t1 t2 t3 t5
+
+lokix
+t1 t2 t3 t5
+
+pawmi
+t1 t2 t3 t5
+
+pawmo
+t1 t2 t3 t5
+
+pawmot
+t1 t2 t3 t5
+
+tandemaus
+t1 t2 t3 t5
+
+maushold family of four
+t1 t2 t3 t5
+
+maushold family of three
+t1 t2 t3 t5
+
+maushold
+t1 t2 t3 t5
+
+fidough
+t1 t2 t3 t5
+
+dachsbun
+t1 t2 t3 t5
+
+smoliv
+t1 t2 t3 t5
+
+dolliv
+t1 t2 t3 t5
+
+arboliva
+t1 t2 t3 t5
+
+squawkabilly blue
+t1 t2 t3 t5
+
+squawkabilly green
+t1 t2 t3 t5
+
+squawkabilly
+t1 t2 t3 t5
+
+squawkabilly white
+t1 t2 t3 t5
+
+squawkabilly yellow
+t1 t2 t3 t5
+
+nacli
+t1 t2 t3 t5
+
+naclstack
+t1 t2 t3 t5
+
+garganacl
+t1 t2 t3 t5
+
+charcadet
+t1 t2 t3 t5
+
+armarouge
+t1 t2 t3 t5
+
+ceruledge
+t1 t2 t3 t5
+
+tadbulb
+t1 t2 t3 t5
+
+bellibolt
+t1 t2 t3 t5
+
+wattrel
+t1 t2 t3 t5
+
+kilowattrel
+t1 t2 t3 t5
+
+maschiff
+t1 t2 t3 t5
+
+mabosstiff
+t1 t2 t3 t5
+
+shroodle
+t1 t2 t3 t5
+
+grafaiai
+t1 t2 t3 t5
+
+bramblin
+t1 t2 t3 t5
+
+brambleghast
+t1 t2 t3 t5
+
+toedscool
+t1 t2 t3 t5
+
+toedscruel
+t1 t2 t3 t5
+
+klawf
+t1 t2 t3 t5
+
+capsakid
+t1 t2 t3 t5
+
+scovillain
+t1 t2 t3 t5
+
+rellor
+t1 t2 t3 t5
+
+rabsca
+t1 t2 t3 t5
+
+flittle
+t1 t2 t3 t5
+
+espathra
+t1 t2 t3 t5
+
+tinkatink
+t1 t2 t3 t5
+
+tinkatuff
+t1 t2 t3 t5
+
+tinkaton
+t1 t2 t3 t5
+
+wiglett
+t1 t2 t3 t5
+
+wugtrio
+t1 t2 t3 t5
+
+bombirdier
+t1 t2 t3 t5
+
+finizen
+t1 t2 t3 t5
+
+palafin hero
+t1 t2 t3 t5
+
+palafin
+t1 t2 t3 t5
+
+palafin zero
+t1 t2 t3 t5
+
+varoom
+t1 t2 t3 t5
+
+revavroom
+t1 t2 t3 t5
+
+cyclizar
+t1 t2 t3 t5
+
+orthworm
+t1 t2 t3 t5
+
+glimmet
+t1 t2 t3 t5
+
+glimmora
+t1 t2 t3 t5
+
+greavard
+t1 t2 t3 t5
+
+houndstone
+t1 t2 t3 t5
+
+flamigo
+t1 t2 t3 t5
+
+cetoddle
+t1 t2 t3 t5
+
+cetitan
+t1 t2 t3 t5
+
+veluza
+t1 t2 t3 t5
+
+dondozo
+t1 t2 t3 t5
+
+tatsugiri (curly)
+t1 t2 t3 t5
+
+tatsugiri (droopy)
+t1 t2 t3 t5
+
+tatsugiri (stretchy)
+t1 t2 t3 t5
+
+annihilape
+t1 t2 t3 t5
+
+clodsire
+t1 t2 t3 t5
+
+farigiraf
+t1 t2 t3 t5
+
+dudunsparce
+t1 t2 t3 t5
+
+kingambit
+t1 t2 t3 t5
+
+greattusk
+t1 t2 t3 t5
+
+screamtail
+t1 t2 t3 t5
+
+brutebonnet
+t1 t2 t3 t5
+
+fluttermane
+t1 t2 t3 t5
+
+slitherwing
+t1 t2 t3 t5
+
+sandyshocks
+t1 t2 t3 t5
+
+irontreads
+t1 t2 t3 t5
+
+ironbundle
+t1 t2 t3 t5
+
+ironhands
+t1 t2 t3 t5
+
+ironjugulis
+t1 t2 t3 t5
+
+ironmoth
+t1 t2 t3 t5
+
+ironthorns
+t1 t2 t3 t5
+
+frigibax
+t1 t2 t3 t5
+
+arctibax
+t1 t2 t3 t5
+
+baxcalibur
+t1 t2 t3 t5
+
+gimmighoul
+t1 t2 t3 t5
+
+gholdengo
+t1 t2 t3 t5
+
+wo-chien
+t1 t2 t3 t5
+
+chien-pao
+t1 t2 t3 t5
+
+ting-lu
+t1 t2 t3 t5
+
+chi-yu
+t1 t2 t3 t5
+
+roaringmoon
+t1 t2 t3 t5
+
+ironvaliant
+t1 t2 t3 t5
+
+koraidon apex
+t1 t2 t3 t5
+
+koraidon
+t1 t2 t3 t5
+
+miraidon
+t1 t2 t3 t5
+
+miraidon ultimate
+t1 t2 t3 t5
+
+walking wake
+t1 t2 t3 t5
+
+iron leaves
+t1 t2 t3 t5
+
+dipplin
+t1 t2 t3 t5
+
+poltchageist
+t1 t2 t3 t5
+
+sinistcha
+t1 t2 t3 t5
+
+okidogi
+t1 t2 t3 t5
+
+munkidori
+t1 t2 t3 t5
+
+fezandipiti
+t1 t2 t3 t5
+
+ogerpon
+t1 t2 t3 t5
+
+archaludon
+t1 t2 t3 t5
+
+hydrapple
+t1 t2 t3 t5
+
+gouging fire
+t1 t2 t3 t5
+
+raging bolt
+t1 t2 t3 t5
+
+iron boulder
+t1 t2 t3 t5
+
+iron crown
+t1 t2 t3 t5
+
+terapagos
+t1 t2 t3 t5
+
+pecharunt
+t1 t2 t3 t5
+

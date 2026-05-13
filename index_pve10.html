@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laboratório PVE 10.0 (O Motor de Deus)</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0f172a; 
+            color: #f8fafc;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 { text-align: center; color: #e11d48; margin-bottom: 5px; text-shadow: 0 0 10px rgba(225, 29, 72, 0.5); } 
+        p.subtitle { text-align: center; color: #94a3b8; margin-top: 0; margin-bottom: 25px; }
+        
+        .search-bar {
+            display: flex; justify-content: center; gap: 12px; margin-bottom: 15px;
+            background: #1e293b; padding: 15px; border-radius: 8px; border: 1px solid #334155;
+            flex-wrap: wrap; align-items: center;
+        }
+        .search-bar label { font-weight: bold; color: #cbd5e1; }
+        .search-bar input, .search-bar select {
+            background: #0f172a; color: white; border: 1px solid #475569;
+            padding: 10px; border-radius: 6px; font-size: 14px; outline: none; text-align: center;
+        }
+        .search-bar button {
+            background: #e11d48; color: white; border: none; padding: 10px 20px;
+            border-radius: 6px; font-weight: bold; cursor: pointer; transition: 0.2s; font-size: 14px;
+        }
+        .search-bar button:hover { background: #be123c; box-shadow: 0 0 8px #e11d48; }
+
+        #moveset-container {
+            display: none; justify-content: center; margin-bottom: 20px;
+            background: #1e293b; padding: 12px; border-radius: 8px; border: 1px dashed #e11d48;
+        }
+
+        .table-container { overflow-x: auto; border-radius: 8px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); }
+        table {
+            width: 100%; border-collapse: collapse; background: #1e293b; white-space: nowrap;
+        }
+        th, td { padding: 12px 15px; text-align: center; border-bottom: 1px solid #334155; font-size: 0.9em;}
+        
+        th { 
+            background-color: #e11d48; color: white; font-size: 0.85em; font-weight: 800;
+            text-transform: uppercase; letter-spacing: 1px; cursor: pointer; 
+            transition: background 0.2s; user-select: none; position: sticky; top: 0;
+            z-index: 10;
+        }
+        th:hover { background-color: #be123c; }
+        .sort-icon { font-size: 0.9em; opacity: 0.7; margin-left: 5px; }
+
+        tr:hover { background-color: rgba(255, 255, 255, 0.05); }
+        
+        .poke-info { display: flex; flex-direction: column; align-items: flex-start; text-align: left; }
+        .poke-name { font-weight: bold; color: #f8fafc; font-size: 1.15em; }
+        .poke-moves { font-size: 0.8em; color: #94a3b8; margin-top: 2px;}
+        .poke-status { font-size: 0.8em; color: #38bdf8; font-weight: bold; margin-top: 2px; letter-spacing: 0.5px;}
+        
+        .val-score { color: #f59e0b; font-weight: 900; font-size: 1.15em; } 
+        .val-dps { color: #38bdf8; font-weight: bold; font-size: 1.1em;} 
+        .val-tdo { color: #c084fc; font-weight: bold; font-size: 1.1em;} 
+        .val-mortes { color: #cbd5e1; font-weight: bold; font-size: 1.1em;} 
+        .val-est { color: #f8fafc; font-weight: 900; font-size: 1.1em;} 
+        
+        .val-lobby { border-radius: 8px; padding: 5px; border: 1px solid transparent; white-space: nowrap; }
+        .val-lobby.vitoria { background: rgba(16, 185, 129, 0.1); border-color: #10b981; color: #10b981; }
+        .val-lobby.risco { background: rgba(245, 158, 11, 0.1); border-color: #f59e0b; color: #f59e0b; }
+        .val-lobby.derrota { background: rgba(244, 63, 94, 0.1); border-color: #f43f5e; color: #f43f5e; }
+        
+        .sub-text { display: block; font-size: 0.75em; color: #94a3b8; font-weight: normal; margin-top: 3px; }
+        .min-max { font-family: monospace; font-size: 0.95em; letter-spacing: -0.5px;}
+        .cor-boa { color: #10b981; font-weight: bold; } 
+        .cor-ruim { color: #f43f5e; font-weight: bold; }
+
+        .separator { border-left: 2px solid #334155; }
+        #mensagem { text-align: center; font-size: 1.1em; margin-bottom: 20px; color: #f43f5e; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <h1>🔥 Laboratório PVE 10.0 🔥</h1>
+    <p class="subtitle">A Precisão Absoluta: <strong>Painel Mestre (Todas as Colunas Ativas)</strong></p>
+
+    <div class="search-bar">
+        <label>Boss:</label>
+        <input type="text" id="inputBoss" value="mewtwo" style="width: 120px;">
+        
+        <label>Tier:</label>
+        <input type="text" id="inputTier" value="5" style="width: 50px;">
+        
+        <label style="color: #38bdf8; margin-left: 15px;">👥 Jogadores no Lobby:</label>
+        <input type="number" id="inputJogadores" value="2" min="1" max="20" style="width: 50px; border-color: #38bdf8;" onchange="renderizarTabela()">
+        
+        <button onclick="carregarArquivoMestre()" style="margin-left: 10px;">Executar Leitura Divina</button>
+    </div>
+
+    <div id="moveset-container" class="search-bar">
+        <label>Cenário do Boss:</label>
+        <select id="selectMoveset" onchange="trocarGaveta()"></select>
+    </div>
+
+    <div id="mensagem">Aguardando comando...</div>
+    <div id="content" class="table-container"></div>
+
+    <script>
+        let dadosMestre = {}; 
+        let currentData = []; 
+        let currentSortColumn = 'e'; 
+        let sortAscending = true;
+
+        async function carregarArquivoMestre() {
+            const msgDiv = document.getElementById('mensagem');
+            const contentDiv = document.getElementById('content');
+            const movesetContainer = document.getElementById('moveset-container');
+            const selectMoveset = document.getElementById('selectMoveset');
+            
+            const boss = document.getElementById('inputBoss').value.toLowerCase().trim().replace(/ /g, "_");
+            const tier = document.getElementById('inputTier').value.toLowerCase().trim();
+            const nomeArquivo = `counters_${boss}_t${tier}.json`;
+            const url = `json/simulacao_pve10/${nomeArquivo}`; 
+
+            msgDiv.style.color = "#e11d48";
+            msgDiv.innerText = `Lendo Extração Máxima (550x RNG): ${url} ... ⏳`;
+            contentDiv.innerHTML = "";
+            movesetContainer.style.display = "none";
+            selectMoveset.innerHTML = "";
+
+            try {
+                const response = await fetch(`${url}?t=${new Date().getTime()}`);
+                if (!response.ok) throw new Error(`Status ${response.status}`);
+                
+                dadosMestre = await response.json();
+                const chaves = Object.keys(dadosMestre);
+                
+                if(chaves.length === 0) {
+                    msgDiv.style.color = "#f59e0b";
+                    msgDiv.innerText = "Arquivo vazio!";
+                    return;
+                }
+
+                chaves.forEach(move => {
+                    const option = document.createElement('option');
+                    option.value = move;
+                    option.textContent = move === "average" ? "🌟 Média de Todos os Ataques" : move.toUpperCase().replace("_", " + ");
+                    selectMoveset.appendChild(option);
+                });
+
+                msgDiv.innerText = ""; 
+                movesetContainer.style.display = "flex"; 
+                
+                const listaBruta = dadosMestre["average"] || dadosMestre[chaves[0]];
+                if (listaBruta && listaBruta.length > 0) {
+                    document.getElementById('inputJogadores').value = Math.ceil(listaBruta[0].e);
+                }
+
+                trocarGaveta();
+
+            } catch (error) {
+                msgDiv.style.color = "#f43f5e";
+                msgDiv.innerText = `❌ Arquivo não encontrado. Execute o gerador_pve10.js primeiro!`;
+                console.error(error);
+            }
+        }
+
+        function trocarGaveta() {
+            const chaveSelecionada = document.getElementById('selectMoveset').value;
+            const listaBruta = dadosMestre[chaveSelecionada] || [];
+
+            currentData = listaBruta.map((p, index) => ({ ...p, originalRank: index + 1 }));
+            currentSortColumn = 'e';
+            sortAscending = true;
+            renderizarTabela();
+        }
+
+        function sortTable(key) {
+            if (currentSortColumn === key) {
+                sortAscending = !sortAscending; 
+            } else {
+                currentSortColumn = key;
+                sortAscending = (key === 'n' || key === 'originalRank' || key === 'm' || key === 'tw' || key === 'e') ? true : false;
+            }
+
+            currentData.sort((a, b) => {
+                let valA = a[key];
+                let valB = b[key];
+                
+                if (typeof valA === 'string') {
+                    return sortAscending ? valA.localeCompare(valB) : valB.localeCompare(valA);
+                }
+                return sortAscending ? valA - valB : valB - valA;
+            });
+
+            renderizarTabela();
+        }
+
+        function getSortIcon(key) {
+            if (currentSortColumn !== key) return '<span class="sort-icon">↕️</span>';
+            return sortAscending ? '<span class="sort-icon">🔼</span>' : '<span class="sort-icon">🔽</span>';
+        }
+
+        function renderizarTabela() {
+            const content = document.getElementById('content');
+            
+            const numJogadores = parseInt(document.getElementById('inputJogadores').value) || 1;
+            const tierStr = document.getElementById('inputTier').value;
+            const tempoLimite = (tierStr === "1" || tierStr === "3") ? 180 : 300; 
+            const margemSeguranca = 15; 
+
+            let html = `
+                <table>
+                    <thead>
+                        <tr>
+                            <th onclick="sortTable('originalRank')">Rank ${getSortIcon('originalRank')}</th>
+                            <th onclick="sortTable('n')" style="text-align: left;">Atacante & Golpes ${getSortIcon('n')}</th>
+                            <th class="separator" onclick="sortTable('er')" title="Score GamePress: Equilibra Dano e Resistência">Score (ER) ${getSortIcon('er')}</th>
+                            <th class="separator" onclick="sortTable('d')" title="Dano por Segundo">DPS Real ${getSortIcon('d')}</th>
+                            
+                            <th onclick="sortTable('dp')">Dano (300s) ${getSortIcon('dp')}</th>
+                            
+                            <th onclick="sortTable('td')" title="Dano Total Antes de Morrer">TDO Real ${getSortIcon('td')}</th>
+                            
+                            <th class="separator" onclick="sortTable('tw')">TTW Real ${getSortIcon('tw')}</th>
+                            
+                            <th onclick="sortTable('m')" title="Média de Mortes">Mortes ${getSortIcon('m')}</th>
+                            <th class="separator" onclick="sortTable('e')" title="Estimador Oficial (Sorte/Azar)">Estimador ${getSortIcon('e')}</th>
+                            <th class="separator" style="background-color: #0f172a; border: 1px solid #38bdf8; color: #38bdf8;">
+                                Previsão c/ ${numJogadores} Player(s)
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+
+            currentData.forEach(p => {
+                const estimadorMinimo = Math.ceil(p.e); 
+                const reentradas = Math.floor(p.m / 6); 
+                
+                const ttwGrupo = p.tw / numJogadores;
+                const tempoSobra = tempoLimite - ttwGrupo;
+                
+                let divClass, msgTempo, iconeLobby;
+                
+                if (tempoSobra >= margemSeguranca) {
+                    divClass = 'val-lobby vitoria';
+                    iconeLobby = '✅ Vitória Segura';
+                    msgTempo = `Sobra ${Math.floor(tempoSobra)}s`;
+                } else if (tempoSobra >= 0) {
+                    divClass = 'val-lobby risco';
+                    iconeLobby = '⚠️ Risco de Lag';
+                    msgTempo = `Sobra só ${Math.floor(tempoSobra)}s!`;
+                } else {
+                    divClass = 'val-lobby derrota';
+                    iconeLobby = '❌ Derrota';
+                    msgTempo = `Faltou Dano`;
+                }
+
+                html += `
+                    <tr>
+                        <td style="font-weight: bold; color: #94a3b8; font-size: 1.1em;">#${p.originalRank}</td>
+                        <td>
+                            <div class="poke-info">
+                                <span class="poke-name">${p.n}</span>
+                                <span class="poke-status">Lv ${p.lv || 40} • CP ${p.cp || '---'}</span>
+                                <span class="poke-moves">${p.f} / ${p.c}</span>
+                            </div>
+                        </td>
+                        
+                        <td class="separator val-score">${p.er.toFixed(1)}</td>
+                        
+                        <td class="separator val-dps">
+                            ${p.d.toFixed(1)}
+                            <span class="sub-text min-max">
+                                <span class="cor-ruim" title="Pior Cenário (Azar)">${p.d0.toFixed(1)}</span> - 
+                                <span class="cor-boa" title="Melhor Cenário (Sorte)">${p.d1.toFixed(1)}</span>
+                            </span>
+                        </td>
+                        
+                        <td style="font-weight: bold; color: #cbd5e1;">${p.dp.toFixed(1)}%</td>
+                        
+                        <td class="val-tdo">
+                            ${p.td}
+                            <span class="sub-text min-max">
+                                <span class="cor-ruim">${p.td0 || p.td}</span> - <span class="cor-boa">${p.td1 || p.td}</span>
+                            </span>
+                        </td>
+                        
+                        <td class="separator" style="color: #cbd5e1; font-weight: bold;">${p.tw.toFixed(1)}s</td>
+                        
+                        <td class="val-mortes">
+                            ${p.m} ☠️
+                            <span class="sub-text min-max" style="margin-bottom: 2px;">
+                                <span class="cor-boa">${p.m0}</span> - <span class="cor-ruim">${p.m1}</span>
+                            </span>
+                            <span class="sub-text" style="color: #f59e0b;">🔄 ${reentradas} Lobbies</span>
+                        </td>
+                        
+                        <td class="separator val-est">
+                            ${p.e.toFixed(2)}
+                            <span class="sub-text min-max" style="margin-bottom: 2px;">
+                                <span class="cor-boa" title="Rápido (Sorte)">${p.e0.toFixed(2)}</span> - 
+                                <span class="cor-ruim" title="Demorado (Azar)">${p.e1.toFixed(2)}</span>
+                            </span>
+                            <span class="sub-text" style="color: #94a3b8;">Recomendado: ${estimadorMinimo}👥</span>
+                        </td>
+
+                        <td class="separator">
+                            <div class="${divClass}">
+                                <strong style="font-size: 1.1em;">${iconeLobby}</strong>
+                                <span class="sub-text" style="color: inherit;">⏳ ${msgTempo}</span>
+                                <span class="sub-text" style="color: inherit;">⏱️ Tempo Batalha: ${Math.floor(ttwGrupo)}s</span>
+                            </div>
+                        </td>
+                    </tr>
+                `;
+            });
+
+            html += `</tbody></table>`;
+            content.innerHTML = html;
+        }
+    </script>
+</body>
+</html>

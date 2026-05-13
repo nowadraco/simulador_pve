@@ -1,0 +1,8960 @@
+Smeargle
+ataque rapidos: 82
+ataque carregado: 152
+combinações: 12464
+------------------
+Mew
+ataque rapidos: 14
+ataque carregado: 25
+combinações: 350
+------------------
+Starmie
+ataque rapidos: 20
+ataque carregado: 7
+combinações: 140
+------------------
+Starmie (Shadow)
+ataque rapidos: 19
+ataque carregado: 7
+combinações: 133
+------------------
+Porygon
+ataque rapidos: 20
+ataque carregado: 6
+combinações: 120
+------------------
+Togetic
+ataque rapidos: 20
+ataque carregado: 6
+combinações: 120
+------------------
+Porygon (Shadow)
+ataque rapidos: 19
+ataque carregado: 6
+combinações: 114
+------------------
+Togekiss
+ataque rapidos: 19
+ataque carregado: 6
+combinações: 114
+------------------
+Suicune
+ataque rapidos: 20
+ataque carregado: 5
+combinações: 100
+------------------
+Suicune (Shadow)
+ataque rapidos: 20
+ataque carregado: 5
+combinações: 100
+------------------
+Ho-Oh
+ataque rapidos: 19
+ataque carregado: 5
+combinações: 95
+------------------
+Ho-Oh (Shadow)
+ataque rapidos: 19
+ataque carregado: 5
+combinações: 95
+------------------
+Porygon-Z
+ataque rapidos: 18
+ataque carregado: 5
+combinações: 90
+------------------
+Porygon-Z (Shadow)
+ataque rapidos: 18
+ataque carregado: 5
+combinações: 90
+------------------
+Tapu Fini
+ataque rapidos: 17
+ataque carregado: 5
+combinações: 85
+------------------
+Porygon2
+ataque rapidos: 18
+ataque carregado: 4
+combinações: 72
+------------------
+Porygon2 (Shadow)
+ataque rapidos: 18
+ataque carregado: 4
+combinações: 72
+------------------
+Luxray
+ataque rapidos: 18
+ataque carregado: 4
+combinações: 72
+------------------
+Luxray (Shadow)
+ataque rapidos: 18
+ataque carregado: 4
+combinações: 72
+------------------
+Shaymin (Land)
+ataque rapidos: 18
+ataque carregado: 4
+combinações: 72
+------------------
+Shaymin (Sky)
+ataque rapidos: 18
+ataque carregado: 4
+combinações: 72
+------------------
+Reuniclus
+ataque rapidos: 18
+ataque carregado: 4
+combinações: 72
+------------------
+Reuniclus (Shadow)
+ataque rapidos: 18
+ataque carregado: 4
+combinações: 72
+------------------
+Gastrodon
+ataque rapidos: 17
+ataque carregado: 4
+combinações: 68
+------------------
+Regigigas
+ataque rapidos: 17
+ataque carregado: 4
+combinações: 68
+------------------
+Regigigas (Shadow)
+ataque rapidos: 17
+ataque carregado: 4
+combinações: 68
+------------------
+Togepi
+ataque rapidos: 18
+ataque carregado: 3
+combinações: 54
+------------------
+Lilligant
+ataque rapidos: 18
+ataque carregado: 3
+combinações: 54
+------------------
+Shellos
+ataque rapidos: 17
+ataque carregado: 3
+combinações: 51
+------------------
+Solosis
+ataque rapidos: 17
+ataque carregado: 3
+combinações: 51
+------------------
+Solosis (Shadow)
+ataque rapidos: 17
+ataque carregado: 3
+combinações: 51
+------------------
+Duosion
+ataque rapidos: 17
+ataque carregado: 3
+combinações: 51
+------------------
+Duosion (Shadow)
+ataque rapidos: 17
+ataque carregado: 3
+combinações: 51
+------------------
+Alomomola
+ataque rapidos: 17
+ataque carregado: 3
+combinações: 51
+------------------
+Comfey
+ataque rapidos: 17
+ataque carregado: 3
+combinações: 51
+------------------
+Budew
+ataque rapidos: 17
+ataque carregado: 2
+combinações: 34
+------------------
+Petilil
+ataque rapidos: 17
+ataque carregado: 2
+combinações: 34
+------------------
+Gengar
+ataque rapidos: 4
+ataque carregado: 8
+combinações: 32
+------------------
+Gengar (Mega)
+ataque rapidos: 4
+ataque carregado: 8
+combinações: 32
+------------------
+Gengar (Shadow)
+ataque rapidos: 4
+ataque carregado: 8
+combinações: 32
+------------------
+Charizard
+ataque rapidos: 5
+ataque carregado: 6
+combinações: 30
+------------------
+Charizard (Mega X)
+ataque rapidos: 5
+ataque carregado: 6
+combinações: 30
+------------------
+Charizard (Mega Y)
+ataque rapidos: 5
+ataque carregado: 6
+combinações: 30
+------------------
+Charizard (Shadow)
+ataque rapidos: 5
+ataque carregado: 6
+combinações: 30
+------------------
+Clefable
+ataque rapidos: 5
+ataque carregado: 6
+combinações: 30
+------------------
+Roserade
+ataque rapidos: 5
+ataque carregado: 6
+combinações: 30
+------------------
+Hippowdon
+ataque rapidos: 5
+ataque carregado: 6
+combinações: 30
+------------------
+Hippowdon (Shadow)
+ataque rapidos: 5
+ataque carregado: 6
+combinações: 30
+------------------
+Raichu
+ataque rapidos: 4
+ataque carregado: 7
+combinações: 28
+------------------
+Arcanine
+ataque rapidos: 4
+ataque carregado: 7
+combinações: 28
+------------------
+Arcanine (Shadow)
+ataque rapidos: 4
+ataque carregado: 7
+combinações: 28
+------------------
+Poliwrath
+ataque rapidos: 4
+ataque carregado: 7
+combinações: 28
+------------------
+Poliwrath (Shadow)
+ataque rapidos: 4
+ataque carregado: 7
+combinações: 28
+------------------
+Lapras
+ataque rapidos: 4
+ataque carregado: 7
+combinações: 28
+------------------
+Lapras (Shadow)
+ataque rapidos: 4
+ataque carregado: 7
+combinações: 28
+------------------
+Mega Gengar
+ataque rapidos: 4
+ataque carregado: 7
+combinações: 28
+------------------
+Gengar Gigamax
+ataque rapidos: 4
+ataque carregado: 7
+combinações: 28
+------------------
+Lapras Gigamax
+ataque rapidos: 4
+ataque carregado: 7
+combinações: 28
+------------------
+Ninetales
+ataque rapidos: 3
+ataque carregado: 9
+combinações: 27
+------------------
+Ninetales (Shadow)
+ataque rapidos: 3
+ataque carregado: 9
+combinações: 27
+------------------
+Nidoking
+ataque rapidos: 5
+ataque carregado: 5
+combinações: 25
+------------------
+Nidoking (Shadow)
+ataque rapidos: 5
+ataque carregado: 5
+combinações: 25
+------------------
+Mega Charizard X
+ataque rapidos: 5
+ataque carregado: 5
+combinações: 25
+------------------
+Mega Charizard Y
+ataque rapidos: 5
+ataque carregado: 5
+combinações: 25
+------------------
+Charizard Gigamax
+ataque rapidos: 5
+ataque carregado: 5
+combinações: 25
+------------------
+Pidgeot
+ataque rapidos: 4
+ataque carregado: 6
+combinações: 24
+------------------
+Pidgeot (Mega)
+ataque rapidos: 4
+ataque carregado: 6
+combinações: 24
+------------------
+Pidgeot (Shadow)
+ataque rapidos: 4
+ataque carregado: 6
+combinações: 24
+------------------
+Machamp
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Machamp (Shadow)
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Rapidash
+ataque rapidos: 4
+ataque carregado: 6
+combinações: 24
+------------------
+Rapidash (Shadow)
+ataque rapidos: 4
+ataque carregado: 6
+combinações: 24
+------------------
+Gyarados
+ataque rapidos: 4
+ataque carregado: 6
+combinações: 24
+------------------
+Gyarados (Mega)
+ataque rapidos: 4
+ataque carregado: 6
+combinações: 24
+------------------
+Gyarados (Shadow)
+ataque rapidos: 4
+ataque carregado: 6
+combinações: 24
+------------------
+Dragonite
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Dragonite (Shadow)
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Dragonite (Mega)
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Ludicolo
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Flygon
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Flygon (Shadow)
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Claydol
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Claydol (Shadow)
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Lucario
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Lucario (Mega)
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Florges
+ataque rapidos: 4
+ataque carregado: 6
+combinações: 24
+------------------
+Incineroar
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Ursaluna
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Ursaluna (Shadow)
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Pawmot
+ataque rapidos: 4
+ataque carregado: 6
+combinações: 24
+------------------
+Mega Gyarados
+ataque rapidos: 4
+ataque carregado: 6
+combinações: 24
+------------------
+Machamp Gigamax
+ataque rapidos: 3
+ataque carregado: 8
+combinações: 24
+------------------
+Raichu (Alolan)
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Wigglytuff
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Dewgong
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Snorlax
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Snorlax (Shadow)
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Blaziken
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Blaziken (Mega)
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Blaziken (Shadow)
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Salamence
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Salamence (Mega)
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Salamence (Shadow)
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Bronzong
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Delphox
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Delphox (Shadow)
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Kommo-o
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Mega Lucario
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Snorlax Gigamax
+ataque rapidos: 3
+ataque carregado: 7
+combinações: 21
+------------------
+Beedrill
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Beedrill (Mega)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Beedrill (Shadow)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Nidoqueen
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Nidoqueen (Shadow)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Magneton
+ataque rapidos: 5
+ataque carregado: 4
+combinações: 20
+------------------
+Magneton (Shadow)
+ataque rapidos: 5
+ataque carregado: 4
+combinações: 20
+------------------
+Muk
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Aerodactyl
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Aerodactyl (Mega)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Aerodactyl (Shadow)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Feraligatr
+ataque rapidos: 5
+ataque carregado: 4
+combinações: 20
+------------------
+Feraligatr (Shadow)
+ataque rapidos: 5
+ataque carregado: 4
+combinações: 20
+------------------
+Donphan
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Donphan (Shadow)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Gardevoir
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Gardevoir (Mega)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Gardevoir (Shadow)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Mawile
+ataque rapidos: 5
+ataque carregado: 4
+combinações: 20
+------------------
+Mawile (Mega)
+ataque rapidos: 5
+ataque carregado: 4
+combinações: 20
+------------------
+Mawile (Shadow)
+ataque rapidos: 5
+ataque carregado: 4
+combinações: 20
+------------------
+Aggron
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Aggron (Mega)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Aggron (Shadow)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Empoleon
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Empoleon (Shadow)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Vespiquen
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Toxicroak
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Toxicroak (Shadow)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Talonflame
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Talonflame (Shadow)
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Decidueye
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Golisopod
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Golisopod
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Marshadow
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Mega Beedrill
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Mega Pidgeot
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Mega Gardevoir
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Mega Mawile
+ataque rapidos: 5
+ataque carregado: 4
+combinações: 20
+------------------
+Mega Aggron
+ataque rapidos: 4
+ataque carregado: 5
+combinações: 20
+------------------
+Pikachu (Shaymin Scarf)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Sandslash (Alolan)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Sandslash (Alolan) (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Ninetales (Alolan)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Ninetales (Alolan) (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Primeape
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Primeape (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Alakazam
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Alakazam (Mega)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Alakazam (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Tentacruel
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Tentacruel (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Rapidash (Galarian)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Hitmonlee
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Hitmonlee (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Hitmonchan
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Hitmonchan (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Articuno
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Articuno (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Slowking (Galarian)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Heracross
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Heracross (Mega)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Celebi
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Camerupt
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Camerupt (Mega)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Camerupt (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Mienshao
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Kyurem (White)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Chesnaught
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Chesnaught (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Dragalge
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Tyrantrum
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Tyrantrum (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Aurorus
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Aurorus (Shadow)
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Yveltal
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Tsareena
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Turtonator
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Skeledirge
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Mega Alakazam
+ataque rapidos: 3
+ataque carregado: 6
+combinações: 18
+------------------
+Arbok
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Arbok (Shadow)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Venomoth
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Venomoth (Shadow)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Hypno
+ataque rapidos: 2
+ataque carregado: 8
+combinações: 16
+------------------
+Hypno (Shadow)
+ataque rapidos: 2
+ataque carregado: 8
+combinações: 16
+------------------
+Weezing
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Mewtwo
+ataque rapidos: 2
+ataque carregado: 8
+combinações: 16
+------------------
+Mewtwo (Shadow)
+ataque rapidos: 2
+ataque carregado: 8
+combinações: 16
+------------------
+Ampharos
+ataque rapidos: 2
+ataque carregado: 8
+combinações: 16
+------------------
+Ampharos (Mega)
+ataque rapidos: 2
+ataque carregado: 8
+combinações: 16
+------------------
+Ampharos (Shadow)
+ataque rapidos: 2
+ataque carregado: 8
+combinações: 16
+------------------
+Unown
+ataque rapidos: 16
+ataque carregado: 1
+combinações: 16
+------------------
+Tyranitar
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Tyranitar (Mega)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Tyranitar (Shadow)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Shiftry
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Shiftry (Shadow)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Metagross
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Metagross (Mega)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Metagross (Shadow)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Staraptor
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Staraptor (Shadow)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Drapion
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Drapion (Shadow)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Magnezone
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Magnezone (Shadow)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Gallade
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Gallade (Mega)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Gallade (Shadow)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Pyroar
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Pangoro
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Vikavolt
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Vikavolt (Shadow)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Zacian (Hero)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Zamazenta (Hero)
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Dudunsparce
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Mega Mewtwo X
+ataque rapidos: 2
+ataque carregado: 8
+combinações: 16
+------------------
+Mega Mewtwo Y
+ataque rapidos: 2
+ataque carregado: 8
+combinações: 16
+------------------
+Mega Ampharos
+ataque rapidos: 2
+ataque carregado: 8
+combinações: 16
+------------------
+Mega Gallade
+ataque rapidos: 4
+ataque carregado: 4
+combinações: 16
+------------------
+Blastoise
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Blastoise (Mega)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Blastoise (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Pikachu
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Sandslash
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Sandslash (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Victreebel
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Victreebel (Mega)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Victreebel (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Dodrio
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Muk (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Haunter
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Haunter (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Kingler
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Marowak (Alolan)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Marowak (Alolan) (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Seaking
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Scyther
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Scyther (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Jynx
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Pinsir
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Pinsir (Mega)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Pinsir (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Typhlosion
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Typhlosion (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Jumpluff
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Jumpluff (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Girafarig
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Girafarig (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Forretress
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Forretress (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Steelix
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Steelix (Mega)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Steelix (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Ursaring
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Ursaring (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Octillery
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Kingdra
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Kingdra (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Miltank
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Mightyena
+ataque rapidos: 5
+ataque carregado: 3
+combinações: 15
+------------------
+Mightyena (Shadow)
+ataque rapidos: 5
+ataque carregado: 3
+combinações: 15
+------------------
+Kirlia
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Hariyama
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Hariyama (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Manectric
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Manectric (Mega)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Manectric (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Swalot
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Cacnea
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Cacnea (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Cacturne
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Cacturne (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Cradily
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Cradily
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Cradily (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Latias
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Latias (Mega)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Latias (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Torterra
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Torterra (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Abomasnow
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Abomasnow (Mega)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Abomasnow (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Lickilicky
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Gliscor
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Gliscor (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Samurott (Hisuian)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Excadrill
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Excadrill (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Scolipede
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Scolipede (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Eelektross
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Chandelure
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Chandelure (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Accelgor
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Accelgor (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Greninja
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Greninja (Shadow)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Barbaracle
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Heliolisk
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Gourgeist (Average)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Gourgeist (Large)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Gourgeist (Small)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Gourgeist (Super)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Xerneas
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Zygarde (10% Forme)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Zygarde (50% Forme)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Zygarde (Complete Forme)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Volcanion
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Lurantis
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Oranguru
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Passimian
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Dhelmise
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Kartana
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Necrozma (Dawn Wings)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Necrozma (Dusk Mane)
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Perrserker
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Mr. Rime
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Palafin
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Palafin_hero
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Palafin_zero
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Cetitan
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Kingambit
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Mega Blastoise
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Mega Pinsir
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Mega Aerodactyl
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Mega Steelix
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Mega Manectric
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Mega Salamence
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Mega Abomasnow
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Blastoise Gigamax
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Pikachu Gigamax
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Kingler Gigamax
+ataque rapidos: 3
+ataque carregado: 5
+combinações: 15
+------------------
+Golduck
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Golduck (Shadow)
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Slowbro (Galarian)
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Cloyster
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Cloyster (Shadow)
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Politoed
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Politoed (Shadow)
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Quagsire
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Quagsire (Shadow)
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Bidoof
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Bidoof (Shadow)
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Garchomp
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Garchomp (Mega)
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Garchomp (Shadow)
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Rhyperior
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Rhyperior (Shadow)
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Dusknoir
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Dusknoir (Shadow)
+ataque rapidos: 2
+ataque carregado: 7
+combinações: 14
+------------------
+Fearow
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Pikachu (5th Anniversary)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Sandshrew
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Sandshrew (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Jigglypuff
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Meowth (Galarian)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Arcanine (Hisuian)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Graveler
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Graveler (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Golem
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Golem (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Slowbro
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Slowbro (Mega)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Slowbro (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Magnemite
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Magnemite (Shadow)
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Seel
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Muk (Alolan)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Muk (Alolan) (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Gastly
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Gastly (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Onix
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Onix (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Electrode
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Electrode (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Exeggutor
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Exeggutor (Shadow)
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Weezing (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Kangaskhan
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Kangaskhan (Mega)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Mr. Mime
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Tauros (Aqua)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Tauros (Blaze)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Tauros (Combat)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Flareon
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Omastar
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Omastar (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Kabutops
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Kabutops (Shadow)
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Zapdos
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Zapdos (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Moltres
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Moltres (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Meganium
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Meganium (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Ledian
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Ledian (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Lanturn
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Lanturn
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Cleffa
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Xatu
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Xatu (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Bellossom
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Bellossom (Shadow)
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Sudowoodo
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Sudowoodo (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Espeon
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Qwilfish
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Qwilfish (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Magcargo
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Mantine
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Entei
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Entei (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Sceptile
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Sceptile (Mega)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Sceptile (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Swampert
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Swampert (Mega)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Swampert (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Linoone
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Kirlia (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Breloom
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Lairon
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Lairon (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Wailmer
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Wailmer (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Wailord
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Wailord (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Grumpig
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Grumpig (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Trapinch
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Trapinch (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Vibrava
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Vibrava (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Lunatone
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Solrock
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Crawdaunt
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Crawdaunt (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Kecleon
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Glalie
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Glalie (Mega)
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Glalie (Shadow)
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Walrein
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Walrein (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Regirock
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Regirock (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Regice
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Regice (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Registeel
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Registeel (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Rayquaza
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Rayquaza (Mega)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Staravia
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Staravia (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Wormadam (Trash)
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Lopunny
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Lopunny (Mega)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Mismagius
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Mismagius (Shadow)
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Weavile
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Weavile (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Magmortar
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Magmortar (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Leafeon
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Mamoswine
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Mamoswine (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Heatran
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Heatran (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Samurott
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Samurott (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Stoutland
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Leavanny
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Whimsicott
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Darmanitan (Standard)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Darmanitan (Standard) (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Darmanitan (Zen)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Klinklang
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Cobalion
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Terrakion
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Virizion
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Kyurem (Black)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Fletchinder
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Fletchinder (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Litleo
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Gogoat
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Furfrou
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Slurpuff
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Malamar
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Malamar (Mega)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Malamar (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Goodra
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Avalugg
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Avalugg (Hisuian)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Dartrix
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Primarina
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Toucannon
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Toucannon (Shadow)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Lycanroc (Dusk)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Fomantis
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Bewear
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Sandygast
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Palossand
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Bug)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Dark)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Dragon)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Electric)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Fairy)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Fighting)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Fire)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Flying)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Ghost)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Grass)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Ground)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Ice)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Poison)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Psychic)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Rock)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Steel)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Silvally (Water)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Bruxish
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Tapu Lele
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Lunala
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Nihilego
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Necrozma
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Necrozma (Ultra)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Greedent
+ataque rapidos: 4
+ataque carregado: 3
+combinações: 12
+------------------
+Corviknight
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Toxtricity
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Toxtricity (Amped)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Toxtricity (Low Key)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Hatterene
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Grimmsnarl
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Morpeko (Full Belly)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Morpeko (Hangry)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Urshifu (Rapid Strike)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Urshifu (Single Strike)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Regieleki
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Regidrago
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Wyrdeer
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Kleavor
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Enamorus (Therian)
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Meowscarada
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Quaquaval
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Spidops
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Lokix
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Pawmo
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Dolliv
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Arboliva
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Bombirdier
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Revavroom
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Annihilape
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Annihilape (Shadow)
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Clodsire
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Farigiraf
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Mega Kangaskhan
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Mega Tyranitar
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Mega Sceptile
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Mega Blaziken
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Mega Swampert
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Mega Camerupt
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Mega Metagross
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Mega Latias
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Mega Rayquaza
+ataque rapidos: 2
+ataque carregado: 6
+combinações: 12
+------------------
+Mega Lopunny
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Toxtricity (Forma Aguda) Gigamax
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Toxtricity (Forma Grave) Gigamax
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Hatterene Gigamax
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Grimmsnarl Gigamax
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Urshifu (Rapid Strike) Gigamax
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Urshifu (Single Strike) Gigamax
+ataque rapidos: 3
+ataque carregado: 4
+combinações: 12
+------------------
+Venusaur
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Venusaur (Mega)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Venusaur (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Persian
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Persian (Alolan)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Persian (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Lickitung
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Weezing (Galarian)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Weezing (Galarian) (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Rhydon
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Rhydon (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Jolteon
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Omanyte
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Omanyte (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Mewtwo (Armored)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Typhlosion (Hisuian)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Furret
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Ariados
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Crobat
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Crobat (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Igglybuff
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Slowking
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Slowking (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Qwilfish (Hisuian)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Teddiursa
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Teddiursa (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Piloswine
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Piloswine (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Delibird
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Raikou
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Raikou (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Lugia
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Lugia (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Masquerain
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Sableye
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Sableye (Mega)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Sableye (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Altaria
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Altaria (Mega)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Altaria (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Corphish
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Corphish (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Milotic
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Milotic (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Absol
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Absol (Mega)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Absol (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Latios
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Latios (Mega)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Latios (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Groudon
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Groudon (Primal)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Groudon (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Riolu
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Tangrowth
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Tangrowth (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Electivire
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Electivire (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Glaceon
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Palkia (Origin)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Victini
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Emboar
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Emboar (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Gigalith
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Gigalith (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Swoobat
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Krookodile
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Scraggy
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Scrafty
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Sawsbuck
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Escavalier
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Escavalier (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Galvantula
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Galvantula (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Ferrothorn
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Ferrothorn (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Haxorus
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Cryogonal
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Mienfoo
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Braviary
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Braviary (Hisuian)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Hydreigon
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Hydreigon (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Tornadus (Therian)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Thundurus (Therian)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Reshiram
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Zekrom
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Landorus (Therian)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Keldeo (Ordinary)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Keldeo (Resolute)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Diggersby
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Diggersby (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Aromatisse
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Sylveon
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Noivern
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Decidueye (Hisuian)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Crabominable
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Tapu Koko
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Tapu Bulu
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Naganadel
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Rillaboom
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Cinderace
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Obstagoon
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Obstagoon (Shadow)
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Overqwil
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Baxcalibur
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Mega Slowbro
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Mega Heracross
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Mega Absol
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Mega Garchomp
+ataque rapidos: 2
+ataque carregado: 5
+combinações: 10
+------------------
+Charmeleon
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Charmeleon (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Butterfree
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Butterfree (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Parasect
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Diglett
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Diglett (Alolan)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Diglett (Alolan) (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Diglett (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Dugtrio
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Dugtrio (Alolan)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Dugtrio (Alolan) (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Dugtrio (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Machop
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Machop (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Weepinbell
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Weepinbell (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Golem (Alolan)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Golem (Alolan) (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Farfetch'd
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Grimer
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Koffing
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Staryu
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Chikorita
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Chikorita (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Bayleef
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Bayleef (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Misdreavus
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Misdreavus (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Dunsparce
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Granbull
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Granbull (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Smoochum
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Zigzagoon
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Shedinja
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Delcatty
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Aron
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Aron (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Roselia
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Lileep
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Lileep (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Metang
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Metang (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Starly
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Starly (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Bibarel
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Bibarel (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Wormadam (Plant)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Wormadam (Sandy)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Hippopotas
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Hippopotas (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Croagunk
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Croagunk (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Snover
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Snover (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Lillipup
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Herdier
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Cofagrigus
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Cofagrigus (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Klink
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Klang
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Meowstic (Female)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Doublade
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Charjabug
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Charjabug (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Ribombee
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Wishiwashi
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Wishiwashi (School)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Wishiwashi (Solo)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Skwovet
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Orbeetle
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Dubwool
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Arrokuda
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Barraskewda
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Polteageist
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Pincurchin
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Sneasler
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Sneasler (Shadow)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Enamorus (Incarnate)
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Pawmi
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Tandemaus
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Maushold
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Maushold_family_of_four
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Maushold_family_of_three
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Dachsbun
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Bellibolt
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Varoom
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Cetoddle
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Dipplin
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Ogerpon
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Hydrapple
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Mega Glalie
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Butterfree Gigamax
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Corviknight Gigamax
+ataque rapidos: 3
+ataque carregado: 3
+combinações: 9
+------------------
+Spearow
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Ekans
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Ekans (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Pikachu (Flying)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Pikachu (Horizons)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Nidorina
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Nidorina (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Nidorino
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Nidorino (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Clefairy
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Vulpix
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Vulpix (Alolan)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Vulpix (Alolan) (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Vulpix (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Zubat
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Zubat (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Golbat
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Golbat (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Vileplume
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Vileplume (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Meowth
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Meowth (Alolan)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Meowth (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Poliwhirl
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Poliwhirl (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Machoke
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Machoke (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Ponyta
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Ponyta (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Doduo
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Shellder
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Shellder (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Krabby
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Voltorb
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Voltorb (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Exeggutor (Alolan)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Exeggutor (Alolan) (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Marowak
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Marowak (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Chansey
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tangela
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tangela (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Seadra
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Seadra (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mr. Mime (Galarian)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Magmar
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Magmar (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tauros
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Eevee
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Articuno (Galarian)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Moltres (Galarian)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Dragonair
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Dragonair (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Noctowl
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mareep
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mareep (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Flaaffy
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Flaaffy (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sunflora
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Umbreon
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Scizor
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Scizor (Mega)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Scizor (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sneasel
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sneasel (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Houndoom
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Houndoom (Mega)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Houndoom (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Phanpy
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Phanpy (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Hitmontop
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Hitmontop (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Elekid
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Magby
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Blissey
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Lombre
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Pelipper
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Vigoroth
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Vigoroth (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Exploud
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Exploud (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Makuhita
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Makuhita (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Medicham
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Medicham (Mega)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Plusle
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Minun
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Torkoal
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Barboach
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Barboach (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Whiscash
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Whiscash (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Armaldo
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Armaldo (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Castform
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Dusclops
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Dusclops (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tropius
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sealeo
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sealeo (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Shelgon
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Shelgon (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Jirachi
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Infernape
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Infernape (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Pachirisu
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Floatzel
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Cherrim (Sunshine)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Drifblim
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Drifblim (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Honchkrow
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Honchkrow (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Stunky
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Stunky (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Skuntank
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Skuntank (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Bronzor
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Spiritomb
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Lumineon
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Probopass
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Probopass (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Froslass
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Froslass (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Rotom (Mow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Dialga (Origin)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Palkia
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Palkia (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Giratina (Altered)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Giratina (Altered) (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Giratina (Origin)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Cresselia
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Cresselia (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Darkrai
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Darkrai (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Serperior
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Serperior (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Liepard
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Liepard (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Audino
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Audino (Mega)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Conkeldurr
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Conkeldurr (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Throh
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Throh (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sawk
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sawk (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Lilligant (Hisuian)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Darmanitan (Galarian Zen)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Darmanitan (Galarian)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Crustle
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Crustle (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sigilyph
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Carracosta
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Carracosta (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Garbodor
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Garbodor (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Zorua
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Zorua (Hisuian)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Zoroark
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Zoroark (Hisuian)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Swanna
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Swanna (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Vanilluxe
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Deerling
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Emolga
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Karrablast
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Karrablast (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Jellicent
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Litwick
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Litwick (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Beartic
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Stunfisk (Galarian)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Druddigon
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Golurk
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Golurk (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Bisharp
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Bouffalant
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Rufflet
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mandibuzz
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Volcarona
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tornadus (Incarnate)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tornadus (Incarnate) (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Thundurus (Incarnate)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Thundurus (Incarnate) (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Landorus (Incarnate)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Kyurem
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Meloetta (Aria)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Meloetta (Pirouette)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Genesect
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Genesect (Burn)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Genesect (Chill)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Genesect (Douse)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Genesect (Shock)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Fletchling
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Fletchling (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Vivillon
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Skrelp
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Clawitzer
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tyrunt
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tyrunt (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Amaura
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Amaura (Shadow)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Hawlucha
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sliggoo
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Klefki
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Rowlet
+ataque rapidos: 4
+ataque carregado: 2
+combinações: 8
+------------------
+Crabrawler
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Rockruff
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Lycanroc (Midday)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Lycanroc (Midnight)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mudsdale
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Araquanid
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Salazzle
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Steenee
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Drampa
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Hakamo-o
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Solgaleo
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Buzzwole
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Pheromosa
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Xurkitree
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Celesteela
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Guzzlord
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Blacephalon
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Drednaw
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Flapple
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Appletun
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Silicobra
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sandaconda
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Centiskorch
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Grapploct
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sirfetch'd
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Runerigus
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Frosmoth
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Copperajah
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Dragapult
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Zacian (Crowned Sword)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Zamazenta (Crowned Shield)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Eternatus
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Calyrex (Ice Rider)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Smoliv
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Armarouge
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Ceruledge
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Toedscruel
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Scovillain
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Rabsca
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Espathra
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tinkaton
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Glimmora
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Houndstone
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Veluza
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Dondozo
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tatsugiri (Curly)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tatsugiri (Droopy)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Tatsugiri (Stretchy)
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Frigibax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Arctibax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Gholdengo
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Koraidon
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Koraidon_apex
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Miraidon
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Miraidon_ultimate
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mega Venusaur
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mega Scizor
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mega Houndoom
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mega Sableye
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mega Medicham
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mega Altaria
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mega Latios
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Mega Audino
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Venusaur Gigamax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Meowth Gigamax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Eevee Gigamax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Garbodor Gigamax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Drednaw Gigamax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Flapple Gigamax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Appletun Gigamax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Sandaconda Gigamax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Centiskorch Gigamax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Copperajah Gigamax
+ataque rapidos: 2
+ataque carregado: 4
+combinações: 8
+------------------
+Bulbasaur
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bulbasaur (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ivysaur
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ivysaur (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Charmander
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Charmander (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Squirtle
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Squirtle (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Wartortle
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Wartortle (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pidgey
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pidgey (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pidgeotto
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pidgeotto (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rattata
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rattata (Alolan)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rattata (Alolan) (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rattata (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Raticate
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Raticate (Alolan)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Raticate (Alolan) (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Raticate (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pikachu (Kariyushi)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pikachu (Libre)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pikachu (Pop Star)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pikachu (Rock Star)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sandshrew (Alolan)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sandshrew (Alolan) (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Nidoran Female
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Nidoran Female (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Nidoran Male
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Nidoran Male (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Oddish
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Oddish (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gloom
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gloom (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Paras
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Venonat
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Venonat (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Psyduck
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Psyduck (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mankey
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mankey (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Growlithe
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Growlithe (Hisuian)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Growlithe (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Poliwag
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Poliwag (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Abra
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Abra (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Kadabra
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Kadabra (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bellsprout
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bellsprout (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tentacool
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tentacool (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Geodude
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Geodude (Alolan)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Geodude (Alolan) (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Geodude (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Graveler (Alolan)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Graveler (Alolan) (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ponyta (Galarian)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Slowpoke
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Slowpoke (Galarian)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Slowpoke (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Farfetch'd (Galarian)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Grimer (Alolan)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Grimer (Alolan) (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Grimer (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Drowzee
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Drowzee (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Voltorb (Hisuian)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Electrode (Hisuian)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Exeggcute
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Exeggcute (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cubone
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cubone (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Koffing (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rhyhorn
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rhyhorn (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Horsea
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Horsea (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Goldeen
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Staryu (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Electabuzz
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Electabuzz (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Vaporeon
+ataque rapidos: 1
+ataque carregado: 6
+combinações: 6
+------------------
+Kabuto
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Kabuto (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dratini
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dratini (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cyndaquil
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cyndaquil (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Quilava
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Quilava (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Totodile
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Totodile (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Croconaw
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Croconaw (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sentret
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Hoothoot
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ledyba
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ledyba (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Spinarak
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Chinchou
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pichu
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Natu
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Natu (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Marill
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Azumarill
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Hoppip
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Hoppip (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Skiploom
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Skiploom (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Aipom
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Aipom (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sunkern
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Yanma
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Wooper
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Wooper (Paldean)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Wooper (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Murkrow
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Murkrow (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pineco
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pineco (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gligar
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gligar (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Snubbull
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Snubbull (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shuckle
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shuckle (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sneasel (Hisuian)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sneasel (Hisuian) (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Slugma
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Swinub
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Swinub (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Corsola
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Corsola (Galarian)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Remoraid
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Skarmory
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Skarmory (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Houndour
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Houndour (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Stantler
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Stantler (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tyrogue
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Larvitar
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Larvitar (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pupitar
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pupitar (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Treecko
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Treecko (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Grovyle
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Grovyle (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Torchic
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Torchic (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Combusken
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Combusken (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mudkip
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mudkip (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Marshtomp
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Marshtomp (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Poochyena
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Poochyena (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Zigzagoon (Galarian)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Zigzagoon (Galarian) (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Linoone (Galarian)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Linoone (Galarian) (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Beautifly
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dustox
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Lotad
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Seedot
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Seedot (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Nuzleaf
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Nuzleaf (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Swellow
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Swellow (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Wingull
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ralts
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ralts (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Surskit
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shroomish
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Nincada
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ninjask
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Whismur
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Whismur (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Loudred
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Loudred (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Azurill
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Nosepass
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Nosepass (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Skitty
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Meditite
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Electrike
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Electrike (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Volbeat
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Illumise
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gulpin
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Carvanha
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Carvanha (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sharpedo
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sharpedo (Mega)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sharpedo (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Numel
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Numel (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Spoink
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Spoink (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Spinda
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Swablu
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Swablu (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Zangoose
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Seviper
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Baltoy
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Baltoy (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Anorith
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Anorith (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Castform (Rainy)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Castform (Snowy)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Castform (Sunny)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shuppet
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shuppet (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Banette
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Banette (Mega)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Banette (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Duskull
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Duskull (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Chimecho
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Snorunt
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Snorunt (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Spheal
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Spheal (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Huntail
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gorebyss
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Relicanth
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Luvdisc
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bagon
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bagon (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Kyogre
+ataque rapidos: 1
+ataque carregado: 6
+combinações: 6
+------------------
+Kyogre (Primal)
+ataque rapidos: 1
+ataque carregado: 6
+combinações: 6
+------------------
+Kyogre (Shadow)
+ataque rapidos: 1
+ataque carregado: 6
+combinações: 6
+------------------
+Deoxys
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Deoxys (Attack)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Deoxys (Defense)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Deoxys (Speed)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Turtwig
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Turtwig (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Grotle
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Grotle (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Chimchar
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Chimchar (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Monferno
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Monferno (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Piplup
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Piplup (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Prinplup
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Prinplup (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Kricketune
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shinx
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shinx (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Luxio
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Luxio (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cranidos
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cranidos (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rampardos
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rampardos (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shieldon
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shieldon (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bastiodon
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bastiodon (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mothim
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Buizel
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cherubi
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cherrim (Overcast)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ambipom
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ambipom (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Drifloon
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Drifloon (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Glameow
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Glameow (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Purugly
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Purugly (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Chingling
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bonsly
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mime (Jr)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Chatot
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gible
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gible (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gabite
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gabite (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Munchlax
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Skorupi
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Skorupi (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Carnivine
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Finneon
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mantyke
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Yanmega
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rotom
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rotom (Fan)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rotom (Frost)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rotom (Heat)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rotom (Wash)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Uxie
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mesprit
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Azelf
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dialga
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dialga (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Phione
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Manaphy
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Bug)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Dark)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Dragon)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Electric)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Fairy)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Fighting)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Fire)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Flying)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Ghost)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Grass)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Ground)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Ice)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Poison)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Psychic)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Rock)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Steel)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arceus (Water)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Snivy
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Snivy (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Servine
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Servine (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tepig
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tepig (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pignite
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pignite (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Oshawott
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Oshawott (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dewott
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dewott (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Patrat
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Patrat (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Watchog
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Watchog (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Purrloin
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Purrloin (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pansage
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Simisage
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pansear
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Simisear
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Panpour
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Simipour
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Munna
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Musharna
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pidove
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pidove (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tranquill
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tranquill (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Unfezant
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Unfezant (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Blitzle
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Blitzle (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Zebstrika
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Zebstrika (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Roggenrola
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Roggenrola (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Boldore
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Boldore (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Woobat
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Drilbur
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Drilbur (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Timburr
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Timburr (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gurdurr
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gurdurr (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tympole
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Palpitoad
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Seismitoad
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sewaddle
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Swadloon
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Venipede
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Venipede (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Whirlipede
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Whirlipede (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cottonee
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Basculin
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sandile
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Krokorok
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Maractus
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dwebble
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dwebble (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Yamask
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Yamask (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tirtouga
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tirtouga (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Archen
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Archen (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Archeops
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Archeops (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Minccino
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cinccino
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gothita
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gothita (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gothorita
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gothorita (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gothitelle
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gothitelle (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ducklett
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ducklett (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Vanillite
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Vanillish
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Foongus
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Foongus (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Amoonguss
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Amoonguss (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Frillish
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Joltik
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Joltik (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ferroseed
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ferroseed (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Eelektrik
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Elgyem
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Beheeyem
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Lampent
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Lampent (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Axew
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Fraxure
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cubchoo
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shelmet
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shelmet (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Stunfisk
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Golett
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Golett (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pawniard
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Vullaby
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Heatmor
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Durant
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Deino
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Deino (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Zweilous
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Zweilous (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Larvesta
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Chespin
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Chespin (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Quilladin
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Quilladin (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Fennekin
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Fennekin (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Braixen
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Braixen (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Froakie
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Froakie (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Frogadier
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Frogadier (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bunnelby
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bunnelby (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Flabebe
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Floette
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pancham
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Espurr
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Meowstic (Male)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Aegislash (Blade)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Aegislash (Shield)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Inkay
+ataque rapidos: 3
+ataque carregado: 2
+combinações: 6
+------------------
+Inkay (Shadow)
+ataque rapidos: 3
+ataque carregado: 2
+combinações: 6
+------------------
+Binacle
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Clauncher
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Helioptile
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dedenne
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Carbink
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Goomy
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Phantump
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Phantump (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Trevenant
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Trevenant (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pumpkaboo (Average)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pumpkaboo (Large)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pumpkaboo (Small)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pumpkaboo (Super)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bergmite
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Noibat
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Diancie
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Diancie (Mega)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Hoopa
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Hoopa (Confined)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Hoopa (Unbound)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Litten
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Torracat
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Popplio
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Brionne
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pikipek
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Pikipek (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Trumbeak
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Trumbeak (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Yungoos
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Gumshoos
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Grubbin
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Grubbin (Shadow)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Oricorio (Baile)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Oricorio (Pa'u)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Oricorio (Pom-Pom)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Oricorio (Sensu)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mareanie
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Toxapex
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mudbray
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dewpider
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Salandit
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Stufful
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Type (Null)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Minior (Core)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Minior (Meteor)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Komala
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Togedemaru
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mimikyu
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Jangmo-o
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Poipole
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Stakataka
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Zeraora
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Melmetal
+ataque rapidos: 1
+ataque carregado: 6
+combinações: 6
+------------------
+Inteleon
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rookidee
+ataque rapidos: 3
+ataque carregado: 2
+combinações: 6
+------------------
+Corvisquire
+ataque rapidos: 3
+ataque carregado: 2
+combinações: 6
+------------------
+Nickit
+ataque rapidos: 3
+ataque carregado: 2
+combinações: 6
+------------------
+Thievul
+ataque rapidos: 3
+ataque carregado: 2
+combinações: 6
+------------------
+Wooloo
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Coalossal
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cramorant
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sizzlipede
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sinistea
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Hatenna
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Hattrem
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Impidimp
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Morgrem
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cursola
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Alcremie
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Falinks
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cufant
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dracozolt
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arctozolt
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Dracovish
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Arctovish
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Duraludon
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Drakloak
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Eternatus (Eternamax)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Kubfu
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Zarude
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Glastrier
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Spectrier
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Calyrex
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sprigatito
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Floragato
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Fuecoco
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Crocalor
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Quaxly
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Quaxwell
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Lechonk
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Oinkologne
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Oinkologne (Female)
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tarountula
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Nymble
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Fidough
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Squawkabilly
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Squawkabilly_blue
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Squawkabilly_green
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Squawkabilly_white
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Squawkabilly_yellow
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Nacli
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Naclstack
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Garganacl
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Charcadet
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Tadbulb
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Wattrel
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Kilowattrel
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Maschiff
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mabosstiff
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Shroodle
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Grafaiai
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Bramblin
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Brambleghast
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Toedscool
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Klawf
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Capsakid
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Rellor
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Flittle
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Wiglett
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Wugtrio
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Finizen
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Orthworm
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Glimmet
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Greavard
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Flamigo
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Wo-Chien
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Chien-Pao
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Ting-Lu
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Chi-Yu
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Poltchageist
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Sinistcha
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Okidogi
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Munkidori
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Fezandipiti
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Archaludon
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mega Sharpedo
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mega Banette
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Mega Diancie
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Melmetal Gigamax
+ataque rapidos: 1
+ataque carregado: 6
+combinações: 6
+------------------
+Rillaboom Gigamax
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Cinderace Gigamax
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Inteleon Gigamax
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Coalossal Gigamax
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Alcremie Gigamax
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Duraludon Gigamax
+ataque rapidos: 2
+ataque carregado: 3
+combinações: 6
+------------------
+Delibird (Shadow)
+ataque rapidos: 1
+ataque carregado: 5
+combinações: 5
+------------------
+Zapdos (Galarian)
+ataque rapidos: 1
+ataque carregado: 4
+combinações: 4
+------------------
+Slaking
+ataque rapidos: 1
+ataque carregado: 4
+combinações: 4
+------------------
+Slaking (Shadow)
+ataque rapidos: 1
+ataque carregado: 4
+combinações: 4
+------------------
+Buneary
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Darumaka
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Darumaka (Galarian)
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Darumaka (Shadow)
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Trubbish
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Trubbish (Shadow)
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Skiddo
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Honedge
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Spritzee
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Cutiefly
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Bounsweet
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Grookey
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Thwackey
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Scorbunny
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Raboot
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Sobble
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Drizzile
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Dottler
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Gossifleur
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Eldegoss
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Chewtle
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Yamper
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Boltund
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Rolycoly
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Snom
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Tinkatink
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Tinkatuff
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Cyclizar
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Orbeetle Gigamax
+ataque rapidos: 2
+ataque carregado: 2
+combinações: 4
+------------------
+Wobbuffet
+ataque rapidos: 3
+ataque carregado: 1
+combinações: 3
+------------------
+Wobbuffet (Shadow)
+ataque rapidos: 3
+ataque carregado: 1
+combinações: 3
+------------------
+Slakoth
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Slakoth (Shadow)
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Clamperl
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Shiinotic
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Carkol
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Clobbopus
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Stonjourner
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Eiscue
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Eiscue (Ice)
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Eiscue (Noice)
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Indeedee (Female)
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Indeedee (Male)
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Pecharunt
+ataque rapidos: 1
+ataque carregado: 3
+combinações: 3
+------------------
+Caterpie
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Caterpie (Shadow)
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Metapod
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Metapod (Shadow)
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Weedle
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Weedle (Shadow)
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Kakuna
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Kakuna (Shadow)
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Wurmple
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Silcoon
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Cascoon
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Taillow
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Taillow (Shadow)
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Feebas
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Feebas (Shadow)
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Wynaut
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Kricketot
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Burmy (Plant)
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Burmy (Sandy)
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Burmy (Trash)
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Happiny
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Yamask (Galarian)
+ataque rapidos: 1
+ataque carregado: 2
+combinações: 2
+------------------
+Tynamo
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Scatterbug
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Swirlix
+ataque rapidos: 1
+ataque carregado: 2
+combinações: 2
+------------------
+Morelull
+ataque rapidos: 1
+ataque carregado: 2
+combinações: 2
+------------------
+Meltan
+ataque rapidos: 1
+ataque carregado: 2
+combinações: 2
+------------------
+Milcery
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Dreepy
+ataque rapidos: 2
+ataque carregado: 1
+combinações: 2
+------------------
+Magikarp
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Magikarp (Shadow)
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Ditto
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Beldum
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Beldum (Shadow)
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Combee
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Spewpa
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Wimpod
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Pyukumuku
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Cosmog
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Cosmoem
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Magearna
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Blipbug
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Applin
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Toxel
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Basculegion (Female)
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Basculegion (Male)
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Greattusk
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Screamtail
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Brutebonnet
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Fluttermane
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Slitherwing
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Sandyshocks
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Irontreads
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Ironbundle
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Ironhands
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Ironjugulis
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Ironmoth
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Ironthorns
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Gimmighoul
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Roaringmoon
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Ironvaliant
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Walking Wake
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Iron Leaves
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Gouging Fire
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Raging Bolt
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Iron Boulder
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Iron Crown
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------
+Terapagos
+ataque rapidos: 1
+ataque carregado: 1
+combinações: 1
+------------------

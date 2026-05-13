@@ -1,0 +1,975 @@
+{
+        "dex": 18,
+        "speciesName": "Pidgeot",
+        "speciesId": "pidgeot",
+        "baseStats": {
+            "atk": 166,
+            "def": 154,
+            "hp": 195
+        },
+        "types": ["normal", "flying"],
+        "fastMoves": ["AIR_SLASH", "STEEL_WING", "WING_ATTACK", "GUST"],
+        "chargedMoves": ["AERIAL_ACE", "AIR_CUTTER", "BRAVE_BIRD", "HURRICANE", "FEATHER_DANCE", "HEAT_WAVE"],
+        "defaultIVs": {
+            "cp500": [9, 4, 9, 14],
+            "cp1500": [26.5, 4, 14, 12],
+            "cp2500": [50, 15, 15, 15]
+        },
+        "eliteMoves": ["WING_ATTACK", "AIR_CUTTER", "GUST"],
+        "searchPriority": 2,
+        "buddyDistance": 1,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_PIDGEY",
+            "parent": "pidgeotto"
+        },
+        "level25CP": 1283,
+        "tags": ["shadoweligible"]
+    },
+
+novo "HEAT_WAVE"
+
+
+{
+        "dex": 144,
+        "speciesName": "Articuno",
+        "speciesId": "articuno",
+        "baseStats": {
+            "atk": 192,
+            "def": 236,
+            "hp": 207
+        },
+        "types": ["ice", "flying"],
+        "fastMoves": ["FROST_BREATH", "ICE_SHARD", "POWDER_SNOW"],
+        "chargedMoves": ["BLIZZARD", "HURRICANE", "ICE_BEAM", "ICY_WIND", "ANCIENT_POWER", "TRIPLE_AXEL"],
+        "tags": ["legendary", "shadoweligible"],
+        "defaultIVs": {
+            "cp500": [6, 14, 15, 12],
+            "cp1500": [18.5, 4, 7, 13],
+            "cp2500": [31, 4, 15, 11]
+        },
+        "level25CP": 1893,
+        "eliteMoves": ["HURRICANE"],
+        "searchPriority": 2,
+        "buddyDistance": 20,
+        "thirdMoveCost": 100000,
+        "released": true
+    },
+
+novo "POWDER_SNOW"
+
+{
+        "dex": 144,
+        "speciesName": "Articuno (Shadow)",
+        "speciesId": "articuno_shadow",
+        "baseStats": {
+            "atk": 192,
+            "def": 236,
+            "hp": 207
+        },
+        "types": ["ice", "flying"],
+        "fastMoves": ["FROST_BREATH", "ICE_SHARD", "POWDER_SNOW"],
+        "chargedMoves": ["BLIZZARD", "HURRICANE", "ICE_BEAM", "ICY_WIND", "ANCIENT_POWER", "TRIPLE_AXEL"],
+        "tags": ["legendary", "shadow"],
+        "defaultIVs": {
+            "cp500": [6, 12, 10, 13],
+            "cp1500": [17.5, 14, 9, 14],
+            "cp2500": [30.5, 7, 9, 12]
+        },
+        "eliteMoves": ["HURRICANE"],
+        "searchPriority": 2,
+        "buddyDistance": 20,
+        "thirdMoveCost": 100000,
+        "released": true
+    },
+
+novo "POWDER_SNOW"
+
+{
+        "dex": 145,
+        "speciesName": "Zapdos",
+        "speciesId": "zapdos",
+        "baseStats": {
+            "atk": 253,
+            "def": 185,
+            "hp": 207
+        },
+        "types": ["electric", "flying"],
+        "fastMoves": ["CHARGE_BEAM", "THUNDER_SHOCK"],
+        "chargedMoves": ["THUNDER", "THUNDERBOLT", "ZAP_CANNON", "ANCIENT_POWER", "DRILL_PECK", "HEAT_WAVE"],
+        "tags": ["legendary", "shadoweligible"],
+        "defaultIVs": {
+            "cp500": [5.5, 6, 11, 9],
+            "cp1500": [15.5, 5, 14, 13],
+            "cp2500": [25.5, 8, 14, 15]
+        },
+        "level25CP": 2208,
+        "eliteMoves": ["THUNDER_SHOCK"],
+        "buddyDistance": 20,
+        "thirdMoveCost": 100000,
+        "released": true
+    },
+
+novo "HEAT_WAVE"
+
+{
+        "dex": 145,
+        "speciesName": "Zapdos (Shadow)",
+        "speciesId": "zapdos_shadow",
+        "baseStats": {
+            "atk": 253,
+            "def": 185,
+            "hp": 207
+        },
+        "types": ["electric", "flying"],
+        "fastMoves": ["CHARGE_BEAM", "THUNDER_SHOCK"],
+        "chargedMoves": ["THUNDER", "THUNDERBOLT", "ZAP_CANNON", "ANCIENT_POWER", "DRILL_PECK", "HEAT_WAVE"],
+        "tags": ["legendary", "shadow"],
+        "defaultIVs": {
+            "cp500": [5, 11, 15, 13],
+            "cp1500": [15, 14, 15, 10],
+            "cp2500": [25.5, 10, 12, 11]
+        },
+        "eliteMoves": ["THUNDER_SHOCK"],
+        "buddyDistance": 20,
+        "thirdMoveCost": 100000,
+        "released": true
+    },
+
+novo "HEAT_WAVE"
+
+{
+        "dex": 146,
+        "speciesName": "Moltres",
+        "speciesId": "moltres",
+        "baseStats": {
+            "atk": 251,
+            "def": 181,
+            "hp": 207
+        },
+        "types": ["fire", "flying"],
+        "fastMoves": ["FIRE_SPIN", "WING_ATTACK"],
+        "chargedMoves": ["FIRE_BLAST", "HEAT_WAVE", "OVERHEAT", "SKY_ATTACK", "ANCIENT_POWER", "FLY"],
+        "tags": ["legendary", "shadoweligible"],
+        "defaultIVs": {
+            "cp500": [5.5, 9, 11, 13],
+            "cp1500": [16, 5, 13, 10],
+            "cp2500": [27, 4, 15, 4]
+        },
+        "level25CP": 2167,
+        "eliteMoves": ["SKY_ATTACK"],
+        "buddyDistance": 20,
+        "thirdMoveCost": 100000,
+        "released": true
+    },
+
+novo "FLY"
+
+{
+        "dex": 146,
+        "speciesName": "Moltres (Shadow)",
+        "speciesId": "moltres_shadow",
+        "baseStats": {
+            "atk": 251,
+            "def": 181,
+            "hp": 207
+        },
+        "types": ["fire", "flying"],
+        "fastMoves": ["FIRE_SPIN", "WING_ATTACK"],
+        "chargedMoves": ["FIRE_BLAST", "HEAT_WAVE", "OVERHEAT", "SKY_ATTACK", "ANCIENT_POWER", "FLY"],
+        "tags": ["legendary", "shadow"],
+        "defaultIVs": {
+            "cp500": [5.5, 14, 6, 9],
+            "cp1500": [15.5, 15, 13, 7],
+            "cp2500": [26, 8, 11, 14]
+        },
+        "eliteMoves": ["SKY_ATTACK"],
+        "buddyDistance": 20,
+        "thirdMoveCost": 100000,
+        "released": true
+    },
+
+novo "FLY"
+
+{
+        "dex": 176,
+        "speciesName": "Togetic",
+        "speciesId": "togetic",
+        "baseStats": {
+            "atk": 139,
+            "def": 181,
+            "hp": 146
+        },
+        "types": ["fairy", "flying"],
+        "fastMoves": ["FAIRY_WIND", "EXTRASENSORY", "HIDDEN_POWER_BUG", "HIDDEN_POWER_DARK", "HIDDEN_POWER_DRAGON", "HIDDEN_POWER_ELECTRIC", "HIDDEN_POWER_FIGHTING", "HIDDEN_POWER_FIRE", "HIDDEN_POWER_FLYING", "HIDDEN_POWER_GHOST", "HIDDEN_POWER_GRASS", "HIDDEN_POWER_GROUND", "HIDDEN_POWER_ICE", "HIDDEN_POWER_POISON", "HIDDEN_POWER_PSYCHIC", "HIDDEN_POWER_ROCK", "HIDDEN_POWER_STEEL", "HIDDEN_POWER_WATER", "STEEL_WING", "ZEN_HEADBUTT"],
+        "chargedMoves": ["AERIAL_ACE", "ANCIENT_POWER", "DAZZLING_GLEAM", "DRAINING_KISS", "PSYSHOCK", "HEAT_WAVE"],
+        "defaultIVs": {
+            "cp500": [11, 4, 15, 15],
+            "cp1500": [36.5, 4, 14, 14],
+            "cp2500": [50, 15, 15, 15]
+        },
+        "eliteMoves": ["STEEL_WING", "ZEN_HEADBUTT"],
+        "buddyDistance": 3,
+        "thirdMoveCost": 50000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_TOGEPI",
+            "parent": "togepi",
+            "evolutions": ["togekiss"]
+        }
+    },
+
+novo HEAT_WAVE"
+
+{
+        "dex": 214,
+        "speciesName": "Heracross",
+        "speciesId": "heracross",
+        "baseStats": {
+            "atk": 234,
+            "def": 179,
+            "hp": 190
+        },
+        "types": ["bug", "fighting"],
+        "fastMoves": ["COUNTER", "STRUGGLE_BUG", "FURY_CUTTER"],
+        "chargedMoves": ["CLOSE_COMBAT", "EARTHQUAKE", "MEGAHORN", "ROCK_BLAST", "UPPER_HAND", "ROCK_TOMB"],
+        "tags": ["regional"],
+        "defaultIVs": {
+            "cp500": [6, 10, 15, 13],
+            "cp1500": [17.5, 7, 15, 15],
+            "cp2500": [29.5, 4, 15, 14]
+        },
+        "buddyDistance": 3,
+        "thirdMoveCost": 50000,
+        "released": true
+    },
+
+novo  "FURY_CUTTER" "ROCK_TOMB"
+
+{
+        "dex": 214,
+        "speciesName": "Heracross (Mega)",
+        "speciesId": "heracross_mega",
+        "baseStats": {
+            "atk": 334,
+            "def": 223,
+            "hp": 190
+        },
+        "types": ["bug", "fighting"],
+        "fastMoves": ["COUNTER", "STRUGGLE_BUG", "FURY_CUTTER"],
+        "chargedMoves": ["CLOSE_COMBAT", "EARTHQUAKE", "MEGAHORN", "ROCK_BLAST", "UPPER_HAND", "ROCK_TOMB"],
+        "tags": ["regional", "mega"],
+        "defaultIVs": {
+            "cp500": [4, 14, 14, 14],
+            "cp1500": [11.5, 4, 9, 11],
+            "cp2500": [19, 4, 13, 11]
+        },
+        "buddyDistance": 3,
+        "thirdMoveCost": 50000,
+        "released": true
+    },
+
+novo  "FURY_CUTTER" "ROCK_TOMB"
+
+{
+        "dex": 323,
+        "speciesName": "Camerupt",
+        "speciesId": "camerupt",
+        "baseStats": {
+            "atk": 194,
+            "def": 136,
+            "hp": 172
+        },
+        "types": ["fire", "ground"],
+        "fastMoves": ["EMBER", "ROCK_SMASH", "INCINERATE"],
+        "chargedMoves": ["EARTHQUAKE", "OVERHEAT", "SOLAR_BEAM", "EARTH_POWER", "SCORCHING_SANDS", "ROCK_TOMB"],
+        "defaultIVs": {
+            "cp500": [8.5, 4, 15, 14],
+            "cp1500": [25.5, 4, 13, 14],
+            "cp2500": [50, 15, 15, 15]
+        },
+        "buddyDistance": 3,
+        "thirdMoveCost": 50000,
+        "released": true,
+        "level25CP": 1323,
+        "tags": ["shadoweligible"],
+        "family": {
+            "id": "FAMILY_NUMEL",
+            "parent": "numel"
+        }
+    },
+
+novo "SCORCHING_SANDS", "ROCK_TOMB"
+
+{
+        "dex": 323,
+        "speciesName": "Camerupt (Mega)",
+        "speciesId": "camerupt_mega",
+        "baseStats": {
+            "atk": 253,
+            "def": 183,
+            "hp": 172
+        },
+        "types": ["fire", "ground"],
+        "fastMoves": ["EMBER", "ROCK_SMASH", "INCINERATE"],
+        "chargedMoves": ["EARTHQUAKE", "OVERHEAT", "SOLAR_BEAM", "EARTH_POWER", "SCORCHING_SANDS", "ROCK_TOMB"],
+        "defaultIVs": {
+            "cp500": [6, 4, 11, 12],
+            "cp1500": [17, 4, 15, 14],
+            "cp2500": [28.5, 4, 15, 12]
+        },
+        "buddyDistance": 3,
+        "thirdMoveCost": 50000,
+        "released": false,
+        "level25CP": 1323,
+        "tags": ["shadoweligible", "mega"],
+        "family": {
+            "id": "FAMILY_NUMEL",
+            "parent": "numel"
+        }
+    },
+
+novo "SCORCHING_SANDS", "ROCK_TOMB"
+
+{
+        "dex": 323,
+        "speciesName": "Camerupt (Shadow)",
+        "speciesId": "camerupt_shadow",
+        "baseStats": {
+            "atk": 194,
+            "def": 136,
+            "hp": 172
+        },
+        "types": ["fire", "ground"],
+        "fastMoves": ["EMBER", "ROCK_SMASH", "INCINERATE"],
+        "chargedMoves": ["EARTHQUAKE", "OVERHEAT", "SOLAR_BEAM", "EARTH_POWER", "SCORCHING_SANDS", "ROCK_TOMB"],
+        "defaultIVs": {
+            "cp500": [8.5, 4, 15, 14],
+            "cp1500": [25.5, 4, 13, 14],
+            "cp2500": [50, 15, 15, 15]
+        },
+        "buddyDistance": 3,
+        "thirdMoveCost": 50000,
+        "released": true,
+        "tags": ["shadow"],
+        "family": {
+            "id": "FAMILY_NUMEL",
+            "parent": "numel_shadow"
+        }
+
+novo "SCORCHING_SANDS", "ROCK_TOMB"
+
+{
+        "dex": 330,
+        "speciesName": "Flygon",
+        "speciesId": "flygon",
+        "baseStats": {
+            "atk": 205,
+            "def": 168,
+            "hp": 190
+        },
+        "types": ["ground", "dragon"],
+        "fastMoves": ["DRAGON_TAIL", "MUD_SHOT", "SAND_ATTACK"],
+        "chargedMoves": ["DRAGON_CLAW", "EARTHQUAKE", "STONE_EDGE", "EARTH_POWER", "BOOMBURST", "SCORCHING_SANDS", "SAND_TOMB", "TWISTER"],
+        "defaultIVs": {
+            "cp500": [7, 7, 15, 14],
+            "cp1500": [21, 4, 11, 15],
+            "cp2500": [40, 4, 11, 15]
+        },
+        "level25CP": 1634,
+        "tags": ["shadoweligible"],
+        "eliteMoves": ["EARTH_POWER"],
+        "buddyDistance": 5,
+        "thirdMoveCost": 75000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_TRAPINCH",
+            "parent": "vibrava"
+        }
+    },
+
+novo "TWISTER"
+
+{
+        "dex": 330,
+        "speciesName": "Flygon (Shadow)",
+        "speciesId": "flygon_shadow",
+        "baseStats": {
+            "atk": 205,
+            "def": 168,
+            "hp": 190
+        },
+        "types": ["ground", "dragon"],
+        "fastMoves": ["DRAGON_TAIL", "MUD_SHOT", "SAND_ATTACK"],
+        "chargedMoves": ["DRAGON_CLAW", "EARTHQUAKE", "STONE_EDGE", "EARTH_POWER", "BOOMBURST", "SCORCHING_SANDS", "SAND_TOMB", "TWISTER"],
+        "defaultIVs": {
+            "cp500": [7, 7, 15, 14],
+            "cp1500": [21, 4, 11, 15],
+            "cp2500": [40, 4, 11, 15]
+        },
+        "tags": ["shadow"],
+        "eliteMoves": ["EARTH_POWER"],
+        "buddyDistance": 5,
+        "thirdMoveCost": 75000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_TRAPINCH",
+            "parent": "vibrava_shadow"
+        }
+    }
+
+novo "TWISTER"
+
+{
+        "dex": 413,
+        "speciesName": "Wormadam (Plant)",
+        "speciesId": "wormadam_plant",
+        "baseStats": {
+            "atk": 141,
+            "def": 180,
+            "hp": 155
+        },
+        "types": ["bug", "grass"],
+        "fastMoves": ["BUG_BITE", "CONFUSION", "SUCKER_PUNCH"],
+        "chargedMoves": ["BUG_BUZZ", "ENERGY_BALL", "PSYBEAM"],
+        "defaultIVs": {
+            "cp500": [10.5, 7, 13, 14],
+            "cp1500": [34.5, 4, 11, 14],
+            "cp2500": [50, 15, 15, 15]
+        },
+        "buddyDistance": 1,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_BURMY",
+            "parent": "burmy_plant"
+        }
+    },
+
+novo "SUCKER_PUNCH"
+
+{
+        "dex": 413,
+        "speciesName": "Wormadam (Sandy)",
+        "speciesId": "wormadam_sandy",
+        "baseStats": {
+            "atk": 141,
+            "def": 180,
+            "hp": 155
+        },
+        "types": ["bug", "ground"],
+        "fastMoves": ["BUG_BITE", "CONFUSION", "SUCKER_PUNCH"],
+        "chargedMoves": ["BUG_BUZZ", "BULLDOZE", "PSYBEAM"],
+        "defaultIVs": {
+            "cp500": [10.5, 7, 13, 14],
+            "cp1500": [34.5, 4, 11, 14],
+            "cp2500": [50, 15, 15, 15]
+        },
+        "buddyDistance": 1,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_BURMY",
+            "parent": "burmy_sandy"
+        }
+    },
+
+novo "SUCKER_PUNCH"
+
+{
+        "dex": 413,
+        "speciesName": "Wormadam (Trash)",
+        "speciesId": "wormadam_trash",
+        "baseStats": {
+            "atk": 127,
+            "def": 175,
+            "hp": 155
+        },
+        "types": ["bug", "steel"],
+        "fastMoves": ["BUG_BITE", "CONFUSION", "METAL_SOUND", "SUCKER_PUNCH"],
+        "chargedMoves": ["BUG_BUZZ", "IRON_HEAD", "PSYBEAM"],
+        "defaultIVs": {
+            "cp500": [12, 4, 15, 12],
+            "cp1500": [41, 5, 15, 15],
+            "cp2500": [50, 15, 15, 15],
+            "cp1500l40": [37.5, 12, 14, 15]
+        },
+        "searchPriority": 2,
+        "buddyDistance": 1,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_BURMY",
+            "parent": "burmy_trash"
+        },
+        "nicknames": ["trash"]
+    },
+
+novo "SUCKER_PUNCH"
+
+{
+        "dex": 445,
+        "speciesName": "Garchomp",
+        "speciesId": "garchomp",
+        "baseStats": {
+            "atk": 261,
+            "def": 193,
+            "hp": 239
+        },
+        "types": ["dragon", "ground"],
+        "fastMoves": ["DRAGON_TAIL", "MUD_SHOT"],
+        "chargedMoves": ["EARTHQUAKE", "FIRE_BLAST", "OUTRAGE", "SAND_TOMB", "EARTH_POWER", "BREAKING_SWIPE", "TWISTER"],
+        "eliteMoves": ["EARTH_POWER"],
+        "defaultIVs": {
+            "cp500": [5, 4, 9, 10],
+            "cp1500": [14, 4, 10, 14],
+            "cp2500": [23, 4, 15, 14]
+        },
+        "searchPriority": 3,
+        "buddyDistance": 5,
+        "thirdMoveCost": 75000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_GIBLE",
+            "parent": "gabite"
+        },
+        "nicknames": ["chomp"],
+        "level25CP": 2500,
+        "tags": ["shadoweligible"]
+    },
+
+novo "TWISTER"
+
+{
+        "dex": 445,
+        "speciesName": "Garchomp (Mega)",
+        "speciesId": "garchomp_mega",
+        "baseStats": {
+            "atk": 339,
+            "def": 222,
+            "hp": 239
+        },
+        "types": ["dragon", "ground"],
+        "fastMoves": ["DRAGON_TAIL", "MUD_SHOT"],
+        "chargedMoves": ["EARTHQUAKE", "FIRE_BLAST", "OUTRAGE", "SAND_TOMB", "EARTH_POWER", "BREAKING_SWIPE", "TWISTER"],
+        "eliteMoves": ["EARTH_POWER"],
+        "defaultIVs": {
+            "cp500": [3.5, 14, 15, 15],
+            "cp1500": [10, 5, 13, 15],
+            "cp2500": [16.5, 7, 15, 14]
+        },
+        "tags": ["mega"],
+        "buddyDistance": 5,
+        "thirdMoveCost": 75000,
+        "released": true
+    },
+
+novo "TWISTER"
+
+{
+        "dex": 445,
+        "speciesName": "Garchomp (Shadow)",
+        "speciesId": "garchomp_shadow",
+        "baseStats": {
+            "atk": 261,
+            "def": 193,
+            "hp": 239
+        },
+        "types": ["dragon", "ground"],
+        "fastMoves": ["DRAGON_TAIL", "MUD_SHOT"],
+        "chargedMoves": ["EARTHQUAKE", "FIRE_BLAST", "OUTRAGE", "SAND_TOMB", "EARTH_POWER", "BREAKING_SWIPE", "TWISTER"],
+        "eliteMoves": ["EARTH_POWER"],
+        "defaultIVs": {
+            "cp500": [5, 4, 9, 10],
+            "cp1500": [14, 4, 10, 14],
+            "cp2500": [23, 4, 15, 14]
+        },
+        "searchPriority": 3,
+        "buddyDistance": 5,
+        "thirdMoveCost": 75000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_GIBLE",
+            "parent": "gabite_shadow"
+        },
+        "nicknames": ["chomp"],
+        "tags": ["shadow"]
+    },
+
+novo "TWISTER"
+
+{
+        "dex": 472,
+        "speciesName": "Gliscor",
+        "speciesId": "gliscor",
+        "baseStats": {
+            "atk": 185,
+            "def": 222,
+            "hp": 181
+        },
+        "types": ["ground", "flying"],
+        "fastMoves": ["FURY_CUTTER", "WING_ATTACK", "SAND_ATTACK"],
+        "chargedMoves": ["AERIAL_ACE", "EARTHQUAKE", "NIGHT_SLASH", "SAND_TOMB", "ACROBATICS"],
+        "defaultIVs": {
+            "cp500": [7, 6, 14, 15],
+            "cp1500": [21, 4, 14, 9],
+            "cp2500": [39.5, 4, 15, 11]
+        },
+        "level25CP": 1654,
+        "tags": ["shadoweligible"],
+        "buddyDistance": 5,
+        "thirdMoveCost": 75000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_GLIGAR",
+            "parent": "gligar"
+        }
+    },
+
+novo "ACROBATICS"
+
+{
+        "dex": 472,
+        "speciesName": "Gliscor (Shadow)",
+        "speciesId": "gliscor_shadow",
+        "baseStats": {
+            "atk": 185,
+            "def": 222,
+            "hp": 181
+        },
+        "types": ["ground", "flying"],
+        "fastMoves": ["FURY_CUTTER", "WING_ATTACK", "SAND_ATTACK"],
+        "chargedMoves": ["AERIAL_ACE", "EARTHQUAKE", "NIGHT_SLASH", "SAND_TOMB", "ACROBATICS"],
+        "defaultIVs": {
+            "cp500": [7, 6, 14, 15],
+            "cp1500": [21, 4, 14, 9],
+            "cp2500": [39.5, 4, 15, 11]
+        },
+        "tags": ["shadow"],
+        "buddyDistance": 5,
+        "thirdMoveCost": 75000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_GLIGAR",
+            "parent": "gligar_shadow"
+        }
+    },
+novo "ACROBATICS"
+
+{
+        "dex": 479,
+        "speciesName": "Rotom (Mow)",
+        "speciesId": "rotom_mow",
+        "baseStats": {
+            "atk": 204,
+            "def": 219,
+            "hp": 137
+        },
+        "types": ["electric", "grass"],
+        "fastMoves": ["ASTONISH", "THUNDER_SHOCK"],
+        "chargedMoves": ["OMINOUS_WIND", "THUNDER", "THUNDERBOLT", "LEAF_STORM"],
+        "defaultIVs": {
+            "cp500": [7.5, 4, 14, 7],
+            "cp1500": [21.5, 4, 15, 14],
+            "cp2500": [42, 4, 15, 13],
+            "cp2500l40": [39, 12, 13, 15]
+        },
+        "buddyDistance": 5,
+        "thirdMoveCost": 75000,
+        "released": true
+    },
+
+novo "LEAF_STORM"
+
+{
+        "dex": 545,
+        "speciesId": "scolipede",
+        "speciesName": "Scolipede",
+        "baseStats": {
+            "atk": 203,
+            "def": 175,
+            "hp": 155
+        },
+        "types": ["bug", "poison"],
+        "fastMoves": ["BUG_BITE", "POISON_JAB", "POISON_STING"],
+        "chargedMoves": ["MEGAHORN", "SLUDGE_BOMB", "GYRO_BALL", "X_SCISSOR", "AQUA_TAIL"],
+        "defaultIVs": {
+            "cp500": [7.5, 9, 15, 14],
+            "cp1500": [22.5, 5, 15, 14],
+            "cp2500": [46.5, 4, 13, 14],
+            "cp2500l40": [40, 15, 15, 15]
+        },
+        "buddyDistance": 1,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_VENIPEDE",
+            "parent": "whirlipede"
+        },
+        "level25CP": 1491,
+        "tags": ["shadoweligible"]
+    },
+
+novo "AQUA_TAIL"
+
+{
+        "dex": 545,
+        "speciesId": "scolipede_shadow",
+        "speciesName": "Scolipede (Shadow)",
+        "baseStats": {
+            "atk": 203,
+            "def": 175,
+            "hp": 155
+        },
+        "types": ["bug", "poison"],
+        "fastMoves": ["BUG_BITE", "POISON_JAB", "POISON_STING"],
+        "chargedMoves": ["MEGAHORN", "SLUDGE_BOMB", "GYRO_BALL", "X_SCISSOR", "AQUA_TAIL"],
+        "defaultIVs": {
+            "cp500": [7.5, 9, 15, 14],
+            "cp1500": [22.5, 5, 15, 14],
+            "cp2500": [46.5, 4, 13, 14],
+            "cp2500l40": [40, 15, 15, 15]
+        },
+        "buddyDistance": 1,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_VENIPEDE",
+            "parent": "whirlipede_shadow"
+        },
+
+novo "AQUA_TAIL"]
+
+ {
+        "dex": 721,
+        "speciesName": "Volcanion",
+        "speciesId": "volcanion",
+        "baseStats": {
+            "atk": 252,
+            "def": 216,
+            "hp": 190
+        },
+        "types": ["fire", "water"],
+        "fastMoves": ["INCINERATE", "WATER_GUN", "TAKE_DOWN"],
+        "chargedMoves": ["HYDRO_PUMP", "OVERHEAT", "EARTH_POWER", "SLUDGE_BOMB", "SCALD"],
+        "defaultIVs": {
+            "cp500": [5, 15, 15, 10],
+            "cp1500": [15, 10, 11, 10],
+            "cp2500": [24, 15, 15, 15]
+        },
+        "tags": ["mythical", "untradeable"],
+        "searchPriority": 2,
+        "levelFloor": 15,
+        "buddyDistance": 20,
+        "thirdMoveCost": 100000,
+        "released": true
+    },
+
+novo "SCALD"
+
+{
+        "dex": 778,
+        "speciesName": "Mimikyu",
+        "speciesId": "mimikyu",
+        "baseStats": {
+            "atk": 177,
+            "def": 199,
+            "hp": 146
+        },
+        "types": ["ghost", "fairy"],
+        "fastMoves": ["SHADOW_CLAW", "HEX"],
+        "chargedMoves": ["SHADOW_SNEAK", "PLAY_ROUGH", "THUNDER"],
+        "defaultIVs": {
+            "cp500": [8.5, 4, 12, 14],
+            "cp1500": [25, 5, 13, 15],
+            "cp2500": [50, 13, 15, 15],
+            "cp2500l40": [40, 15, 15, 15]
+        },
+        "buddyDistance": 5,
+        "thirdMoveCost": 50000,
+        "released": false
+    },
+
+novo "HEX" "THUNDER"
+
+{
+        "dex": 802,
+        "speciesName": "Marshadow",
+        "speciesId": "marshadow",
+        "baseStats": {
+            "atk": 265,
+            "def": 190,
+            "hp": 207
+        },
+        "types": ["fighting", "ghost"],
+        "fastMoves": ["SUCKER_PUNCH", "COUNTER", "POISON_JAB", "SHADOW_CLAW"],
+        "chargedMoves": ["CLOSE_COMBAT", "FIRE_PUNCH", "THUNDER_PUNCH", "ICE_PUNCH", "ROCK_SLIDE"],
+        "defaultIVs": {
+            "cp500": [5, 14, 15, 13],
+            "cp1500": [14, 15, 15, 14],
+            "cp2500": [24, 11, 14, 10]
+        },
+        "tags": ["mythical", "untradeable"],
+        "searchPriority": 2,
+        "buddyDistance": 20,
+        "thirdMoveCost": 100000,
+        "released": true
+    },
+
+novo "SHADOW_CLAW"
+
+{
+        "dex": 815,
+        "speciesName": "Cinderace",
+        "speciesId": "cinderace",
+        "baseStats": {
+            "atk": 238,
+            "def": 163,
+            "hp": 190
+        },
+        "types": ["fire", "none"],
+        "fastMoves": ["TACKLE", "FIRE_SPIN"],
+        "chargedMoves": ["FLAME_CHARGE", "FLAMETHROWER", "FOCUS_BLAST", "PYRO_BALL", "BLAST_BURN"],
+        "eliteMoves": ["BLAST_BURN"],
+        "defaultIVs": {
+            "cp500": [6.5, 4, 11, 4],
+            "cp1500": [18.5, 4, 10, 14],
+            "cp2500": [31, 5, 14, 12]
+        },
+        "searchPriority": 2,
+        "tags": ["starter"],
+        "buddyDistance": 3,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_SCORBUNNY",
+            "parent": "raboot"
+        }
+    },
+
+novo "PYRO_BALL" "BLAST_BURN"
+
+{
+        "dex": 826,
+        "speciesName": "Orbeetle",
+        "speciesId": "orbeetle",
+        "baseStats": {
+            "atk": 156,
+            "def": 240,
+            "hp": 155
+        },
+        "types": ["bug", "psychic"],
+        "fastMoves": ["STRUGGLE_BUG", "CONFUSION", "PSYCHO_CUT"],
+        "chargedMoves": ["BUG_BUZZ", "PSYCHIC", "PSYSHOCK"],
+        "defaultIVs": {
+            "cp500": [8.5, 5, 14, 13],
+            "cp1500": [25.5, 4, 10, 14],
+            "cp2500": [50, 14, 15, 14],
+            "cp2500l40": [40, 15, 15, 15]
+        },
+        "buddyDistance": 1,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_BLIPBUG",
+            "parent": "dottler"
+        }
+    },
+
+novo "PSYCHO_CUT" "PSYSHOCK"
+
+{
+        "dex": 18,
+        "speciesName": "Pidgeot",
+        "speciesId": "pidgeot",
+        "baseStats": {
+            "atk": 166,
+            "def": 154,
+            "hp": 195
+        },
+        "types": ["normal", "flying"],
+        "fastMoves": ["AIR_SLASH", "STEEL_WING", "WING_ATTACK", "GUST"],
+        "chargedMoves": ["AERIAL_ACE", "AIR_CUTTER", "BRAVE_BIRD", "HURRICANE", "FEATHER_DANCE", "HEAT_WAVE"],
+        "defaultIVs": {
+            "cp500": [9, 4, 9, 14],
+            "cp1500": [26.5, 4, 14, 12],
+            "cp2500": [50, 15, 15, 15]
+        },
+        "eliteMoves": ["WING_ATTACK", "AIR_CUTTER", "GUST"],
+        "searchPriority": 2,
+        "buddyDistance": 1,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_PIDGEY",
+            "parent": "pidgeotto"
+        },
+        "level25CP": 1283,
+        "tags": ["shadoweligible"]
+    },
+
+novo "HEAT_WAVE"
+
+{
+        "dex": 18,
+        "speciesName": "Pidgeot (Mega)",
+        "speciesId": "pidgeot_mega",
+        "baseStats": {
+            "atk": 280,
+            "def": 175,
+            "hp": 195
+        },
+        "types": ["normal", "flying"],
+        "fastMoves": ["AIR_SLASH", "STEEL_WING", "WING_ATTACK", "GUST"],
+        "chargedMoves": ["AERIAL_ACE", "AIR_CUTTER", "BRAVE_BIRD", "HURRICANE", "FEATHER_DANCE", "HEAT_WAVE"],
+        "defaultIVs": {
+            "cp500": [5, 15, 15, 14],
+            "cp1500": [15, 4, 13, 12],
+            "cp2500": [25, 4, 13, 12]
+        },
+        "tags": ["mega"],
+        "eliteMoves": ["WING_ATTACK", "AIR_CUTTER", "GUST"],
+        "buddyDistance": 1,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_PIDGEY",
+            "parent": "pidgeotto"
+        }
+    },
+
+novo "HEAT_WAVE"
+
+{
+        "dex": 18,
+        "speciesName": "Pidgeot (Shadow)",
+        "speciesId": "pidgeot_shadow",
+        "baseStats": {
+            "atk": 166,
+            "def": 154,
+            "hp": 195
+        },
+        "types": ["normal", "flying"],
+        "fastMoves": ["AIR_SLASH", "STEEL_WING", "WING_ATTACK", "GUST"],
+        "chargedMoves": ["AERIAL_ACE", "AIR_CUTTER", "BRAVE_BIRD", "HURRICANE", "FEATHER_DANCE", "HEAT_WAVE"],
+        "defaultIVs": {
+            "cp500": [9, 4, 9, 14],
+            "cp1500": [26.5, 4, 14, 12],
+            "cp2500": [50, 15, 15, 15]
+        },
+        "eliteMoves": ["WING_ATTACK", "AIR_CUTTER", "GUST"],
+        "searchPriority": 2,
+        "buddyDistance": 1,
+        "thirdMoveCost": 10000,
+        "released": true,
+        "family": {
+            "id": "FAMILY_PIDGEY",
+            "parent": "pidgeotto_shadow"
+        },
+        "tags": ["shadow"]
+    },
+
+novo "HEAT_WAVE"
+
+
